@@ -1,0 +1,61 @@
+bioproject	n_runs	rna_status	countries	organisms	link	keep	reason
+PRJNA1003643	2438	RNA	China	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1003643		
+PRJEB19409	2244	unclear	Canada	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJEB19409		
+PRJNA688920	260	RNA	South Korea	Culex bitaeniorhynchus; Culex tritaeniorhynchus	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA688920		
+PRJNA605178	148	RNA	USA	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA605178		
+PRJNA852425	90	RNA	Finland	Ochlerotatus cantans; Ochlerotatus caspius; Ochlerotatus communis; Ochlerotatus diantaeus; Ochlerotatus excrucians; Ochlerotatus hexodontus; Ochlerotatus intrudens; Ochlerotatus pullatus; Ochlerotatus punctodes	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA852425		
+PRJNA642916	86	RNA	Australia	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA642916		
+PRJNA1157373	61	RNA	Mexico	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1157373		
+PRJNA911492	56	RNA	China	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA911492		
+PRJNA778885	48	RNA	China	Anopheles sinensis; Culex pipiens; Culex theileri; Culex tritaeniorhynchus	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA778885		
+PRJNA1274072	24	RNA	South Korea	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1274072		
+PRJNA847438	23	RNA	China	Aedes albopictus; Aedes vexans; Anopheles sinensis; Armigeres subalbatus; Culex pipiens; Culex quinquefasciatus; Culex tritaeniorhynchus	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA847438		
+PRJEB63303	20	RNA	Brazil	Aedes albopictus; Coquillettidia albicosta; Coquillettidia chrysonotum; Coquillettidia hermanoi; Coquillettidia venezuelensis; Limatus durhamii; Mansonia titillans; Mansonia wilsoni; Ochlerotatus scapularis; Psorophora ferox	https://www.ncbi.nlm.nih.gov/bioproject/PRJEB63303		
+PRJNA1077787	20	RNA	Australia	Aedes notoscriptus; Culex annulirostris; Culex orbostiensis; Culex sitiens; Ochlerotatus procax; Ochlerotatus vigilax; Verrallina funerea	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1077787		
+PRJNA1199888	20	RNA	Colombia	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1199888		
+PRJNA1135176	16	RNA	Canada	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1135176		
+PRJNA559742	16	RNA	Australia	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA559742		
+PRJNA838788	16	RNA	Sweden	Ochlerotatus communis	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA838788		
+PRJNA638077	15	unclear	Switzerland	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA638077		
+PRJNA1235869	14	RNA	Egypt	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1235869		
+PRJNA307706	12	RNA	Puerto Rico; USA	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA307706		
+PRJNA388696	12	RNA	Australia	Aedes alboannulatus; Culex australicus; Culex globocoxitus; Culex quinquefasciatus; Ochlerotatus camptorhynchus	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA388696		
+PRJNA516782	12	RNA	Sweden	Culex pipiens; Culex torrentium	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA516782		
+PRJNA689580	12	RNA	Trinidad and Tobago	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA689580		
+PRJNA1230858	11	RNA	Greenland	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1230858		
+PRJEB56379	10	unclear	France	Culex pipiens	https://www.ncbi.nlm.nih.gov/bioproject/PRJEB56379		
+PRJNA1004570	10	RNA	Madagascar	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1004570		
+PRJNA1266186	10	RNA	Brazil	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1266186		
+PRJNA1092627	9	RNA	Colombia	Anopheles darlingi	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1092627		
+PRJNA1059154	8	RNA	Australia	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1059154		
+PRJNA1200724	8	RNA	Democratic Republic of the Congo	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1200724		
+PRJNA1241118	8	RNA	France	Culex quinquefasciatus	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1241118		
+PRJNA547758	8	RNA	USA	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA547758		
+PRJNA1100900	7	RNA	Viet Nam	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1100900		
+PRJNA269777	7	RNA	USA	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA269777		
+PRJNA277466	6	RNA	Brazil	Aedes aegypti	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA277466		
+PRJNA320882	6	RNA	Brazil	Ochlerotatus fluviatilis	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA320882		
+PRJNA1126168	5	RNA	Brazil	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1126168		
+PRJNA781647	5	RNA	China	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA781647		
+PRJEB26028	4	unclear	France	Culex pipiens	https://www.ncbi.nlm.nih.gov/bioproject/PRJEB26028		
+PRJNA1260027	4	RNA	USA	Aedes aegypti	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1260027		
+PRJNA1267582	4	RNA	South Africa	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1267582		
+PRJNA287051	4	unclear	USA	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA287051		
+PRJNA1162936	3	RNA	China	Culex tritaeniorhynchus	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1162936		
+PRJNA1163432	3	RNA	China	Anopheles sinensis	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1163432		
+PRJNA1211099	3	RNA	Brazil	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1211099		
+PRJNA276135	2	RNA	Thailand	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA276135		
+PRJNA564787	2	RNA	Grenada	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA564787		
+PRJNA1158770	1	RNA	Brazil	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1158770		
+PRJNA1162562	1	RNA	China	Aedes albopictus	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1162562		
+PRJNA1162665	1	RNA	China	Aedes albopictus	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1162665		
+PRJNA1162937	1	RNA	China	Aedes albopictus	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1162937		
+PRJNA1227547	1	RNA	USA	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1227547		
+PRJNA338014	1	RNA	USA	Ochlerotatus dorsalis	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA338014		
+PRJNA386415	1	RNA	Australia	Aedes notoscriptus	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA386415		
+PRJNA399278	1	RNA	USA	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA399278		
+PRJNA427856	1	RNA	China	Culex pipiens pallens	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA427856		
+PRJNA432355	1	RNA	Liberia	Anopheles gambiae	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA432355		
+PRJNA594295	1	RNA	Australia	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA594295		
+PRJNA645199	1	RNA	Mexico	Aedes aegypti	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA645199		
+PRJNA659544	1	unclear	Brazil	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA659544		

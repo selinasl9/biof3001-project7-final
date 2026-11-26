@@ -1,0 +1,229 @@
+bioproject	n_runs	countries	organisms	librarysources	assay_types	platforms	link
+PRJNA1003643	2438	China	mosquito metagenome	METATRANSCRIPTOMIC	RNA-Seq	BGISEQ	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1003643
+PRJEB19409	2244	Canada	mosquito metagenome	METAGENOMIC	OTHER	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJEB19409
+PRJNA913104	474	Georgia	Aedes albopictus; Aedes geniculatus; Aedes vexans; Culex pipiens; Culex pusillus; Culex theileri; Culex tritaeniorhynchus; Culiseta longiareolata; Ochlerotatus caspius; Ochlerotatus surcoufi	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA913104
+PRJNA1113645	387	USA	Aedes aegypti	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1113645
+PRJNA523634	317	Panama	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA523634
+PRJNA767109	284	USA	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA767109
+PRJNA702783	276	USA	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA702783
+PRJNA688920	260	South Korea	Culex bitaeniorhynchus; Culex tritaeniorhynchus	METAGENOMIC	RNA-Seq	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA688920
+PRJNA1266722	248	USA	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1266722
+PRJNA1269049	248	USA	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1269049
+PRJNA1061157	227	USA	Culex pipiens; Culex restuans; Culex sp.	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1061157
+PRJNA494958	219	USA	Aedes aegypti	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA494958
+PRJNA1147458	216	Italy	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1147458
+PRJNA880624	197	Belgium	mosquito metagenome	METAGENOMIC	WGS	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA880624
+PRJEB28193	196	Lebanon	Aedes albopictus; Anopheles gambiae	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJEB28193
+PRJNA1225178	184	uncalculated	Aedes albopictus; Culex quinquefasciatus	METAGENOMIC; METATRANSCRIPTOMIC	RNA-Seq; WGS	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1225178
+PRJNA1134697	183	Brazil	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1134697
+PRJNA294068	171	Burkina Faso	mosquito metagenome	METAGENOMIC	WGS	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA294068
+PRJNA172065	168		mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA172065
+PRJNA1255103	161	Brazil	Culicidae	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1255103
+PRJNA819284	159	uncalculated	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA819284
+PRJNA943216	152	uncalculated	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA943216
+PRJNA541017	148	uncalculated	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA541017
+PRJNA605178	148	USA	mosquito metagenome	METATRANSCRIPTOMIC	RNA-Seq	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA605178
+PRJNA422599	130	USA	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA422599
+PRJNA857687	111	Brazil	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA857687
+PRJNA750810	99	USA	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA750810
+PRJEB67345	98	Brazil	Anopheles evansae; Culex aureonotatus; Culex bidens; Culex chidesteri; Culex coronator; Culex declarator; Culex habilitator; Culex imitator; Culex nigripalpus; Culex quinquefasciatus; Culex sp.; Mansonia titillans; Ochlerotatus scapularis	METAGENOMIC	AMPLICON	OXFORD_NANOPORE	https://www.ncbi.nlm.nih.gov/bioproject/PRJEB67345
+PRJNA1259006	96	Kenya	mosquito metagenome	METATRANSCRIPTOMIC	RNA-Seq	OXFORD_NANOPORE	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1259006
+PRJNA818006	96	USA	Anopheles crucians; Culex nigripalpus; Ochlerotatus taeniorhynchus	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA818006
+PRJNA951432	96	Brazil; uncalculated	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA951432
+PRJEB43216	95	Ethiopia	Anopheles arabiensis	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJEB43216
+PRJNA494695	95	Peru	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA494695
+PRJEB41605	93		Anopheles arabiensis; Anopheles coluzzii; Anopheles gambiae	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJEB41605
+PRJEB22905	92		mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJEB22905
+PRJNA1134634	92	Brazil	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1134634
+PRJNA852425	90	Finland	Ochlerotatus cantans; Ochlerotatus caspius; Ochlerotatus communis; Ochlerotatus diantaeus; Ochlerotatus excrucians; Ochlerotatus hexodontus; Ochlerotatus intrudens; Ochlerotatus pullatus; Ochlerotatus punctodes	METAGENOMIC	RNA-Seq	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA852425
+PRJNA767848	88	USA	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA767848
+PRJNA642916	86	Australia	mosquito metagenome	METATRANSCRIPTOMIC	RNA-Seq	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA642916
+PRJNA1065965	70	Singapore	mosquito metagenome	METAGENOMIC	WGS	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1065965
+PRJNA1233240	69	Netherlands	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1233240
+PRJNA1244360	68	Netherlands	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1244360
+PRJNA1054536	66	uncalculated	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1054536
+PRJNA1157373	61	Mexico	mosquito metagenome	METAGENOMIC	RNA-Seq	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1157373
+PRJNA288700	61	Papua New Guinea; uncalculated	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA288700
+PRJNA1069599	60	Greece; Italy; USA	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1069599
+PRJNA958386	60	Brazil	mosquito metagenome	METAGENOMIC	WGS	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA958386
+PRJNA958445	60	Brazil	mosquito metagenome	METAGENOMIC	WGS	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA958445
+PRJNA1089369	57	Cameroon; uncalculated	mosquito metagenome	METAGENOMIC	WGS	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1089369
+PRJNA911492	56	China	mosquito metagenome	METATRANSCRIPTOMIC	RNA-Seq	BGISEQ	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA911492
+PRJNA432427	54	China	mosquito metagenome	METAGENOMIC	AMPLICON	LS454	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA432427
+PRJEB16334	52		mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJEB16334
+PRJNA391715	52	USA	mosquito metagenome	METAGENOMIC	WXS	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA391715
+PRJNA989668	52	uncalculated	mosquito metagenome	METATRANSCRIPTOMIC	RNA-Seq	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA989668
+PRJNA416453	50	Kenya; Mali; Pakistan; South Africa; USA; Zimbabwe; uncalculated	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA416453
+PRJEB52785	48		Aedes albopictus	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJEB52785
+PRJNA778885	48	China	Anopheles sinensis; Culex pipiens; Culex theileri; Culex tritaeniorhynchus	METATRANSCRIPTOMIC	RNA-Seq	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA778885
+PRJEB87852	44	United Kingdom	Culex pipiens sensu lato; Culiseta annulata	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJEB87852
+PRJEB20080	42		Anopheles coluzzii	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJEB20080
+PRJEB6896	41	uncalculated	Aedes albopictus	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJEB6896
+PRJEB22597	40	USA	Ochlerotatus stimulans	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJEB22597
+PRJNA995341	40	Colombia	mosquito metagenome	METAGENOMIC	WGS	OXFORD_NANOPORE	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA995341
+PRJNA1045275	39	Ghana	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1045275
+PRJNA397763	39	uncalculated	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA397763
+PRJEB41602	37		Anopheles gambiae	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJEB41602
+PRJNA162515	37		Anopheles gambiae	METAGENOMIC	AMPLICON	LS454	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA162515
+PRJNA1301862	36	Burkina Faso	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1301862
+PRJNA790716	35	uncalculated	Aedes aegypti	METAGENOMIC	AMPLICON	ION_TORRENT	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA790716
+PRJNA265916	34	Burkina Faso	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA265916
+PRJEB30867	33	France	Anopheles stephensi	METAGENOMIC	AMPLICON; WGS	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJEB30867
+(none)	32	New Caledonia	Anopheles gambiae; mosquito metagenome	METAGENOMIC	AMPLICON; WGS	ILLUMINA; LS454	
+PRJEB63521	32	Italy	Anopheles gambiae; Anopheles stephensi	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJEB63521
+PRJNA606895	31	USA	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA606895
+PRJEB7708	30	United Kingdom	Anopheles coluzzii	METAGENOMIC	AMPLICON	LS454	https://www.ncbi.nlm.nih.gov/bioproject/PRJEB7708
+PRJNA1261872	30	Austria	mosquito metagenome	METAGENOMIC	Targeted-Capture; WGA	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1261872
+PRJNA414676	30	China	Aedes albopictus	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA414676
+PRJNA687827	30		Aedes albopictus	METAGENOMIC	AMPLICON	PACBIO_SMRT	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA687827
+PRJNA688783	30	China	mosquito metagenome	METAGENOMIC	AMPLICON	PACBIO_SMRT	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA688783
+PRJNA681030	27	Greece	Culicidae	METAGENOMIC	AMPLICON	ION_TORRENT	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA681030
+PRJNA1212576	24	uncalculated	mosquito metagenome	METAGENOMIC	OTHER	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1212576
+PRJNA1274072	24	South Korea	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1274072
+PRJNA844511	24	South Korea	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA844511
+PRJEB35268	23		Aedes aegypti	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJEB35268
+PRJNA847438	23	China	Aedes albopictus; Aedes vexans; Anopheles sinensis; Armigeres subalbatus; Culex pipiens; Culex quinquefasciatus; Culex tritaeniorhynchus	METATRANSCRIPTOMIC	RNA-Seq	BGISEQ	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA847438
+PRJNA660574	21	Spain	Anopheles atroparvus	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA660574
+PRJNA816704	21	India	mosquito metagenome	METAGENOMIC	WGS	OXFORD_NANOPORE	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA816704
+PRJNA847343	21	South Korea	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA847343
+PRJEB63303	20	Brazil	Aedes albopictus; Coquillettidia albicosta; Coquillettidia chrysonotum; Coquillettidia hermanoi; Coquillettidia venezuelensis; Limatus durhamii; Mansonia titillans; Mansonia wilsoni; Ochlerotatus scapularis; Psorophora ferox	METATRANSCRIPTOMIC	RNA-Seq	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJEB63303
+PRJNA1077787	20	Australia	Aedes notoscriptus; Culex annulirostris; Culex orbostiensis; Culex sitiens; Ochlerotatus procax; Ochlerotatus vigilax; Verrallina funerea	METATRANSCRIPTOMIC	RNA-Seq	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1077787
+PRJNA1181938	20	USA	mosquito metagenome	METAGENOMIC	AMPLICON; WGS	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1181938
+PRJNA1199888	20	Colombia	mosquito metagenome	METATRANSCRIPTOMIC	RNA-Seq	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1199888
+PRJNA701450	20	USA	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA701450
+PRJNA940698	20	China	mosquito metagenome	METAGENOMIC	WGS	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA940698
+PRJEB56870	19	Brazil	Anopheles darlingi	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJEB56870
+PRJNA1028981	19	Sao Tome and Principe; Spain	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1028981
+PRJNA1187880	19	China	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1187880
+PRJNA1194114	19	Colombia	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1194114
+PRJNA1182502	18	Thailand	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1182502
+PRJNA1312294	18	Thailand	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1312294
+PRJEB32570	17	Brazil	Anopheles braziliensis; Anopheles darlingi	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJEB32570
+PRJNA560667	17	Taiwan	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA560667
+PRJEB24029	16		mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJEB24029
+PRJNA1135176	16	Canada	mosquito metagenome	METAGENOMIC	RNA-Seq	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1135176
+PRJNA559742	16	Australia	mosquito metagenome	METATRANSCRIPTOMIC	RNA-Seq	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA559742
+PRJNA625381	16	Russia	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA625381
+PRJNA673771	16	Italy	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA673771
+PRJNA838788	16	Sweden	Ochlerotatus communis	METATRANSCRIPTOMIC	RNA-Seq	BGISEQ	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA838788
+PRJNA1050134	15	South Korea	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1050134
+PRJNA1185382	15	Colombia	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1185382
+PRJNA638077	15	Switzerland	mosquito metagenome	METAGENOMIC	OTHER	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA638077
+PRJNA986331	15	Colombia	mosquito metagenome	METAGENOMIC	RNA-Seq	OXFORD_NANOPORE	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA986331
+PRJEB46491	14		Anopheles coluzzii	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJEB46491
+PRJNA1043583	14	Thailand	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1043583
+PRJNA1235869	14	Egypt	mosquito metagenome	METATRANSCRIPTOMIC	RNA-Seq	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1235869
+PRJNA836318	14	Mexico	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA836318
+PRJEB45268	12	French Guiana	Aedes aegypti	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJEB45268
+PRJNA1129287	12	China	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1129287
+PRJNA307706	12	Puerto Rico; USA	mosquito metagenome	METAGENOMIC	RNA-Seq	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA307706
+PRJNA388696	12	Australia	Aedes alboannulatus; Culex australicus; Culex globocoxitus; Culex quinquefasciatus; Ochlerotatus camptorhynchus	METATRANSCRIPTOMIC	RNA-Seq	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA388696
+PRJNA516782	12	Sweden	Culex pipiens; Culex torrentium	METATRANSCRIPTOMIC	RNA-Seq	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA516782
+PRJNA574583	12	Sweden	mosquito metagenome	METAGENOMIC	OTHER	ION_TORRENT	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA574583
+PRJNA675318	12	China	Culex pipiens pallens	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA675318
+PRJNA689580	12	Trinidad and Tobago	mosquito metagenome	METATRANSCRIPTOMIC	RNA-Seq	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA689580
+PRJNA755849	12	uncalculated	Aedes albopictus	METAGENOMIC	RNA-Seq	PACBIO_SMRT	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA755849
+PRJNA1230858	11	Greenland	mosquito metagenome	METAGENOMIC	WGS	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1230858
+PRJEB56379	10	France	Culex pipiens	METAGENOMIC	OTHER	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJEB56379
+PRJNA1004570	10	Madagascar	mosquito metagenome	METAGENOMIC	RNA-Seq	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1004570
+PRJNA1266186	10	Brazil	mosquito metagenome	METAGENOMIC	RNA-Seq	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1266186
+PRJNA1369453	10	India	mosquito metagenome	METAGENOMIC	WGS	OXFORD_NANOPORE	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1369453
+PRJNA371598	10	China	mosquito metagenome	METAGENOMIC	CLONE	ILLUMINA; LS454	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA371598
+PRJEB41990	9		Aedes vexans	METAGENOMIC	OTHER	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJEB41990
+PRJNA1060869	9	India	mosquito metagenome	METAGENOMIC	AMPLICON	OXFORD_NANOPORE	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1060869
+PRJNA1085973	9	France	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1085973
+PRJNA1092627	9	Colombia	Anopheles darlingi	METATRANSCRIPTOMIC	RNA-Seq	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1092627
+PRJNA1182045	9	India	mosquito metagenome	METAGENOMIC	OTHER	OXFORD_NANOPORE	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1182045
+PRJNA1200724	9	Democratic Republic of the Congo; uncalculated	mosquito metagenome	METAGENOMIC	RNA-Seq	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1200724
+PRJNA758176	9	China	mosquito metagenome	METAGENOMIC	WGS	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA758176
+PRJNA810512	9	China	mosquito metagenome	METAGENOMIC	WXS	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA810512
+PRJEB29993	8		mosquito metagenome	METATRANSCRIPTOMIC	RNA-Seq	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJEB29993
+PRJEB41600	8		Anopheles coluzzii	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJEB41600
+PRJNA1059154	8	Australia	mosquito metagenome	METATRANSCRIPTOMIC	RNA-Seq	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1059154
+PRJNA1171030	8	Colombia	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1171030
+PRJNA1241118	8	France	Culex quinquefasciatus	METAGENOMIC	RNA-Seq	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1241118
+PRJNA229847	8	Cameroon	Anopheles gambiae	METAGENOMIC	AMPLICON	LS454	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA229847
+PRJNA547758	8	USA	mosquito metagenome	METATRANSCRIPTOMIC	RNA-Seq	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA547758
+PRJNA850617	8	uncalculated	mosquito metagenome	METAGENOMIC	AMPLICON	PACBIO_SMRT	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA850617
+PRJNA925532	8	Argentina	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA925532
+PRJNA1100900	7	Viet Nam	mosquito metagenome	METAGENOMIC	RNA-Seq	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1100900
+PRJNA269777	7	USA	mosquito metagenome	METATRANSCRIPTOMIC	RNA-Seq	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA269777
+PRJNA828597	7	Argentina	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA828597
+PRJNA925520	7	Argentina	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA925520
+PRJNA1248132	6	Indonesia	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1248132
+PRJNA277466	6	Brazil	Aedes aegypti	METATRANSCRIPTOMIC	RNA-Seq	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA277466
+PRJNA320882	6	Brazil	Ochlerotatus fluviatilis	METATRANSCRIPTOMIC	RNA-Seq	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA320882
+PRJNA756868	6	uncalculated	Aedes albopictus	METAGENOMIC	RNA-Seq	PACBIO_SMRT	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA756868
+PRJNA961655	6	Brazil	Toxorhynchites theobaldi	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA961655
+PRJNA1126168	5	Brazil	mosquito metagenome	METAGENOMIC	RNA-Seq	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1126168
+PRJNA1199354	5	uncalculated	mosquito metagenome	METAGENOMIC	AMPLICON	OXFORD_NANOPORE	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1199354
+PRJNA399278	5	USA	mosquito metagenome	METATRANSCRIPTOMIC	OTHER	ILLUMINA; OXFORD_NANOPORE	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA399278
+PRJNA675022	5		Culex tarsalis	METATRANSCRIPTOMIC	RNA-Seq	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA675022
+PRJNA781647	5	China	mosquito metagenome	METATRANSCRIPTOMIC	RNA-Seq	DNBSEQ	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA781647
+PRJEB26028	4	France	Culex pipiens	METAGENOMIC	OTHER	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJEB26028
+PRJEB94052	4	France	mosquito metagenome	METAGENOMIC	WGS	ILLUMINA; OXFORD_NANOPORE	https://www.ncbi.nlm.nih.gov/bioproject/PRJEB94052
+PRJNA1260027	4	USA	Aedes aegypti	METATRANSCRIPTOMIC	RNA-Seq	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1260027
+PRJNA1267582	4	South Africa	mosquito metagenome	METAGENOMIC	RNA-Seq	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1267582
+PRJNA287051	4	USA	mosquito metagenome	METAGENOMIC	OTHER	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA287051
+PRJNA821019	4	Cameroon	Anopheles coluzzii; Anopheles gambiae	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA821019
+PRJNA923666	4	Brazil	mosquito metagenome	METAGENOMIC	WGS	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA923666
+PRJNA1162936	3	China	Culex tritaeniorhynchus	METATRANSCRIPTOMIC	RNA-Seq	BGISEQ	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1162936
+PRJNA1163432	3	China	Anopheles sinensis	METATRANSCRIPTOMIC	RNA-Seq	BGISEQ	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1163432
+PRJNA1211099	3	Brazil	mosquito metagenome	METATRANSCRIPTOMIC	RNA-Seq	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1211099
+PRJNA1394322	3	India	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1394322
+PRJNA234011	3	USA	mosquito metagenome	METAGENOMIC	AMPLICON	LS454	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA234011
+PRJNA342829	3	USA	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA342829
+PRJNA551765	3	USA	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA551765
+PRJNA642229	3	China	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA642229
+PRJNA744382	3	uncalculated	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA744382
+PRJNA750268	3	uncalculated	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA750268
+PRJEB101805	2	Cameroon	Aedes sp. BOLD:ABY6840	METAGENOMIC	WGS	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJEB101805
+PRJEB41535	2		Coquillettidia hermanoi; Mansonia wilsoni	METATRANSCRIPTOMIC	RNA-Seq	ION_TORRENT	https://www.ncbi.nlm.nih.gov/bioproject/PRJEB41535
+PRJEB45737	2		Aedes japonicus	METAGENOMIC	WGS	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJEB45737
+PRJNA1062148	2	India	Anopheles subpictus; Anopheles vagus	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1062148
+PRJNA1201203	2	USA	Culicidae sp.	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1201203
+PRJNA1335584	2	China	mosquito metagenome	METAGENOMIC	WGS	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1335584
+PRJNA226252	2	India	mosquito metagenome	METAGENOMIC	AMPLICON	LS454	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA226252
+PRJNA244534	2	Burkina Faso	mosquito metagenome	METAGENOMIC	WGS	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA244534
+PRJNA276135	2	Thailand	mosquito metagenome	METATRANSCRIPTOMIC	RNA-Seq	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA276135
+PRJNA386415	2	Australia	Aedes notoscriptus	METAGENOMIC	RNA-Seq	ILLUMINA; OXFORD_NANOPORE	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA386415
+PRJNA388280	2	uncalculated	mosquito metagenome	METAGENOMIC	WGS	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA388280
+PRJNA432355	2	Liberia	Anopheles gambiae	METAGENOMIC	RNA-Seq; WGS	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA432355
+PRJNA564787	2	Grenada	mosquito metagenome	METATRANSCRIPTOMIC	RNA-Seq	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA564787
+PRJNA1158770	1	Brazil	mosquito metagenome	METAGENOMIC	WGS	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1158770
+PRJNA1162562	1	China	Aedes albopictus	METATRANSCRIPTOMIC	RNA-Seq	BGISEQ	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1162562
+PRJNA1162665	1	China	Aedes albopictus	METATRANSCRIPTOMIC	RNA-Seq	BGISEQ	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1162665
+PRJNA1162937	1	China	Aedes albopictus	METATRANSCRIPTOMIC	RNA-Seq	BGISEQ	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1162937
+PRJNA1227547	1	USA	mosquito metagenome	METAGENOMIC	RNA-Seq	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1227547
+PRJNA240138	1	Thailand	Anopheles minimus	METAGENOMIC	AMPLICON	LS454	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA240138
+PRJNA305312	1	USA	mosquito metagenome	METAGENOMIC	AMPLICON	LS454	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA305312
+PRJNA315180	1	Burkina Faso	mosquito metagenome	METAGENOMIC	WGS	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA315180
+PRJNA338014	1	USA	Ochlerotatus dorsalis	METAGENOMIC	RNA-Seq	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA338014
+PRJNA36581	1		mosquito metagenome	METAGENOMIC	WGS	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA36581
+PRJNA379516	1		Anopheles stephensi	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA379516
+PRJNA405142	1	USA	mosquito metagenome	METAGENOMIC	WGS	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA405142
+PRJNA405143	1	USA	mosquito metagenome	METAGENOMIC	WGS	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA405143
+PRJNA405144	1	USA	mosquito metagenome	METAGENOMIC	WGS	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA405144
+PRJNA405145	1	USA	mosquito metagenome	METAGENOMIC	WGS	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA405145
+PRJNA405146	1	USA	mosquito metagenome	METAGENOMIC	WGS	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA405146
+PRJNA405147	1	USA	mosquito metagenome	METAGENOMIC	WGS	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA405147
+PRJNA405148	1	USA	mosquito metagenome	METAGENOMIC	WGS	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA405148
+PRJNA405149	1	USA	mosquito metagenome	METAGENOMIC	WGS	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA405149
+PRJNA405150	1	USA	mosquito metagenome	METAGENOMIC	WGS	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA405150
+PRJNA405151	1	USA	mosquito metagenome	METAGENOMIC	WGS	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA405151
+PRJNA405152	1	USA	mosquito metagenome	METAGENOMIC	WGS	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA405152
+PRJNA405153	1	USA	mosquito metagenome	METAGENOMIC	WGS	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA405153
+PRJNA427856	1	China	Culex pipiens pallens	METAGENOMIC	RNA-Seq	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA427856
+PRJNA505946	1	India	Anopheles stephensi	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA505946
+PRJNA507513	1	India	Anopheles stephensi	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA507513
+PRJNA594295	1	Australia	mosquito metagenome	METATRANSCRIPTOMIC	RNA-Seq	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA594295
+PRJNA606535	1	USA	Aedes aegypti	METAGENOMIC	WGS	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA606535
+PRJNA627504	1	Brazil	mosquito metagenome	METATRANSCRIPTOMIC	RNA-Seq	ION_TORRENT	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA627504
+PRJNA645199	1	Mexico	Aedes aegypti	METAGENOMIC	RNA-Seq	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA645199
+PRJNA656692	1	India	Anopheles culicifacies	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA656692
+PRJNA657028	1	India	Anopheles culicifacies	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA657028
+PRJNA659544	1	Brazil	mosquito metagenome	METAGENOMIC	OTHER	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA659544
+PRJNA715330	1	Russia	mosquito metagenome	METAGENOMIC	WGS	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA715330
+PRJNA750523	1	uncalculated	mosquito metagenome	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA750523
+PRJNA773859	1		mosquito metagenome	METAGENOMIC	WGS	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA773859
+PRJNA833726	1	Cameroon	Anopheles gambiae	METAGENOMIC	AMPLICON	ILLUMINA	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA833726
