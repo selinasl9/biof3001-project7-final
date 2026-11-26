@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 # BIOF3001 Project 7 — Mosquito RNA Virome
 # Script: run_host_blastn.sh
-# Responsible contributor: [Confirm name before submission]
 #
 # Objective:
 #   Align candidate nucleotide contigs from each DIAMOND filtering branch
