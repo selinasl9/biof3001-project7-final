@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # BIOF3001 Project 7 — Mosquito RNA Virome
 # Script: run_diamond_all.sh
-# Responsible contributor: [confirm name]
+
 # Objective: Search assembled Logan contigs against an arbovirus protein
 #            reference database using DIAMOND BLASTx, one run at a time.
 # Input: results/viral_identification/diamond_available_runs.txt; data/raw/logan_contigs/<run>.contigs.fa
