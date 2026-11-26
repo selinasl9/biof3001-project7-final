@@ -25,7 +25,7 @@ Usage
 python scripts/viral_identification/china_supplement/clean_CN_PRJNA1003643_host_hits.py
 
 Dependencies: Python 3, pandas.
-Responsible contributor: [Confirm before submission]
+
 
 Identification convention:
 The extraction step uses FASTA identifiers sample|qseqid. Using this
