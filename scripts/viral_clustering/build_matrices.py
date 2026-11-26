@@ -20,6 +20,8 @@ import re
 from pathlib import Path
 import pandas as pd
 
+# STEP 1 — Identify both host-cleaned metadata tables; all strict-positive SRRs
+# contribute to country prevalence denominators, even if a retained cluster is absent.
 META_DEFAULTS = [
     'results/viral_identification/host_filter/strict_host_cleaned_hits.tsv',
     'results/viral_identification/PRJNA1003643/host_filter/CN_PRJNA1003643_strict_host_cleaned_hits.tsv',
@@ -28,6 +30,7 @@ CONDITIONS = [f'{i}_{s}' for i in (90, 70)
               for s in ('identity', 'aS60', 'aL60', 'aS60_aL60')]
 
 
+# STEP 2 — Load run, country and contig labels, rejecting missing or conflicting IDs.
 def load_metadata(paths):
     frames=[]
     for p in paths:
@@ -46,6 +49,7 @@ def load_metadata(paths):
     return meta.drop_duplicates('qseqid')
 
 
+# STEP 3 — Parse CD-HIT .clstr memberships, lengths and representative markers.
 def parse_clstr(path):
     rows=[]; cid=None
     with open(path,encoding='utf-8') as handle:
@@ -66,6 +70,7 @@ def parse_clstr(path):
     return df
 
 
+# STEP 4 — Locate the correct .clstr or .uc file for each identity/coverage condition.
 def condition_file(args,condition):
     id_str, setting=condition.split('_',1)
     suffix='' if setting=='identity' else '_'+setting
@@ -76,6 +81,7 @@ def condition_file(args,condition):
     raise ValueError(f'Unknown identity: {id_str}')
 
 
+# STEP 5 — Interpret VSEARCH seed (S) and hit (H) records as cluster members.
 def parse_uc(path):
     # VSEARCH UC: S=seed/centroid, H=hit, C=summary (omit).
     rows=[]
@@ -102,11 +108,14 @@ def save(frame, path):
     frame.to_csv(path,sep='\t',index=False,float_format='%.8f')
 
 
+# STEP 6 — Join clustering IDs to strict-positive SRR metadata for one condition.
 def run_one(condition,meta,args):
     source=condition_file(args,condition)
     if not source.is_file(): raise FileNotFoundError(source)
     members=parse_clstr(source) if source.suffix=='.clstr' else parse_uc(source)
     # Reverse-complemented contigs in original project use _rev suffix.
+# STEP 7 — Remove the optional reverse-complement suffix solely for matching
+# identifiers to metadata; the original clustering identifiers remain available.
     members['metadata_qseqid']=members.qseqid.str.replace(r'_rev$','',regex=True)
     if members.metadata_qseqid.duplicated().any():
         raise ValueError(f'{condition}: metadata IDs duplicated after removal of _rev')
@@ -116,12 +125,15 @@ def run_one(condition,meta,args):
         raise ValueError(f'{condition}: missing metadata for {missing}')
     if set(members.metadata_qseqid)!=set(meta.qseqid):
         raise ValueError(f'{condition}: .clstr member IDs do not exactly match metadata IDs')
+# STEP 8 — Retain clusters whose REPRESENTATIVE is at least min_rep_nt long.
+# Short members of a retained cluster are deliberately kept.
     reps=members.loc[members.representative,['cluster','length_nt']].set_index('cluster').length_nt
     eligible=reps[reps>=args.min_rep_nt].index
     members=members[members.cluster.isin(eligible)].copy()
     if members.empty: raise ValueError(f'{condition}: no clusters with qualifying representative length')
     # Denominator: every strict-positive SRR, including runs with no retained clusters.
     runs=meta[['sample','country']].drop_duplicates().sort_values(['country','sample'])
+# STEP 9 — Convert multiple contigs per SRR/cluster into a single binary detection.
     incid=members[['sample','cluster']].drop_duplicates().assign(present=1)
     wide=incid.pivot(index='sample',columns='cluster',values='present').fillna(0).astype('uint8')
     allcols=sorted(wide.columns,key=lambda x:int(x.split('_')[1]))
@@ -132,6 +144,8 @@ def run_one(condition,meta,args):
     prefix=Path(args.out_dir)/condition
     save(mat,prefix.with_name(prefix.name+'_run_with_singletons.tsv'))
     save(mat[['sample','country']+no_singletons],prefix.with_name(prefix.name+'_run_without_singletons.tsv'))
+# STEP 10 — Average 0/1 detections by country to obtain detection prevalence
+# among all strict-positive SRRs (rather than only informative runs).
     def country_matrix(cols):
         return mat.groupby('country',sort=True).agg(n_samples=('sample','nunique')).join(
             mat.groupby('country',sort=True)[cols].mean()).reset_index()
