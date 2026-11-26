@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # BIOF3001 Project 7 — China PRJNA1003643 host BLASTN screening
-# Responsible contributor: [Confirm before submission]
+
 #
 # Objective:
 # Compare the union of China candidate viral contigs against a Culicidae
