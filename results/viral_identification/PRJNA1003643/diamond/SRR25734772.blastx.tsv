@@ -1,0 +1,6 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25734772_20883	YP_009552278.1	56.1	57	177	3432	7	177	3168	3224	2.56e-17	69.3	96.6	1.7	1254420	Nanay virus	YP_009552278.1 polyprotein [Nanay virus]
+SRR25734772_20883	YP_950477.1	56.6	53	177	3411	19	177	3155	3207	6.52e-17	68.2	89.8	1.6	64283	Entebbe bat virus	YP_950477.1 polyprotein [Entebbe bat virus]
+SRR25734772_20883	YP_009001464.1	53.6	56	177	3422	10	177	3161	3216	6.52e-17	68.2	94.9	1.6	40004	Tyuleniy virus	YP_009001464.1 polyprotein [Tyuleniy virus]
+SRR25734772_20883	YP_001040004.1	53.4	58	177	3429	1	174	3168	3225	1.67e-16	67.0	98.3	1.7	64303	Aroa virus	YP_001040004.1 flavivirus polyprotein [Aroa virus]
+SRR25734772_20883	YP_009305401.1	55.4	56	177	892	10	177	630	685	5.76e-16	65.5	94.9	6.3	1903340	Anopheles flavivirus variant 1	YP_009305401.1 NS5 [Anopheles flavivirus variant 1]

@@ -1,0 +1,8 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25735191_27882	NP_891560.1	64.7	34	151	3357	13	114	2011	2044	5.19e-13	56.6	67.5	1.0	218849	Kamiti River virus	NP_891560.1 flavivirus polyprotein [Kamiti River virus]
+SRR25735191_27882	YP_009259297.1	58.8	34	151	587	13	114	547	580	7.05e-13	56.2	67.5	5.8	31658	Cell fusing agent virus	YP_009259297.1 NS3 [Cell fusing agent virus]
+SRR25735191_27882	YP_009259257.1	58.8	34	151	3341	13	114	1998	2031	7.09e-13	56.2	67.5	1.0	31658	Cell fusing agent virus	YP_009259257.1 polyprotein [Cell fusing agent virus]
+SRR25735191_27882	NP_937777.1	67.7	31	151	577	13	105	547	577	8.64e-12	53.1	61.6	5.4	218849	Kamiti River virus	NP_937777.1 NS3 protein [Kamiti River virus]
+SRR25735191_27882	YP_003029843.1	44.0	50	151	3341	13	141	1998	2047	1.19e-11	52.8	85.4	1.5	390845	Aedes flavivirus	YP_003029843.1 flavivirus polyprotein [Aedes flavivirus]
+SRR25735191_31659	YP_006846328.2	28.0	118	404	3427	14	352	1682	1788	1.13e-06	42.4	83.9	3.1	64292	Ntaya virus	YP_006846328.2 flavivirus polyprotein [Ntaya virus]
+SRR25735191_31659	YP_002790883.1	27.1	118	404	3426	14	352	1682	1788	5.25e-06	40.4	83.9	3.1	64290	Bagaza virus	YP_002790883.1 polyprotein [Bagaza virus]

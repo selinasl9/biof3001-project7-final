@@ -1,0 +1,7 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25619390_17369	YP_009179404.1	35.1	77	710	797	427	657	617	691	1.44e-07	47.4	32.5	9.4	1746071	Wuhan flea virus	YP_009179404.1 NS3-like protein [Wuhan flea virus]
+SRR25619390_20168	NP_937777.1	69.3	88	281	577	265	2	393	480	2.44e-39	132	94.0	15.3	218849	Kamiti River virus	NP_937777.1 NS3 protein [Kamiti River virus]
+SRR25619390_20168	YP_009259327.1	69.3	88	281	587	265	2	393	480	2.61e-39	132	94.0	15.0	390845	Aedes flavivirus	YP_009259327.1 nonstructural protein NS3 [Aedes flavivirus]
+SRR25619390_20168	YP_003029843.1	69.3	88	281	3341	265	2	1844	1931	5.32e-39	132	94.0	2.6	390845	Aedes flavivirus	YP_003029843.1 flavivirus polyprotein [Aedes flavivirus]
+SRR25619390_20168	NP_891560.1	69.3	88	281	3357	265	2	1857	1944	5.32e-39	132	94.0	2.6	218849	Kamiti River virus	NP_891560.1 flavivirus polyprotein [Kamiti River virus]
+SRR25619390_20168	YP_009259297.1	66.3	86	281	587	259	2	395	480	2.50e-38	130	91.8	14.7	31658	Cell fusing agent virus	YP_009259297.1 NS3 [Cell fusing agent virus]

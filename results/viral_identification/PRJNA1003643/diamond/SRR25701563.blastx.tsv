@@ -1,0 +1,4 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25701563_9930	YP_009551951.1	35.1	57	248	3483	196	26	1413	1469	6.78e-06	38.1	69.0	1.6	2050971	Lumpfish flavivirus	YP_009551951.1 polyprotein [Lumpfish flavivirus]
+SRR25701563_34499	YP_009389245.1	59.6	52	157	597	153	1	356	405	5.00e-09	45.4	97.5	8.4	1969397	Karumba virus	YP_009389245.1 NS3 [Karumba virus]
+SRR25701563_34499	YP_009388577.1	59.6	52	157	3342	153	1	1785	1834	5.05e-09	45.4	97.5	1.5	1969397	Karumba virus	YP_009388577.1 polyprotein [Karumba virus]

@@ -1,0 +1,23 @@
+	Command being timed: "diamond blastx --query results/logan_missing/assembly/SRR16905252.contigs.fa --db reference/arbo_tax.dmnd --out results/logan_missing/diamond/SRR16905252.blastx.tsv.tmp --threads 16 --sensitive --evalue 1e-5 --max-target-seqs 5 --header simple --outfmt 6 qseqid sseqid pident length qlen slen qstart qend sstart send evalue bitscore qcovhsp scovhsp staxids sscinames stitle --quiet"
+	User time (seconds): 990.63
+	System time (seconds): 12.83
+	Percent of CPU this job got: 1284%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:18.14
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1812904
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 7
+	Minor (reclaiming a frame) page faults: 383523
+	Voluntary context switches: 597354
+	Involuntary context switches: 4132
+	Swaps: 0
+	File system inputs: 184664
+	File system outputs: 2768
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

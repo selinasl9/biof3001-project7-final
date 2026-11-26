@@ -1,0 +1,13 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25701964_1457	YP_009305402.1	49.3	67	1125	597	22	222	398	462	2.18e-06	45.1	17.9	10.9	1903340	Anopheles flavivirus variant 1	YP_009305402.1 NS3 [Anopheles flavivirus variant 1]
+SRR25701964_1457	YP_009305197.1	49.3	67	1125	3341	22	222	1827	1891	2.81e-06	45.1	17.9	1.9	1903340	Anopheles flavivirus variant 1	YP_009305197.1 polyprotein [Anopheles flavivirus variant 1]
+SRR25701964_10308	NP_891560.1	60.6	33	184	3357	99	1	2012	2044	7.56e-12	53.9	53.8	1.0	218849	Kamiti River virus	NP_891560.1 flavivirus polyprotein [Kamiti River virus]
+SRR25701964_10308	YP_009259297.1	54.5	33	184	587	99	1	548	580	1.90e-11	52.8	53.8	5.6	31658	Cell fusing agent virus	YP_009259297.1 NS3 [Cell fusing agent virus]
+SRR25701964_10308	YP_009259257.1	54.5	33	184	3341	99	1	1999	2031	1.93e-11	52.8	53.8	1.0	31658	Cell fusing agent virus	YP_009259257.1 polyprotein [Cell fusing agent virus]
+SRR25701964_10308	NP_937777.1	63.3	30	184	577	99	10	548	577	9.08e-11	50.8	48.9	5.2	218849	Kamiti River virus	NP_937777.1 NS3 protein [Kamiti River virus]
+SRR25701964_10308	YP_009259327.1	48.5	33	184	587	99	1	548	580	4.36e-10	48.9	53.8	5.6	390845	Aedes flavivirus	YP_009259327.1 nonstructural protein NS3 [Aedes flavivirus]
+SRR25701964_25400	NP_937777.1	68.6	51	339	577	181	333	449	499	2.81e-21	83.2	45.1	8.8	218849	Kamiti River virus	NP_937777.1 NS3 protein [Kamiti River virus]
+SRR25701964_25400	NP_891560.1	68.6	51	339	3357	181	333	1913	1963	3.08e-21	83.2	45.1	1.5	218849	Kamiti River virus	NP_891560.1 flavivirus polyprotein [Kamiti River virus]
+SRR25701964_25400	YP_009259297.1	60.8	51	339	587	181	333	449	499	8.63e-20	79.0	45.1	8.7	31658	Cell fusing agent virus	YP_009259297.1 NS3 [Cell fusing agent virus]
+SRR25701964_25400	YP_009259257.1	60.8	51	339	3341	181	333	1900	1950	9.41e-20	79.0	45.1	1.5	31658	Cell fusing agent virus	YP_009259257.1 polyprotein [Cell fusing agent virus]
+SRR25701964_25400	YP_009259327.1	63.0	46	339	587	196	333	454	499	2.19e-19	77.8	40.7	7.8	390845	Aedes flavivirus	YP_009259327.1 nonstructural protein NS3 [Aedes flavivirus]

@@ -1,0 +1,10 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25701276_4138	YP_006846328.2	28.0	118	941	3427	84	422	1682	1788	7.94e-06	43.1	36.0	3.1	64292	Ntaya virus	YP_006846328.2 flavivirus polyprotein [Ntaya virus]
+SRR25701276_8597	YP_009305402.1	43.5	85	1270	597	1170	916	382	462	6.65e-07	47.0	20.1	13.6	1903340	Anopheles flavivirus variant 1	YP_009305402.1 NS3 [Anopheles flavivirus variant 1]
+SRR25701276_8597	YP_009305197.1	43.5	85	1270	3341	1170	916	1811	1891	8.76e-07	47.0	20.1	2.4	1903340	Anopheles flavivirus variant 1	YP_009305197.1 polyprotein [Anopheles flavivirus variant 1]
+SRR25701276_8597	YP_009389245.1	40.0	85	1270	597	1170	916	382	462	8.14e-06	43.5	20.1	13.6	1969397	Karumba virus	YP_009389245.1 NS3 [Karumba virus]
+SRR25701276_37531	YP_009259365.1	66.7	24	176	889	6	77	493	516	3.52e-06	37.7	40.9	2.7	643132	Quang Binh virus	YP_009259365.1 RNA-dependent RNA polymerase NS5 [Quang Binh virus]
+SRR25701276_37531	YP_002884239.1	66.7	24	176	3359	6	77	2963	2986	3.57e-06	37.7	40.9	0.7	643132	Quang Binh virus	YP_002884239.1 flavivirus polyprotein [Quang Binh virus]
+SRR25701276_37531	YP_007877501.1	66.7	24	176	3359	6	77	2963	2986	3.57e-06	37.7	40.9	0.7	673515	Mosquito flavivirus	YP_007877501.1 polyprotein [Mosquito flavivirus]
+SRR25701276_37531	YP_009553010.1	66.7	24	176	3274	6	77	2878	2901	4.89e-06	37.4	40.9	0.7	1244563	Culex theileri flavivirus	YP_009553010.1 polyprotein [Culex theileri flavivirus]
+SRR25701276_37531	YP_009259301.1	60.0	25	176	888	3	77	492	516	6.62e-06	37.0	42.6	2.8	31658	Cell fusing agent virus	YP_009259301.1 NS5 [Cell fusing agent virus]

@@ -1,0 +1,2 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25734703_31304	YP_009256193.1	36.0	50	263	3396	155	6	1772	1821	4.34e-06	38.9	57.0	1.5	1821222	Culiseta flavivirus	YP_009256193.1 polyprotein [Culiseta flavivirus]

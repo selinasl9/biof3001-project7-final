@@ -1,0 +1,11 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25735310_22962	YP_009305402.1	49.3	67	303	597	231	31	398	462	2.39e-08	45.8	66.3	10.9	1903340	Anopheles flavivirus variant 1	YP_009305402.1 NS3 [Anopheles flavivirus variant 1]
+SRR25735310_22962	YP_009305197.1	49.3	67	303	3341	231	31	1827	1891	2.56e-08	45.8	66.3	1.9	1903340	Anopheles flavivirus variant 1	YP_009305197.1 polyprotein [Anopheles flavivirus variant 1]
+SRR25735310_22962	YP_009389245.1	46.2	65	303	597	225	31	400	462	2.90e-07	42.7	64.4	10.6	1969397	Karumba virus	YP_009389245.1 NS3 [Karumba virus]
+SRR25735310_22962	YP_009388577.1	46.2	65	303	3342	225	31	1829	1891	3.10e-07	42.7	64.4	1.9	1969397	Karumba virus	YP_009388577.1 polyprotein [Karumba virus]
+SRR25735310_22962	YP_009389296.1	49.2	65	303	3341	225	31	1828	1890	4.23e-07	42.4	64.4	1.9	1969400	Mac Peak virus	YP_009389296.1 polyprotein [Mac Peak virus]
+SRR25735310_76854	YP_009350102.1	85.9	85	283	3414	283	29	3027	3111	1.13e-46	154	90.1	2.5	1821227	Xishuangbanna aedes flavivirus	YP_009350102.1 polyprotein [Xishuangbanna aedes flavivirus]
+SRR25735310_76854	YP_009351861.1	83.5	85	283	3416	283	29	3029	3113	7.31e-46	152	90.1	2.5	1963247	Menghai flavivirus	YP_009351861.1 polyprotein [Menghai flavivirus]
+SRR25735310_76854	YP_009259272.1	72.9	85	283	890	283	29	501	585	6.08e-40	135	90.1	9.6	1708654	Parramatta River virus	YP_009259272.1 RNA-dependent RNA polymerase [Parramatta River virus]
+SRR25735310_76854	YP_009164029.1	72.9	85	283	3384	283	29	2995	3079	6.30e-40	135	90.1	2.5	1708654	Parramatta River virus	YP_009164029.1 flavivirus polyprotein [Parramatta River virus]
+SRR25735310_76854	YP_009256193.1	68.2	85	283	3396	283	29	3009	3093	1.69e-37	128	90.1	2.5	1821222	Culiseta flavivirus	YP_009256193.1 polyprotein [Culiseta flavivirus]

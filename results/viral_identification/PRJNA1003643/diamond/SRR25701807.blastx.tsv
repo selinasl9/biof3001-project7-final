@@ -1,0 +1,4 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25701807_8568	YP_009175071.1	37.3	67	217	7333	42	215	4351	4414	8.40e-06	37.4	80.2	0.9	1685953	Macrosiphum euphorbiae virus 1	YP_009175071.1 polyprotein [Macrosiphum euphorbiae virus 1]
+SRR25701807_61560	YP_009344961.1	40.8	49	269	3390	34	180	2547	2595	1.33e-06	40.4	54.6	1.4	64295	Bouboui virus	YP_009344961.1 polyprotein [Bouboui virus]
+SRR25701807_61560	YP_009344967.1	40.0	55	269	3390	34	198	2546	2600	6.37e-06	38.5	61.3	1.6	64284	Saboya virus	YP_009344967.1 polyprotein [Saboya virus]

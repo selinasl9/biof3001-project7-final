@@ -1,0 +1,4 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25734935_26873	YP_006846328.2	30.6	98	458	3427	4	297	1697	1788	5.96e-06	40.8	64.2	2.7	64292	Ntaya virus	YP_006846328.2 flavivirus polyprotein [Ntaya virus]
+SRR25734935_26873	YP_001040006.1	28.8	104	458	3424	4	297	1694	1785	8.07e-06	40.4	64.2	2.7	59563	Ilheus virus	YP_001040006.1 flavivirus polyprotein [Ilheus virus]
+SRR25734935_26873	NP_775670.1	26.2	103	458	619	4	297	197	288	9.74e-06	40.0	64.2	14.9	11072	Japanese encephalitis virus	NP_775670.1 non-structural protein NS3 [Japanese encephalitis virus]

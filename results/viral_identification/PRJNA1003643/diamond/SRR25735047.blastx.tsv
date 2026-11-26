@@ -1,0 +1,12 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25735047_14579	YP_009175071.1	36.0	50	154	7333	150	1	257	306	2.33e-08	43.5	97.4	0.7	1685953	Macrosiphum euphorbiae virus 1	YP_009175071.1 polyprotein [Macrosiphum euphorbiae virus 1]
+SRR25735047_28381	YP_009350102.1	62.9	35	263	3414	179	75	2956	2990	6.08e-09	47.0	39.9	1.0	1821227	Xishuangbanna aedes flavivirus	YP_009350102.1 polyprotein [Xishuangbanna aedes flavivirus]
+SRR25735047_28381	YP_009389249.1	73.3	30	263	892	164	75	435	464	1.51e-08	45.8	34.2	3.4	1969397	Karumba virus	YP_009389249.1 NS5 [Karumba virus]
+SRR25735047_28381	YP_009388577.1	73.3	30	263	3342	164	75	2885	2914	1.55e-08	45.8	34.2	0.9	1969397	Karumba virus	YP_009388577.1 polyprotein [Karumba virus]
+SRR25735047_28381	YP_009041466.1	73.3	30	263	3356	164	75	2902	2931	1.55e-08	45.8	34.2	0.9	1286143	Nienokoue virus	YP_009041466.1 polyprotein [Nienokoue virus]
+SRR25735047_28381	YP_009305401.1	70.0	30	263	892	164	75	435	464	2.06e-08	45.4	34.2	3.4	1903340	Anopheles flavivirus variant 1	YP_009305401.1 NS5 [Anopheles flavivirus variant 1]
+SRR25735047_33072	NP_937777.1	63.9	61	666	577	469	290	449	509	5.57e-20	83.6	27.0	10.6	218849	Kamiti River virus	NP_937777.1 NS3 protein [Kamiti River virus]
+SRR25735047_33072	NP_891560.1	63.9	61	666	3357	469	290	1913	1973	7.20e-20	83.6	27.0	1.8	218849	Kamiti River virus	NP_891560.1 flavivirus polyprotein [Kamiti River virus]
+SRR25735047_33072	YP_009259297.1	57.4	61	666	587	469	290	449	509	1.60e-18	79.3	27.0	10.4	31658	Cell fusing agent virus	YP_009259297.1 NS3 [Cell fusing agent virus]
+SRR25735047_33072	YP_009259257.1	57.4	61	666	3341	469	290	1900	1960	2.05e-18	79.3	27.0	1.8	31658	Cell fusing agent virus	YP_009259257.1 polyprotein [Cell fusing agent virus]
+SRR25735047_33072	YP_009259327.1	63.0	46	666	587	454	317	454	499	7.33e-18	77.4	20.7	7.8	390845	Aedes flavivirus	YP_009259327.1 nonstructural protein NS3 [Aedes flavivirus]

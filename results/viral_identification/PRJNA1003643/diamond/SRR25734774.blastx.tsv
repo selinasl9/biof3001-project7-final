@@ -1,0 +1,7 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25734774_5507	YP_009259358.1	93.0	57	175	393	3	173	228	284	1.88e-38	126	97.7	14.5	643132	Quang Binh virus	YP_009259358.1 nonstructural protein NS1 [Quang Binh virus]
+SRR25734774_5507	YP_007877501.1	94.7	57	175	3359	3	173	933	989	1.20e-37	127	97.7	1.7	673515	Mosquito flavivirus	YP_007877501.1 polyprotein [Mosquito flavivirus]
+SRR25734774_5507	YP_006491222.1	93.0	57	175	688	3	173	228	284	1.97e-37	126	97.7	8.3	643132	Quang Binh virus	YP_006491222.1 NS1-NS2AN-FIFO protein [Quang Binh virus]
+SRR25734774_5507	YP_006491221.1	93.0	57	175	1393	3	173	933	989	2.23e-37	126	97.7	4.1	643132	Quang Binh virus	YP_006491221.1 truncated polyprotein [Quang Binh virus]
+SRR25734774_5507	YP_002884239.1	93.0	57	175	3359	3	173	933	989	2.23e-37	126	97.7	1.7	643132	Quang Binh virus	YP_002884239.1 flavivirus polyprotein [Quang Binh virus]
+SRR25734774_13370	YP_009179402.1	36.7	79	789	803	596	360	612	688	8.19e-06	42.4	30.0	9.6	1746063	Shuangao insect virus 7	YP_009179402.1 NS3-like protein [Shuangao insect virus 7]

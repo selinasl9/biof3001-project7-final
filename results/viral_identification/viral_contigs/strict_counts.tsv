@@ -1,0 +1,2 @@
+mode	contigs_requested	contigs_written	contigs_missing	reverse_complemented	runs_with_contigs	bioprojects	virus_species	total_bp	median_contig_bp
+strict	10388	10388	0	5095	800	31	50	3031606	60

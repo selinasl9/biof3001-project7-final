@@ -1,0 +1,6 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25619318_19389	YP_009179389.1	32.8	64	220	808	213	22	620	681	6.44e-06	37.7	87.3	7.7	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25619318_35217	YP_009389296.1	45.0	60	202	3341	20	199	1828	1885	9.76e-06	37.0	89.1	1.7	1969400	Mac Peak virus	YP_009389296.1 polyprotein [Mac Peak virus]
+SRR25619318_59094	YP_009344961.1	40.8	49	270	3390	159	13	2547	2595	1.89e-06	40.0	54.4	1.4	64295	Bouboui virus	YP_009344961.1 polyprotein [Bouboui virus]
+SRR25619318_59094	YP_009344967.1	34.7	75	270	3390	231	16	2519	2593	6.60e-06	38.5	80.0	2.2	64284	Saboya virus	YP_009344967.1 polyprotein [Saboya virus]
+SRR25619318_60613	YP_009179379.1	30.0	140	586	816	455	54	415	543	5.61e-08	47.8	68.6	15.8	1746068	Wuhan aphid virus 2	YP_009179379.1 NS3-like protein [Wuhan aphid virus 2]

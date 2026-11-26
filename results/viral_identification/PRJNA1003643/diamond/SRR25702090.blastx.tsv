@@ -1,0 +1,8 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25702090_21354	YP_009175071.1	37.0	54	184	7333	183	22	253	306	6.10e-10	48.5	88.0	0.7	1685953	Macrosiphum euphorbiae virus 1	YP_009175071.1 polyprotein [Macrosiphum euphorbiae virus 1]
+SRR25702090_30105	YP_009179404.1	35.6	73	582	797	227	9	617	687	4.44e-07	45.1	37.6	8.9	1746071	Wuhan flea virus	YP_009179404.1 NS3-like protein [Wuhan flea virus]
+SRR25702090_37050	YP_009259327.1	65.6	61	196	587	196	14	409	469	1.23e-22	84.7	93.4	10.4	390845	Aedes flavivirus	YP_009259327.1 nonstructural protein NS3 [Aedes flavivirus]
+SRR25702090_37050	YP_003029843.1	65.6	61	196	3341	196	14	1860	1920	1.26e-22	84.7	93.4	1.8	390845	Aedes flavivirus	YP_003029843.1 flavivirus polyprotein [Aedes flavivirus]
+SRR25702090_37050	NP_937777.1	63.9	61	196	577	196	14	409	469	5.86e-22	82.8	93.4	10.6	218849	Kamiti River virus	NP_937777.1 NS3 protein [Kamiti River virus]
+SRR25702090_37050	NP_891560.1	63.9	61	196	3357	196	14	1873	1933	5.99e-22	82.8	93.4	1.8	218849	Kamiti River virus	NP_891560.1 flavivirus polyprotein [Kamiti River virus]
+SRR25702090_37050	YP_009259297.1	59.0	61	196	587	196	14	409	469	2.79e-21	80.9	93.4	10.4	31658	Cell fusing agent virus	YP_009259297.1 NS3 [Cell fusing agent virus]

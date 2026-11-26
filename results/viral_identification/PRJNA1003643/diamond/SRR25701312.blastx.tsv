@@ -1,0 +1,2 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25701312_20406	YP_009169331.1	37.1	35	124	3441	119	15	2709	2743	5.53e-06	36.2	84.7	1.0	1566298	Paraiso Escondido virus	YP_009169331.1 polyprotein [Paraiso Escondido virus]

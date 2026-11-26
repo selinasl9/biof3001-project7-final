@@ -1,0 +1,10 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25734519_439	YP_006846328.2	27.1	118	2254	3427	2030	1692	1682	1788	2.71e-06	46.6	15.0	3.1	64292	Ntaya virus	YP_006846328.2 flavivirus polyprotein [Ntaya virus]
+SRR25734519_439	NP_776018.1	27.7	119	2254	619	2030	1692	182	288	3.55e-06	45.8	15.0	17.3	11082	West Nile virus	NP_776018.1 non-structural protein NS3 [West Nile virus]
+SRR25734519_439	NP_041724.2	27.7	119	2254	3430	2030	1692	1683	1789	4.65e-06	45.8	15.0	3.1	11082	West Nile virus	NP_041724.2 polyprotein [West Nile virus]
+SRR25734519_439	YP_001527884.1	26.9	119	2254	619	2030	1692	182	288	4.67e-06	45.4	15.0	17.3	11082	West Nile virus	YP_001527884.1 nonstructural protein 3 [West Nile virus]
+SRR25734519_439	YP_009246337.1	26.9	119	2254	2553	2030	1692	1687	1793	5.99e-06	45.4	15.0	4.2	11082	West Nile virus	YP_009246337.1 truncated flavivirus polyprotein WARF4 [West Nile virus]
+SRR25734519_1772	YP_009305402.1	43.5	85	3012	597	2434	2180	382	462	2.90e-06	46.6	8.5	13.6	1903340	Anopheles flavivirus variant 1	YP_009305402.1 NS3 [Anopheles flavivirus variant 1]
+SRR25734519_1772	YP_009305197.1	43.5	85	3012	3341	2434	2180	1811	1891	3.90e-06	46.6	8.5	2.4	1903340	Anopheles flavivirus variant 1	YP_009305197.1 polyprotein [Anopheles flavivirus variant 1]
+SRR25734519_5032	YP_009179389.1	32.4	136	2381	808	1811	2215	560	684	4.67e-07	48.9	17.0	15.5	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25734519_29959	YP_009179389.1	32.3	65	337	808	57	251	619	681	3.56e-06	40.0	57.9	7.8	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]

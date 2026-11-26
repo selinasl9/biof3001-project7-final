@@ -1,0 +1,4 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25619358_240707	YP_009268604.1	39.0	41	200	427	15	137	295	335	8.98e-06	37.0	61.5	9.6	667516	Nakiwogo virus	YP_009268604.1 envelope protein E [Nakiwogo virus]
+SRR25619358_240707	YP_009268598.1	39.0	41	200	1397	15	137	580	620	9.29e-06	37.0	61.5	2.9	667516	Nakiwogo virus	YP_009268598.1 truncated polyprotein [Nakiwogo virus]
+SRR25619358_240707	YP_009259488.1	39.0	41	200	3373	15	137	580	620	9.37e-06	37.0	61.5	1.2	667516	Nakiwogo virus	YP_009259488.1 flavivirus polyprotein [Nakiwogo virus]

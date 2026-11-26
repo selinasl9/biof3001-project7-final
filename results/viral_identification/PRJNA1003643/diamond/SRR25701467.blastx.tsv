@@ -1,0 +1,4 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25701467_21014	YP_006846328.2	38.7	62	275	3427	258	76	1756	1814	3.66e-06	39.3	66.5	1.7	64292	Ntaya virus	YP_006846328.2 flavivirus polyprotein [Ntaya virus]
+SRR25701467_32705	YP_009179389.1	35.4	65	254	808	233	39	619	681	6.42e-08	43.9	76.8	7.8	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25701467_32705	YP_009344962.1	39.4	66	254	3364	224	30	1856	1917	5.95e-07	41.2	76.8	1.8	1302179	Palm Creek virus	YP_009344962.1 polyprotein [Palm Creek virus]

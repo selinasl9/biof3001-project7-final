@@ -1,0 +1,11 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25619543_2833	YP_009259327.1	54.4	68	291	587	86	289	491	557	6.62e-23	87.0	70.1	11.4	390845	Aedes flavivirus	YP_009259327.1 nonstructural protein NS3 [Aedes flavivirus]
+SRR25619543_2833	YP_009259297.1	55.2	67	291	587	86	286	491	556	6.62e-23	87.0	69.1	11.2	31658	Cell fusing agent virus	YP_009259297.1 NS3 [Cell fusing agent virus]
+SRR25619543_2833	YP_003029843.1	54.4	68	291	3341	86	289	1942	2008	7.07e-23	87.0	70.1	2.0	390845	Aedes flavivirus	YP_003029843.1 flavivirus polyprotein [Aedes flavivirus]
+SRR25619543_2833	YP_009259257.1	55.2	67	291	3341	86	286	1942	2007	7.07e-23	87.0	69.1	2.0	31658	Cell fusing agent virus	YP_009259257.1 polyprotein [Cell fusing agent virus]
+SRR25619543_2833	NP_937777.1	56.7	67	291	577	86	286	491	556	1.23e-22	86.3	69.1	11.4	218849	Kamiti River virus	NP_937777.1 NS3 protein [Kamiti River virus]
+SRR25619543_38843	YP_009350102.1	47.9	48	202	3414	152	9	2943	2990	4.48e-11	52.0	71.3	1.4	1821227	Xishuangbanna aedes flavivirus	YP_009350102.1 polyprotein [Xishuangbanna aedes flavivirus]
+SRR25619543_38843	YP_009389249.1	48.9	47	202	892	149	9	418	464	2.89e-10	49.7	69.8	5.3	1969397	Karumba virus	YP_009389249.1 NS5 [Karumba virus]
+SRR25619543_38843	YP_009388577.1	48.9	47	202	3342	149	9	2868	2914	2.94e-10	49.7	69.8	1.4	1969397	Karumba virus	YP_009388577.1 polyprotein [Karumba virus]
+SRR25619543_38843	YP_009305401.1	46.8	47	202	892	149	9	418	464	1.01e-09	48.1	69.8	5.3	1903340	Anopheles flavivirus variant 1	YP_009305401.1 NS5 [Anopheles flavivirus variant 1]
+SRR25619543_38843	YP_009305197.1	46.8	47	202	3341	149	9	2867	2913	1.03e-09	48.1	69.8	1.4	1903340	Anopheles flavivirus variant 1	YP_009305197.1 polyprotein [Anopheles flavivirus variant 1]

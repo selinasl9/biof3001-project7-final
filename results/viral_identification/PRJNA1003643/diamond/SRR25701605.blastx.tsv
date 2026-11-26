@@ -1,0 +1,6 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25701605_33028	YP_899469.2	98.8	85	259	3363	257	3	440	524	4.05e-54	175	98.5	2.5	390844	Culex flavivirus	YP_899469.2 polyprotein [Culex flavivirus]
+SRR25701605_33028	YP_009259293.1	75.3	85	259	430	257	3	161	245	1.91e-45	146	98.5	19.8	31658	Cell fusing agent virus	YP_009259293.1 E [Cell fusing agent virus]
+SRR25701605_33028	YP_009259257.1	75.3	85	259	3341	257	3	436	520	5.27e-44	146	98.5	2.5	31658	Cell fusing agent virus	YP_009259257.1 polyprotein [Cell fusing agent virus]
+SRR25701605_33028	YP_009553010.1	75.3	85	259	3274	257	3	353	437	8.63e-43	143	98.5	2.6	1244563	Culex theileri flavivirus	YP_009553010.1 polyprotein [Culex theileri flavivirus]
+SRR25701605_33028	YP_009259357.1	71.4	84	259	427	257	6	158	241	3.06e-42	138	97.3	19.7	643132	Quang Binh virus	YP_009259357.1 envelope protein E [Quang Binh virus]

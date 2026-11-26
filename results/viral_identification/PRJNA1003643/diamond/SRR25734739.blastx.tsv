@@ -1,0 +1,13 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25734739_22380	YP_006846328.2	30.2	96	342	3427	333	58	687	782	2.21e-06	40.8	80.7	2.8	64292	Ntaya virus	YP_006846328.2 flavivirus polyprotein [Ntaya virus]
+SRR25734739_22380	YP_002790883.1	28.1	96	342	3426	333	58	687	782	7.64e-06	39.3	80.7	2.8	64290	Bagaza virus	YP_002790883.1 polyprotein [Bagaza virus]
+SRR25734739_22715	YP_009179389.1	37.8	82	390	808	32	277	606	684	5.01e-07	43.1	63.1	9.8	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25734739_54935	YP_009305402.1	49.3	67	386	597	377	177	398	462	7.42e-08	45.4	52.1	10.9	1903340	Anopheles flavivirus variant 1	YP_009305402.1 NS3 [Anopheles flavivirus variant 1]
+SRR25734739_54935	YP_009305197.1	49.3	67	386	3341	377	177	1827	1891	8.20e-08	45.4	52.1	1.9	1903340	Anopheles flavivirus variant 1	YP_009305197.1 polyprotein [Anopheles flavivirus variant 1]
+SRR25734739_54935	YP_009389245.1	46.2	65	386	597	371	177	400	462	1.19e-06	42.0	50.5	10.6	1969397	Karumba virus	YP_009389245.1 NS3 [Karumba virus]
+SRR25734739_54935	YP_009388577.1	46.2	65	386	3342	371	177	1829	1891	1.31e-06	42.0	50.5	1.9	1969397	Karumba virus	YP_009388577.1 polyprotein [Karumba virus]
+SRR25734739_54935	YP_009389296.1	49.2	65	386	3341	371	177	1828	1890	1.78e-06	41.6	50.5	1.9	1969400	Mac Peak virus	YP_009389296.1 polyprotein [Mac Peak virus]
+SRR25734739_59590	YP_009179402.1	36.0	89	502	803	14	268	602	688	2.24e-06	42.4	50.8	10.8	1746063	Shuangao insect virus 7	YP_009179402.1 NS3-like protein [Shuangao insect virus 7]
+SRR25734739_59590	YP_009179389.1	35.7	70	502	808	38	247	617	684	4.09e-06	41.6	41.8	8.4	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25734739_63750	YP_950477.1	41.7	36	187	3411	186	79	62	97	4.23e-06	37.7	57.8	1.1	64283	Entebbe bat virus	YP_950477.1 polyprotein [Entebbe bat virus]
+SRR25734739_63750	YP_009126875.1	41.7	36	187	3413	186	79	62	97	4.23e-06	37.7	57.8	1.1	64317	Sokoluk virus	YP_009126875.1 polyprotein [Sokoluk virus]

@@ -1,0 +1,7 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25734594_10071	NP_937774.1	76.0	25	186	390	108	182	264	288	2.56e-11	52.4	40.3	6.4	218849	Kamiti River virus	NP_937774.1 NS1 protein [Kamiti River virus]
+SRR25734594_10071	YP_006491220.1	76.0	25	186	651	108	182	264	288	2.60e-11	52.4	40.3	3.8	218849	Kamiti River virus	YP_006491220.1 NS1-NS2AN-FIFO protein [Kamiti River virus]
+SRR25734594_10071	YP_006491219.1	76.0	25	186	1369	108	182	982	1006	2.63e-11	52.4	40.3	1.8	218849	Kamiti River virus	YP_006491219.1 truncated polyprotein [Kamiti River virus]
+SRR25734594_10071	NP_891560.1	76.0	25	186	3357	108	182	982	1006	2.65e-11	52.4	40.3	0.7	218849	Kamiti River virus	NP_891560.1 flavivirus polyprotein [Kamiti River virus]
+SRR25734594_10071	YP_009259294.1	80.0	25	186	358	108	182	264	288	3.47e-11	52.0	40.3	7.0	31658	Cell fusing agent virus	YP_009259294.1 NS1 [Cell fusing agent virus]
+SRR25734594_26977	YP_009179389.1	40.0	65	416	808	1	195	622	684	9.96e-06	39.7	46.9	7.8	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]

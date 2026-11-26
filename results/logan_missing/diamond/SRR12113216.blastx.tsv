@@ -1,0 +1,6 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR12113216_9444	YP_009350102.1	52.4	82	250	3414	248	6	1809	1890	5.46e-23	86.7	97.2	2.4	1821227	Xishuangbanna aedes flavivirus	YP_009350102.1 polyprotein [Xishuangbanna aedes flavivirus]
+SRR12113216_9444	YP_009351861.1	45.2	84	250	3416	248	6	1810	1893	9.67e-20	77.4	97.2	2.5	1963247	Menghai flavivirus	YP_009351861.1 polyprotein [Menghai flavivirus]
+SRR12113216_9444	YP_009259297.1	45.7	81	250	587	248	6	293	373	3.22e-19	75.9	97.2	13.8	31658	Cell fusing agent virus	YP_009259297.1 NS3 [Cell fusing agent virus]
+SRR12113216_9444	YP_009259257.1	45.7	81	250	3341	248	6	1744	1824	3.36e-19	75.9	97.2	2.4	31658	Cell fusing agent virus	YP_009259257.1 polyprotein [Cell fusing agent virus]
+SRR12113216_9444	YP_009259327.1	43.2	81	250	587	248	6	293	373	8.21e-19	74.7	97.2	13.8	390845	Aedes flavivirus	YP_009259327.1 nonstructural protein NS3 [Aedes flavivirus]

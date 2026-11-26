@@ -1,0 +1,6 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25734595_29864	YP_009259257.1	44.6	74	252	3341	222	1	1007	1080	2.49e-21	82.0	88.1	2.2	31658	Cell fusing agent virus	YP_009259257.1 polyprotein [Cell fusing agent virus]
+SRR25734595_29864	NP_937774.1	44.4	72	252	390	222	7	302	373	8.58e-21	80.1	85.7	18.5	218849	Kamiti River virus	NP_937774.1 NS1 protein [Kamiti River virus]
+SRR25734595_29864	YP_009350102.1	45.5	77	252	3414	222	1	1039	1115	8.67e-21	80.5	88.1	2.3	1821227	Xishuangbanna aedes flavivirus	YP_009350102.1 polyprotein [Xishuangbanna aedes flavivirus]
+SRR25734595_29864	YP_006491220.1	44.4	72	252	651	222	7	302	373	1.14e-20	80.1	85.7	11.1	218849	Kamiti River virus	YP_006491220.1 NS1-NS2AN-FIFO protein [Kamiti River virus]
+SRR25734595_29864	YP_006491219.1	44.4	72	252	1369	222	7	1020	1091	1.17e-20	80.1	85.7	5.3	218849	Kamiti River virus	YP_006491219.1 truncated polyprotein [Kamiti River virus]

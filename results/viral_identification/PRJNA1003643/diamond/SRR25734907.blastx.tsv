@@ -1,0 +1,6 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25734907_58160	YP_009259324.1	55.0	100	298	390	298	2	199	297	3.93e-37	124	99.7	25.4	390845	Aedes flavivirus	YP_009259324.1 nonstructural protein NS1 [Aedes flavivirus]
+SRR25734907_58160	YP_009259332.1	55.0	100	298	650	298	2	199	297	3.66e-36	124	99.7	15.2	390845	Aedes flavivirus	YP_009259332.1 NS1-NS2AN-FIFO protein [Aedes flavivirus]
+SRR25734907_58160	YP_009259320.1	55.0	100	298	1356	298	2	904	1002	4.57e-36	124	99.7	7.3	390845	Aedes flavivirus	YP_009259320.1 truncated polyprotein [Aedes flavivirus]
+SRR25734907_58160	YP_003029843.1	55.0	100	298	3341	298	2	904	1002	4.65e-36	124	99.7	3.0	390845	Aedes flavivirus	YP_003029843.1 flavivirus polyprotein [Aedes flavivirus]
+SRR25734907_58160	YP_009259265.1	52.0	100	298	396	298	2	202	300	2.51e-34	117	99.7	25.0	1708654	Parramatta River virus	YP_009259265.1 nonstructural protein NS1 [Parramatta River virus]

@@ -1,0 +1,8 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25702149_5166	YP_009179389.1	35.8	67	439	808	325	131	619	681	1.42e-06	42.4	44.4	7.8	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25702149_5166	YP_009175071.1	32.9	85	439	7333	319	101	4351	4432	1.56e-06	42.4	49.9	1.1	1685953	Macrosiphum euphorbiae virus 1	YP_009175071.1 polyprotein [Macrosiphum euphorbiae virus 1]
+SRR25702149_64313	YP_009305401.1	70.5	61	196	892	23	196	747	807	1.49e-26	95.9	88.8	6.8	1903340	Anopheles flavivirus variant 1	YP_009305401.1 NS5 [Anopheles flavivirus variant 1]
+SRR25702149_64313	YP_009305197.1	70.5	61	196	3341	23	196	3196	3256	1.50e-26	95.9	88.8	1.8	1903340	Anopheles flavivirus variant 1	YP_009305197.1 polyprotein [Anopheles flavivirus variant 1]
+SRR25702149_64313	YP_009389296.1	68.9	61	196	3341	23	196	3196	3256	3.82e-26	94.7	88.8	1.8	1969400	Mac Peak virus	YP_009389296.1 polyprotein [Mac Peak virus]
+SRR25702149_64313	YP_009389249.1	69.5	59	196	892	23	190	747	805	7.05e-26	94.0	85.7	6.6	1969397	Karumba virus	YP_009389249.1 NS5 [Karumba virus]
+SRR25702149_64313	YP_009388577.1	69.5	59	196	3342	23	190	3197	3255	7.13e-26	94.0	85.7	1.8	1969397	Karumba virus	YP_009388577.1 polyprotein [Karumba virus]

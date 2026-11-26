@@ -1,0 +1,2 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25735207_5325	YP_006846328.2	27.4	113	475	3427	394	56	1682	1788	6.79e-06	40.8	71.4	3.1	64292	Ntaya virus	YP_006846328.2 flavivirus polyprotein [Ntaya virus]

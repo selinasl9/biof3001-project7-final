@@ -1,0 +1,3 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25701290_4071	NP_722463.1	32.9	73	281	619	30	221	327	399	6.92e-06	38.5	68.3	11.8	11053	dengue virus type 1	NP_722463.1 nonstructural protein 3 [dengue virus type 1]
+SRR25701290_4071	NP_059433.1	32.9	73	281	3392	30	221	1802	1874	7.32e-06	38.5	68.3	2.2	11053	dengue virus type 1	NP_059433.1 polyprotein [dengue virus type 1]

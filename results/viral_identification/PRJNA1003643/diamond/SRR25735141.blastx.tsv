@@ -1,0 +1,2 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25735141_822	YP_009551951.1	35.1	57	197	3483	196	26	1413	1469	2.55e-06	38.5	86.8	1.6	2050971	Lumpfish flavivirus	YP_009551951.1 polyprotein [Lumpfish flavivirus]

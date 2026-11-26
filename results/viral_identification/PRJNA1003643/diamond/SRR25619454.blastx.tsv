@@ -1,0 +1,4 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25619454_19961	YP_009259323.1	42.4	33	284	459	40	138	417	449	2.00e-06	40.0	34.9	7.2	390845	Aedes flavivirus	YP_009259323.1 envelope protein E [Aedes flavivirus]
+SRR25619454_19961	YP_009259320.1	42.4	33	284	1356	40	138	663	695	2.13e-06	40.0	34.9	2.4	390845	Aedes flavivirus	YP_009259320.1 truncated polyprotein [Aedes flavivirus]
+SRR25619454_19961	YP_003029843.1	42.4	33	284	3341	40	138	663	695	2.17e-06	40.0	34.9	1.0	390845	Aedes flavivirus	YP_003029843.1 flavivirus polyprotein [Aedes flavivirus]

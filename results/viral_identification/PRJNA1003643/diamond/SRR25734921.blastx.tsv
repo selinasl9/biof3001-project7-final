@@ -1,0 +1,7 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25734921_6616	YP_009179389.1	27.5	120	405	808	38	397	568	677	1.06e-06	42.4	88.9	13.6	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25734921_17875	YP_009268628.1	63.6	129	947	894	233	571	419	544	7.57e-41	147	35.8	14.1	1125677	Hanko virus	YP_009268628.1 RNA-dependent RNA polymerase NS5 [Hanko virus]
+SRR25734921_17875	YP_009352228.1	63.6	129	947	3385	233	571	2910	3035	9.83e-41	147	35.8	3.7	1244565	Ochlerotatus caspius flavivirus	YP_009352228.1 polyprotein [Ochlerotatus caspius flavivirus]
+SRR25734921_17875	YP_009259489.1	63.6	129	947	3385	233	571	2910	3035	9.83e-41	147	35.8	3.7	1125677	Hanko virus	YP_009259489.1 flavivirus polyprotein [Hanko virus]
+SRR25734921_17875	YP_009259272.1	61.4	127	947	890	239	571	421	544	1.37e-38	140	35.2	13.9	1708654	Parramatta River virus	YP_009259272.1 RNA-dependent RNA polymerase [Parramatta River virus]
+SRR25734921_17875	YP_009164029.1	61.4	127	947	3384	239	571	2915	3038	1.76e-38	140	35.2	3.7	1708654	Parramatta River virus	YP_009164029.1 flavivirus polyprotein [Parramatta River virus]

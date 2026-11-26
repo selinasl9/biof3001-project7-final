@@ -1,0 +1,7 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25735054_53293	YP_009179389.1	32.3	96	329	808	33	317	615	707	2.80e-07	43.1	86.6	11.5	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25735054_74355	YP_009259268.1	61.2	49	151	599	149	3	14	62	1.84e-18	72.0	97.4	8.2	1708654	Parramatta River virus	YP_009259268.1 nonstructural protein NS3 [Parramatta River virus]
+SRR25735054_74355	YP_009164029.1	61.2	49	151	3384	149	3	1489	1537	1.84e-18	72.0	97.4	1.4	1708654	Parramatta River virus	YP_009164029.1 flavivirus polyprotein [Parramatta River virus]
+SRR25735054_74355	YP_009268624.1	57.1	49	151	600	149	3	14	62	6.40e-18	70.5	97.4	8.2	1125677	Hanko virus	YP_009268624.1 nonstructural protein NS3 [Hanko virus]
+SRR25735054_74355	YP_009352228.1	57.1	49	151	3385	149	3	1484	1532	6.41e-18	70.5	97.4	1.4	1244565	Ochlerotatus caspius flavivirus	YP_009352228.1 polyprotein [Ochlerotatus caspius flavivirus]
+SRR25735054_74355	YP_009259489.1	57.1	49	151	3385	149	3	1484	1532	6.41e-18	70.5	97.4	1.4	1125677	Hanko virus	YP_009259489.1 flavivirus polyprotein [Hanko virus]

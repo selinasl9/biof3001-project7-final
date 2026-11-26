@@ -1,0 +1,6 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR13340231_16	YP_009259361.1	98.2	167	504	588	503	3	55	221	1.03e-116	338	99.4	28.4	643132	Quang Binh virus	YP_009259361.1 nonstructural protein NS3 [Quang Binh virus]
+SRR13340231_16	YP_002884239.1	98.2	167	504	3359	503	3	1501	1667	1.41e-109	338	99.4	5.0	643132	Quang Binh virus	YP_002884239.1 flavivirus polyprotein [Quang Binh virus]
+SRR13340231_16	YP_007877501.1	94.6	167	504	3359	503	3	1501	1667	4.43e-106	328	99.4	5.0	673515	Mosquito flavivirus	YP_007877501.1 polyprotein [Mosquito flavivirus]
+SRR13340231_16	YP_009553010.1	69.5	167	504	3274	503	3	1417	1582	2.00e-77	246	99.4	5.1	1244563	Culex theileri flavivirus	YP_009553010.1 polyprotein [Culex theileri flavivirus]
+SRR13340231_16	YP_899469.2	67.1	167	504	3363	503	3	1506	1671	2.59e-72	231	99.4	4.9	390844	Culex flavivirus	YP_899469.2 polyprotein [Culex flavivirus]

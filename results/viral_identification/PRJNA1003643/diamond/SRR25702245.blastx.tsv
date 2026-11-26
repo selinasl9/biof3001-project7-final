@@ -1,0 +1,2 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25702245_20019	YP_009552767.1	28.2	71	269	3339	9	221	1795	1857	8.71e-06	38.1	79.2	1.9	2304510	Culex Flavi-like virus	YP_009552767.1 polyprotein [Culex Flavi-like virus]

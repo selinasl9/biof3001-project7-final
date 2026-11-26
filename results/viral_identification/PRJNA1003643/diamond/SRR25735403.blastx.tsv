@@ -1,0 +1,11 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25735403_5145	YP_009179397.1	43.6	39	191	318	9	125	275	313	2.23e-06	38.5	61.3	12.3	1746071	Wuhan flea virus	YP_009179397.1 putative glycoprotein [Wuhan flea virus]
+SRR25735403_10519	YP_009179392.1	99.1	108	325	136	324	1	21	128	1.89e-79	225	99.7	79.4	1746063	Shuangao insect virus 7	YP_009179392.1 hypothetical protein [Shuangao insect virus 7]
+SRR25735403_10519	YP_009179384.1	45.1	102	325	131	312	7	21	122	3.35e-30	100	94.2	77.9	1746068	Wuhan aphid virus 2	YP_009179384.1 hypothetical protein [Wuhan aphid virus 2]
+SRR25735403_10519	YP_009179396.1	47.3	93	325	133	279	1	33	125	5.77e-29	97.8	85.8	69.9	1746071	Wuhan flea virus	YP_009179396.1 hypothetical protein [Wuhan flea virus]
+SRR25735403_10519	YP_009179380.1	41.7	108	325	129	315	1	15	122	1.69e-27	94.0	96.9	83.7	1746067	Wuhan aphid virus 1	YP_009179380.1 hypothetical protein [Wuhan aphid virus 1]
+SRR25735403_14670	YP_009552767.1	29.0	69	224	3339	211	5	1797	1857	5.01e-06	38.1	92.4	1.8	2304510	Culex Flavi-like virus	YP_009552767.1 polyprotein [Culex Flavi-like virus]
+SRR25735403_18787	YP_009179393.1	100	52	158	368	158	3	157	208	2.50e-34	114	98.7	14.1	1746063	Shuangao insect virus 7	YP_009179393.1 putative glycoprotein [Shuangao insect virus 7]
+SRR25735403_18787	YP_009179397.1	36.2	47	158	318	155	15	104	150	7.56e-07	39.3	89.2	14.8	1746071	Wuhan flea virus	YP_009179397.1 putative glycoprotein [Wuhan flea virus]
+SRR25735403_19810	YP_009179395.1	95.7	70	229	528	212	3	1	70	1.50e-41	137	91.7	13.3	1746063	Shuangao insect virus 7	YP_009179395.1 hypothetical protein [Shuangao insect virus 7]
+SRR25735403_19810	YP_009179394.1	100	30	229	256	229	140	227	256	8.04e-17	67.8	39.3	11.7	1746063	Shuangao insect virus 7	YP_009179394.1 putative capsid protein [Shuangao insect virus 7]

@@ -1,0 +1,4 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25734538_9505	YP_009179394.1	44.3	70	237	256	27	236	24	92	2.36e-15	63.9	88.6	27.0	1746063	Shuangao insect virus 7	YP_009179394.1 putative capsid protein [Shuangao insect virus 7]
+SRR25734538_9505	YP_009179398.1	35.3	68	237	254	33	236	23	89	3.58e-09	47.0	86.1	26.4	1746071	Wuhan flea virus	YP_009179398.1 putative capsid protein [Wuhan flea virus]
+SRR25734538_9505	YP_009179386.1	32.8	64	237	263	24	215	30	92	5.75e-07	40.8	81.0	24.0	1746068	Wuhan aphid virus 2	YP_009179386.1 putative capsid protein [Wuhan aphid virus 2]

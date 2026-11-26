@@ -1,0 +1,6 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25735262_32013	YP_009350102.1	72.1	104	431	3414	107	418	874	977	7.29e-45	152	72.4	3.0	1821227	Xishuangbanna aedes flavivirus	YP_009350102.1 polyprotein [Xishuangbanna aedes flavivirus]
+SRR25735262_32013	YP_009351861.1	70.2	104	431	3416	107	418	875	978	1.85e-44	150	72.4	3.0	1963247	Menghai flavivirus	YP_009351861.1 polyprotein [Menghai flavivirus]
+SRR25735262_32013	YP_009259265.1	69.5	95	431	396	116	400	145	237	1.50e-38	130	66.1	23.5	1708654	Parramatta River virus	YP_009259265.1 nonstructural protein NS1 [Parramatta River virus]
+SRR25735262_32013	YP_009259273.1	69.5	95	431	652	116	400	145	237	1.73e-37	130	66.1	14.3	1708654	Parramatta River virus	YP_009259273.1 NS1-NS2AN-FIFO protein [Parramatta River virus]
+SRR25735262_32013	YP_009259258.1	69.5	95	431	1371	116	400	863	955	2.44e-37	130	66.1	6.8	1708654	Parramatta River virus	YP_009259258.1 truncated polyprotein [Parramatta River virus]

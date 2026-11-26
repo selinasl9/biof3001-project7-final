@@ -1,0 +1,4 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25701591_11178	YP_009179387.1	56.4	78	322	495	321	88	418	495	1.14e-21	84.0	72.7	15.8	1746068	Wuhan aphid virus 2	YP_009179387.1 hypothetical protein [Wuhan aphid virus 2]
+SRR25701591_48445	YP_009259289.1	37.1	35	181	713	52	156	609	643	9.83e-06	36.6	58.0	4.9	1708574	Mercadeo virus	YP_009259289.1 NS1-NS2AN-FIFO protein [Mercadeo virus]
+SRR25701591_48445	YP_009259274.1	37.1	35	181	1391	52	156	1286	1320	9.94e-06	36.6	58.0	2.5	1708574	Mercadeo virus	YP_009259274.1 truncated polyprotein [Mercadeo virus]

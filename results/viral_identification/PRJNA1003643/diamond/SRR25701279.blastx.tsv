@@ -1,0 +1,12 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25701279_1737	YP_009259324.1	66.7	27	152	390	81	1	364	390	1.05e-07	41.6	53.3	6.9	390845	Aedes flavivirus	YP_009259324.1 nonstructural protein NS1 [Aedes flavivirus]
+SRR25701279_1737	YP_009259332.1	66.7	27	152	650	81	1	364	390	1.06e-07	41.6	53.3	4.2	390845	Aedes flavivirus	YP_009259332.1 NS1-NS2AN-FIFO protein [Aedes flavivirus]
+SRR25701279_1737	YP_009259320.1	66.7	27	152	1356	81	1	1069	1095	1.07e-07	41.6	53.3	2.0	390845	Aedes flavivirus	YP_009259320.1 truncated polyprotein [Aedes flavivirus]
+SRR25701279_1737	YP_003029843.1	66.7	27	152	3341	81	1	1069	1095	1.07e-07	41.6	53.3	0.8	390845	Aedes flavivirus	YP_003029843.1 flavivirus polyprotein [Aedes flavivirus]
+SRR25701279_1737	YP_009259295.1	63.0	27	152	239	81	1	6	32	4.91e-07	39.7	53.3	11.3	31658	Cell fusing agent virus	YP_009259295.1 NS2A [Cell fusing agent virus]
+SRR25701279_5462	YP_006846328.2	28.0	118	894	3427	827	489	1682	1788	5.36e-06	43.5	37.9	3.1	64292	Ntaya virus	YP_006846328.2 flavivirus polyprotein [Ntaya virus]
+SRR25701279_5467	YP_009305402.1	43.5	85	460	597	404	150	382	462	4.04e-08	47.0	55.4	13.6	1903340	Anopheles flavivirus variant 1	YP_009305402.1 NS3 [Anopheles flavivirus variant 1]
+SRR25701279_5467	YP_009305197.1	43.5	85	460	3341	404	150	1811	1891	4.59e-08	47.0	55.4	2.4	1903340	Anopheles flavivirus variant 1	YP_009305197.1 polyprotein [Anopheles flavivirus variant 1]
+SRR25701279_5467	YP_009389245.1	40.0	85	460	597	404	150	382	462	6.29e-07	43.5	55.4	13.6	1969397	Karumba virus	YP_009389245.1 NS3 [Karumba virus]
+SRR25701279_5467	YP_009388577.1	40.0	85	460	3342	404	150	1811	1891	7.11e-07	43.5	55.4	2.4	1969397	Karumba virus	YP_009388577.1 polyprotein [Karumba virus]
+SRR25701279_5467	YP_009389296.1	41.2	85	460	3341	404	150	1810	1890	1.31e-06	42.7	55.4	2.4	1969400	Mac Peak virus	YP_009389296.1 polyprotein [Mac Peak virus]

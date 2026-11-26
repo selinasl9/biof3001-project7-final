@@ -1,0 +1,4 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25701983_17492	YP_009305402.1	49.3	67	1506	597	1441	1241	398	462	2.00e-06	45.8	13.3	10.9	1903340	Anopheles flavivirus variant 1	YP_009305402.1 NS3 [Anopheles flavivirus variant 1]
+SRR25701983_17492	YP_009305197.1	49.3	67	1506	3341	1441	1241	1827	1891	2.63e-06	45.8	13.3	1.9	1903340	Anopheles flavivirus variant 1	YP_009305197.1 polyprotein [Anopheles flavivirus variant 1]
+SRR25701983_62485	YP_009126875.1	38.1	42	202	3413	66	191	2488	2529	4.99e-06	37.7	62.4	1.2	64317	Sokoluk virus	YP_009126875.1 polyprotein [Sokoluk virus]

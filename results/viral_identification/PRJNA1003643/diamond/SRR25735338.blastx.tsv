@@ -1,0 +1,5 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25735338_44214	YP_009179389.1	30.7	88	425	808	79	330	599	684	4.28e-06	40.8	59.3	10.6	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25735338_80802	YP_009259357.1	46.9	32	216	427	76	171	362	393	6.02e-06	37.7	44.4	7.5	643132	Quang Binh virus	YP_009259357.1 envelope protein E [Quang Binh virus]
+SRR25735338_80802	YP_006491221.1	46.9	32	216	1393	76	171	640	671	6.28e-06	37.7	44.4	2.3	643132	Quang Binh virus	YP_006491221.1 truncated polyprotein [Quang Binh virus]
+SRR25735338_80802	YP_002884239.1	46.9	32	216	3359	76	171	640	671	6.35e-06	37.7	44.4	1.0	643132	Quang Binh virus	YP_002884239.1 flavivirus polyprotein [Quang Binh virus]

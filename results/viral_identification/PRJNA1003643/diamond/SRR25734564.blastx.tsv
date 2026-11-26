@@ -1,0 +1,13 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25734564_22314	YP_009179389.1	39.7	68	266	808	8	211	619	684	2.60e-07	42.4	76.7	8.2	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25734564_22314	YP_009179404.1	35.9	78	266	797	8	238	617	691	6.63e-07	41.2	86.8	9.4	1746071	Wuhan flea virus	YP_009179404.1 NS3-like protein [Wuhan flea virus]
+SRR25734564_29440	YP_899469.2	100	103	310	3363	1	309	412	514	3.05e-65	208	99.7	3.1	390844	Culex flavivirus	YP_899469.2 polyprotein [Culex flavivirus]
+SRR25734564_29440	YP_009259293.1	75.7	103	310	430	1	309	133	235	1.18e-56	176	99.7	24.0	31658	Cell fusing agent virus	YP_009259293.1 E [Cell fusing agent virus]
+SRR25734564_29440	YP_009259257.1	75.7	103	310	3341	1	309	408	510	3.42e-54	176	99.7	3.1	31658	Cell fusing agent virus	YP_009259257.1 polyprotein [Cell fusing agent virus]
+SRR25734564_29440	YP_009259357.1	71.8	103	310	427	1	309	130	232	1.58e-52	166	99.7	24.1	643132	Quang Binh virus	YP_009259357.1 envelope protein E [Quang Binh virus]
+SRR25734564_29440	YP_009553010.1	74.8	103	310	3274	1	309	325	427	2.32e-51	168	99.7	3.1	1244563	Culex theileri flavivirus	YP_009553010.1 polyprotein [Culex theileri flavivirus]
+SRR25734564_144937	YP_899469.2	100	28	167	3363	167	84	1580	1607	5.94e-15	62.4	50.3	0.8	390844	Culex flavivirus	YP_899469.2 polyprotein [Culex flavivirus]
+SRR25734564_144937	YP_009553010.1	78.6	28	167	3274	167	84	1491	1518	5.81e-12	53.9	50.3	0.9	1244563	Culex theileri flavivirus	YP_009553010.1 polyprotein [Culex theileri flavivirus]
+SRR25734564_144937	YP_009259361.1	69.7	33	167	588	167	69	129	161	7.85e-12	53.5	59.3	5.6	643132	Quang Binh virus	YP_009259361.1 nonstructural protein NS3 [Quang Binh virus]
+SRR25734564_144937	YP_002884239.1	69.7	33	167	3359	167	69	1575	1607	7.95e-12	53.5	59.3	1.0	643132	Quang Binh virus	YP_002884239.1 flavivirus polyprotein [Quang Binh virus]
+SRR25734564_144937	YP_007877501.1	67.7	31	167	3359	161	69	1577	1607	3.81e-11	51.6	55.7	0.9	673515	Mosquito flavivirus	YP_007877501.1 polyprotein [Mosquito flavivirus]

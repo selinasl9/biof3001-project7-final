@@ -1,0 +1,3 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25735390_43693	NP_775684.1	38.6	44	179	616	179	48	284	326	9.40e-06	36.6	73.7	7.0	64280	Apoi virus	NP_775684.1 non-structural protein NS3 [Apoi virus]
+SRR25735390_43693	NP_620045.1	38.6	44	179	3371	179	48	1748	1790	9.59e-06	36.6	73.7	1.3	64280	Apoi virus	NP_620045.1 polyprotein [Apoi virus]

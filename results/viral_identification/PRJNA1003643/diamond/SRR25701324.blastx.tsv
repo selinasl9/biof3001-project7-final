@@ -1,0 +1,6 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25701324_2655	YP_009305402.1	43.5	85	1469	597	1418	1164	382	462	8.41e-07	47.0	17.4	13.6	1903340	Anopheles flavivirus variant 1	YP_009305402.1 NS3 [Anopheles flavivirus variant 1]
+SRR25701324_2655	YP_009305197.1	43.5	85	1469	3341	1418	1164	1811	1891	1.12e-06	47.0	17.4	2.4	1903340	Anopheles flavivirus variant 1	YP_009305197.1 polyprotein [Anopheles flavivirus variant 1]
+SRR25701324_8626	YP_006846328.2	28.0	118	945	3427	71	409	1682	1788	8.00e-06	43.1	35.9	3.1	64292	Ntaya virus	YP_006846328.2 flavivirus polyprotein [Ntaya virus]
+SRR25701324_11127	YP_009179404.1	35.1	77	386	797	34	264	617	691	1.20e-08	47.8	59.8	9.4	1746071	Wuhan flea virus	YP_009179404.1 NS3-like protein [Wuhan flea virus]
+SRR25701324_15920	YP_009175071.1	26.5	117	530	7333	353	21	190	306	3.96e-09	50.8	62.8	1.6	1685953	Macrosiphum euphorbiae virus 1	YP_009175071.1 polyprotein [Macrosiphum euphorbiae virus 1]

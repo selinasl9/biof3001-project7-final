@@ -1,0 +1,54 @@
+Detecting adapter sequence for read1...
+>Illumina TruSeq Adapter Read 1
+AGATCGGAAGAGCACACGTCTGAACTCCAGTCA
+
+Detecting adapter sequence for read2...
+>Illumina TruSeq Adapter Read 2
+AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT
+
+Read1 before filtering:
+total reads: 11374007
+total bases: 1717475057
+Q20 bases: 1660651649(96.6915%)
+Q30 bases: 1591694238(92.6764%)
+Q40 bases: 1293278639(75.3012%)
+
+Read2 before filtering:
+total reads: 11374007
+total bases: 1717475057
+Q20 bases: 1633747913(95.125%)
+Q30 bases: 1517350867(88.3478%)
+Q40 bases: 1073488005(62.5038%)
+
+Read1 after filtering:
+total reads: 10348907
+total bases: 1456943862
+Q20 bases: 1438247907(98.7168%)
+Q30 bases: 1401208236(96.1745%)
+Q40 bases: 1166058894(80.0346%)
+
+Read2 after filtering:
+total reads: 10348907
+total bases: 1456976931
+Q20 bases: 1425036427(97.8078%)
+Q30 bases: 1356323099(93.0916%)
+Q40 bases: 993511748(68.1899%)
+
+Filtering result:
+reads passed filter: 20697814
+reads failed due to low quality: 2043140
+reads failed due to too many N: 1660
+reads failed due to too short: 5216
+reads failed due to adapter dimer: 184
+reads with adapter trimmed: 8858149
+bases trimmed due to adapters: 220794510
+
+Duplication rate: 44.0193%
+
+Insert size peak (evaluated by paired-end reads): 151
+
+JSON report: results/logan_missing/fastp/SRR12113216.fastp.json
+HTML report: results/logan_missing/fastp/SRR12113216.fastp.html
+
+fastp -i data/logan_missing/SRR12113216/SRR12113216_1.fastq -I data/logan_missing/SRR12113216/SRR12113216_2.fastq -o data/logan_missing/SRR12113216/SRR12113216_1.trim.fq.gz -O data/logan_missing/SRR12113216/SRR12113216_2.trim.fq.gz -q 30 -l 50 --trim_poly_g --detect_adapter_for_pe -w 16 -j results/logan_missing/fastp/SRR12113216.fastp.json -h results/logan_missing/fastp/SRR12113216.fastp.html 
+fastp v1.4.0, time used: 58 seconds

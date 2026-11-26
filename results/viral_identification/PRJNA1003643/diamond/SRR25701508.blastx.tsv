@@ -1,0 +1,11 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25701508_8311	NP_775649.1	29.3	140	488	616	414	22	186	319	4.48e-09	50.1	80.5	21.8	64312	Montana myotis leukoencephalitis virus	NP_775649.1 non-structural protein NS3, partial [Montana myotis leukoencephalitis virus]
+SRR25701508_8311	NP_689391.1	29.3	140	488	3374	414	22	1649	1782	5.13e-09	50.1	80.5	4.0	64312	Montana myotis leukoencephalitis virus	NP_689391.1 polyprotein [Montana myotis leukoencephalitis virus]
+SRR25701508_8311	NP_740264.1	29.9	134	488	618	396	22	194	321	2.79e-08	47.8	76.8	20.7	64300	Modoc virus	NP_740264.1 non-structural protein 3 [Modoc virus]
+SRR25701508_8311	NP_619758.1	29.9	134	488	3374	396	22	1654	1781	3.18e-08	47.8	76.8	3.8	64300	Modoc virus	NP_619758.1 polyprotein [Modoc virus]
+SRR25701508_8311	YP_009552767.1	31.8	148	488	3339	414	1	1635	1775	4.31e-08	47.4	84.8	4.2	2304510	Culex Flavi-like virus	YP_009552767.1 polyprotein [Culex Flavi-like virus]
+SRR25701508_78735	NP_740264.1	36.0	89	253	618	6	230	406	491	1.40e-06	40.0	88.9	13.9	64300	Modoc virus	NP_740264.1 non-structural protein 3 [Modoc virus]
+SRR25701508_78735	NP_619758.1	36.0	89	253	3374	6	230	1866	1951	1.47e-06	40.0	88.9	2.5	64300	Modoc virus	NP_619758.1 polyprotein [Modoc virus]
+SRR25701508_78735	YP_009126871.1	31.8	88	253	3374	6	230	1864	1949	2.01e-06	39.7	88.9	2.5	64299	Jutiapa virus	YP_009126871.1 polyprotein [Jutiapa virus]
+SRR25701508_119586	YP_009179389.1	36.5	63	195	808	4	192	618	678	3.43e-06	38.1	96.9	7.5	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25701508_142046	YP_009552082.1	48.4	64	195	3746	194	24	611	671	5.08e-07	40.4	87.7	1.6	1678179	Diatom colony associated ssRNA virus 1	YP_009552082.1 hypothetical polyprotein [Diatom colony associated ssRNA virus 1]

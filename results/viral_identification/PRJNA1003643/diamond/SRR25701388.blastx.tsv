@@ -1,0 +1,6 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25701388_3166	YP_009179389.1	22.4	331	1218	808	963	4	403	684	2.24e-07	48.5	78.8	34.9	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25701388_3166	YP_009388303.1	24.9	350	1218	6614	984	25	2722	3038	7.57e-06	43.9	78.8	4.8	1983570	Apis flavivirus	YP_009388303.1 polyprotein [Apis flavivirus]
+SRR25701388_17139	YP_009350103.1	28.3	113	1023	3430	752	414	1683	1789	5.37e-06	43.9	33.1	3.1	64319	Yaounde virus	YP_009350103.1 polyprotein [Yaounde virus]
+SRR25701388_17139	NP_775670.1	25.0	116	1023	619	746	414	184	288	7.50e-06	43.1	32.6	17.0	11072	Japanese encephalitis virus	NP_775670.1 non-structural protein NS3 [Japanese encephalitis virus]
+SRR25701388_17139	NP_059434.1	25.0	116	1023	3432	746	414	1688	1792	9.36e-06	43.1	32.6	3.1	11072	Japanese encephalitis virus	NP_059434.1 flavivirus polyprotein [Japanese encephalitis virus]

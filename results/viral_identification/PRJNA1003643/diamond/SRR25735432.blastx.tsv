@@ -1,0 +1,5 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25735432_1385	YP_009175071.1	25.0	104	306	7333	4	303	201	304	5.63e-09	47.8	98.0	1.4	1685953	Macrosiphum euphorbiae virus 1	YP_009175071.1 polyprotein [Macrosiphum euphorbiae virus 1]
+SRR25735432_20505	YP_009179409.1	27.5	153	476	527	474	31	207	349	5.45e-11	55.5	93.3	27.1	1746070	Wuhan cricket virus	YP_009179409.1 hypothetical protein [Wuhan cricket virus]
+SRR25735432_30960	YP_009179408.1	30.4	69	408	260	107	313	53	121	7.39e-06	39.7	50.7	26.5	1746070	Wuhan cricket virus	YP_009179408.1 putative capsid protein [Wuhan cricket virus]
+SRR25735432_55430	YP_009345034.1	59.1	22	159	3416	123	58	485	506	3.93e-06	37.4	41.5	0.6	64307	Gadgets Gully virus	YP_009345034.1 polyprotein [Gadgets Gully virus]

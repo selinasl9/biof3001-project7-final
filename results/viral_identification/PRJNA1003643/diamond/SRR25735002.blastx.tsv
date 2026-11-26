@@ -1,0 +1,11 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25735002_41273	YP_006846328.2	30.1	113	965	3427	253	591	1682	1788	1.56e-06	45.4	35.1	3.1	64292	Ntaya virus	YP_006846328.2 flavivirus polyprotein [Ntaya virus]
+SRR25735002_41273	YP_002790883.1	30.1	113	965	3426	253	591	1682	1788	2.73e-06	44.7	35.1	3.1	64290	Bagaza virus	YP_002790883.1 polyprotein [Bagaza virus]
+SRR25735002_41273	YP_001040006.1	27.7	119	965	3424	253	591	1679	1785	3.62e-06	44.3	35.1	3.1	59563	Ilheus virus	YP_001040006.1 flavivirus polyprotein [Ilheus virus]
+SRR25735002_41273	NP_775670.1	25.9	116	965	619	259	591	184	288	8.92e-06	42.7	34.5	17.0	11072	Japanese encephalitis virus	NP_775670.1 non-structural protein NS3 [Japanese encephalitis virus]
+SRR25735002_50414	YP_009259324.1	55.4	83	249	390	3	248	215	297	6.61e-32	110	98.8	21.3	390845	Aedes flavivirus	YP_009259324.1 nonstructural protein NS1 [Aedes flavivirus]
+SRR25735002_50414	YP_009259265.1	53.0	83	249	396	3	248	218	300	7.12e-32	110	98.8	21.0	1708654	Parramatta River virus	YP_009259265.1 nonstructural protein NS1 [Parramatta River virus]
+SRR25735002_50414	YP_009259332.1	55.4	83	249	650	3	248	215	297	2.86e-31	110	98.8	12.8	390845	Aedes flavivirus	YP_009259332.1 NS1-NS2AN-FIFO protein [Aedes flavivirus]
+SRR25735002_50414	YP_009259273.1	53.0	83	249	652	3	248	218	300	2.87e-31	110	98.8	12.7	1708654	Parramatta River virus	YP_009259273.1 NS1-NS2AN-FIFO protein [Parramatta River virus]
+SRR25735002_50414	YP_009259320.1	55.4	83	249	1356	3	248	920	1002	3.06e-31	110	98.8	6.1	390845	Aedes flavivirus	YP_009259320.1 truncated polyprotein [Aedes flavivirus]
+SRR25735002_62313	YP_009179389.1	31.8	85	459	808	182	424	599	681	7.44e-06	40.4	52.9	10.3	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]

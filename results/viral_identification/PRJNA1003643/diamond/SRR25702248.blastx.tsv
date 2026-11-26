@@ -1,0 +1,6 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25702248_2037	YP_899469.2	98.4	3363	10504	3363	27	10115	1	3363	0.0	6655	96.0	100	390844	Culex flavivirus	YP_899469.2 polyprotein [Culex flavivirus]
+SRR25702248_2037	YP_009553010.1	71.1	3278	10504	3274	285	10112	1	3273	0.0	4891	93.6	100.0	1244563	Culex theileri flavivirus	YP_009553010.1 polyprotein [Culex theileri flavivirus]
+SRR25702248_2037	YP_002884239.1	70.4	3313	10504	3359	198	10112	57	3358	0.0	4828	94.4	98.3	643132	Quang Binh virus	YP_002884239.1 flavivirus polyprotein [Quang Binh virus]
+SRR25702248_2037	YP_007877501.1	70.3	3310	10504	3359	198	10112	57	3358	0.0	4819	94.4	98.3	673515	Mosquito flavivirus	YP_007877501.1 polyprotein [Mosquito flavivirus]
+SRR25702248_2037	YP_009041466.1	55.5	3326	10504	3356	246	10112	60	3355	0.0	3711	93.9	98.2	1286143	Nienokoue virus	YP_009041466.1 polyprotein [Nienokoue virus]

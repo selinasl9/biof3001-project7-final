@@ -1,0 +1,7 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25701460_322	YP_009305402.1	49.3	67	1660	597	1491	1291	398	462	2.32e-06	45.8	12.1	10.9	1903340	Anopheles flavivirus variant 1	YP_009305402.1 NS3 [Anopheles flavivirus variant 1]
+SRR25701460_322	YP_009305197.1	49.3	67	1660	3341	1491	1291	1827	1891	3.05e-06	45.8	12.1	1.9	1903340	Anopheles flavivirus variant 1	YP_009305197.1 polyprotein [Anopheles flavivirus variant 1]
+SRR25701460_1559	YP_009179402.1	35.7	84	735	803	272	21	612	693	6.88e-06	42.4	34.3	10.2	1746063	Shuangao insect virus 7	YP_009179402.1 NS3-like protein [Shuangao insect virus 7]
+SRR25701460_1559	YP_009179389.1	35.7	70	735	808	266	57	617	684	9.19e-06	42.0	28.6	8.4	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25701460_4636	YP_009179389.1	22.3	354	1917	808	484	1512	403	707	5.12e-08	51.6	53.7	37.7	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25701460_4636	YP_009388303.1	24.9	354	1917	6614	463	1434	2722	3042	8.68e-06	44.7	50.7	4.9	1983570	Apis flavivirus	YP_009388303.1 polyprotein [Apis flavivirus]

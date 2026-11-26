@@ -1,0 +1,7 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25734857_11164	YP_009259295.1	52.1	73	266	239	261	49	96	166	4.00e-12	55.5	80.1	29.7	31658	Cell fusing agent virus	YP_009259295.1 NS2A [Cell fusing agent virus]
+SRR25734857_11164	YP_009259257.1	52.1	73	266	3341	261	49	1159	1229	6.52e-12	55.5	80.1	2.1	31658	Cell fusing agent virus	YP_009259257.1 polyprotein [Cell fusing agent virus]
+SRR25734857_11164	YP_009259325.1	47.9	73	266	207	261	49	64	134	1.14e-10	51.2	80.1	34.3	390845	Aedes flavivirus	YP_009259325.1 nonstructural protein NS2A [Aedes flavivirus]
+SRR25734857_11164	YP_003029843.1	47.9	73	266	3341	261	49	1159	1229	2.03e-10	51.2	80.1	2.1	390845	Aedes flavivirus	YP_003029843.1 flavivirus polyprotein [Aedes flavivirus]
+SRR25734857_11164	NP_937775.1	45.2	73	266	232	261	49	64	134	1.80e-09	48.1	80.1	30.6	218849	Kamiti River virus	NP_937775.1 NS2A protein [Kamiti River virus]
+SRR25734857_83906	YP_009345034.1	59.1	22	189	3416	8	73	485	506	7.95e-06	37.0	34.9	0.6	64307	Gadgets Gully virus	YP_009345034.1 polyprotein [Gadgets Gully virus]

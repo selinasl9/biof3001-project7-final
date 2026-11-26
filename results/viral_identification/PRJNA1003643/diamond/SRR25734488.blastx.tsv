@@ -1,0 +1,4 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25734488_4975	YP_009179389.1	23.7	325	1072	808	1061	108	414	684	5.34e-07	47.0	89.0	33.5	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25734488_4975	YP_009179402.1	24.9	346	1072	803	1070	63	408	696	1.23e-06	45.8	94.0	36.0	1746063	Shuangao insect virus 7	YP_009179402.1 NS3-like protein [Shuangao insect virus 7]
+SRR25734488_39251	YP_009345034.1	27.7	101	409	3416	54	335	361	457	9.93e-06	39.7	68.9	2.8	64307	Gadgets Gully virus	YP_009345034.1 polyprotein [Gadgets Gully virus]

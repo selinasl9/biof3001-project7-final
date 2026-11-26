@@ -1,0 +1,2 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25702234_33921	YP_009126871.1	38.6	57	253	3374	184	35	2590	2646	1.70e-07	42.7	59.3	1.7	64299	Jutiapa virus	YP_009126871.1 polyprotein [Jutiapa virus]

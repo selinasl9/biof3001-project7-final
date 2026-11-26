@@ -1,0 +1,6 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25735081_5137	YP_009179389.1	36.4	66	1898	808	1699	1896	619	684	1.35e-06	47.0	10.4	8.2	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25735081_9900	YP_009553341.1	31.1	119	628	3425	221	559	1679	1785	9.11e-06	41.6	54.0	3.1	64315	Rocio virus	YP_009553341.1 polyprotein [Rocio virus]
+SRR25735081_11323	YP_009179389.1	23.2	336	1318	808	330	1283	403	681	5.39e-06	44.3	72.4	34.5	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25735081_16709	YP_009179389.1	29.9	174	1457	808	872	387	523	684	4.00e-07	48.1	33.4	20.0	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25735081_19232	YP_009179404.1	35.3	68	356	797	355	152	622	687	4.36e-06	40.0	57.3	8.3	1746071	Wuhan flea virus	YP_009179404.1 NS3-like protein [Wuhan flea virus]

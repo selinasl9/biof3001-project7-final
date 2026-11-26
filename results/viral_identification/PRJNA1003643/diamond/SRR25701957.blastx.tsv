@@ -1,0 +1,5 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25701957_5292	YP_009389296.1	24.9	229	7743	3341	2446	3114	2490	2691	7.77e-07	50.4	8.6	6.0	1969400	Mac Peak virus	YP_009389296.1 polyprotein [Mac Peak virus]
+SRR25701957_5292	YP_899469.2	25.0	204	7743	3363	2404	2985	2491	2686	6.65e-06	47.4	7.5	5.8	390844	Culex flavivirus	YP_899469.2 polyprotein [Culex flavivirus]
+SRR25701957_91504	YP_009345036.1	31.3	67	234	3400	17	205	1661	1727	1.60e-06	39.7	80.8	2.0	1805494	Bamaga virus	YP_009345036.1 polyprotein [Bamaga virus]
+SRR25701957_91504	YP_009513190.1	35.0	60	234	3417	32	199	1682	1741	5.63e-06	38.1	71.8	1.8	64288	Royal Farm virus	YP_009513190.1 polyprotein [Royal Farm virus]

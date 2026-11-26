@@ -1,0 +1,6 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25734889_742	YP_009389245.1	23.5	353	5613	597	3202	4215	223	546	2.58e-13	70.5	18.1	54.3	1969397	Karumba virus	YP_009389245.1 NS3 [Karumba virus]
+SRR25734889_742	YP_009388577.1	23.5	353	5613	3342	3202	4215	1652	1975	4.64e-13	70.5	18.1	9.7	1969397	Karumba virus	YP_009388577.1 polyprotein [Karumba virus]
+SRR25734889_742	YP_009552082.1	22.5	373	5613	3746	3061	4107	365	718	5.70e-09	57.0	18.7	9.5	1678179	Diatom colony associated ssRNA virus 1	YP_009552082.1 hypothetical polyprotein [Diatom colony associated ssRNA virus 1]
+SRR25734889_742	YP_009259661.1	23.5	268	5613	621	3175	3966	210	465	5.20e-07	50.1	14.1	41.2	631267	Chaoyang virus	YP_009259661.1 nonstructural protein NS3 [Chaoyang virus]
+SRR25734889_742	YP_009026410.1	23.7	270	5613	3445	3184	3972	1725	1981	5.46e-07	50.4	14.1	7.5	1485186	Nhumirim virus	YP_009026410.1 polyprotein [Nhumirim virus]

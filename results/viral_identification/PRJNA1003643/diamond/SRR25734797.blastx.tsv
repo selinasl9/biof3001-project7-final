@@ -1,0 +1,4 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25734797_569	YP_009389296.1	24.9	229	7750	3341	2442	3110	2490	2691	7.77e-07	50.4	8.6	6.0	1969400	Mac Peak virus	YP_009389296.1 polyprotein [Mac Peak virus]
+SRR25734797_569	YP_899469.2	25.0	204	7750	3363	2400	2981	2491	2686	6.65e-06	47.4	7.5	5.8	390844	Culex flavivirus	YP_899469.2 polyprotein [Culex flavivirus]
+SRR25734797_37036	YP_899469.2	31.7	82	250	3363	239	33	3083	3164	6.78e-06	38.1	82.8	2.4	390844	Culex flavivirus	YP_899469.2 polyprotein [Culex flavivirus]

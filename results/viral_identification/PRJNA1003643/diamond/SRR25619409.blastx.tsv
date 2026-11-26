@@ -1,0 +1,7 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25619409_183193	YP_009259288.1	45.0	40	215	889	95	214	42	80	1.24e-06	39.7	55.8	4.4	1708574	Mercadeo virus	YP_009259288.1 RNA-dependent RNA polymerase NS5 [Mercadeo virus]
+SRR25619409_183193	YP_009256193.1	35.6	73	215	3396	2	214	2517	2588	1.27e-06	39.7	99.1	2.1	1821222	Culiseta flavivirus	YP_009256193.1 polyprotein [Culiseta flavivirus]
+SRR25619409_183193	YP_009164031.1	45.0	40	215	3403	95	214	2556	2594	1.27e-06	39.7	55.8	1.1	1708574	Mercadeo virus	YP_009164031.1 flavivirus polyprotein [Mercadeo virus]
+SRR25619409_183193	YP_007877501.1	47.5	40	215	3359	95	214	2512	2550	1.73e-06	39.3	55.8	1.2	673515	Mosquito flavivirus	YP_007877501.1 polyprotein [Mosquito flavivirus]
+SRR25619409_183193	YP_899469.2	47.5	40	215	3363	95	214	2516	2554	1.73e-06	39.3	55.8	1.2	390844	Culex flavivirus	YP_899469.2 polyprotein [Culex flavivirus]
+SRR25619409_333701	YP_009345037.1	36.5	74	256	3422	38	238	1664	1730	2.95e-06	39.3	78.5	2.0	40012	Saumarez Reef virus	YP_009345037.1 polyprotein [Saumarez Reef virus]

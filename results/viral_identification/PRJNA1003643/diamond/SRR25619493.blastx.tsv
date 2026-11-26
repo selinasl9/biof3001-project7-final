@@ -1,0 +1,13 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25619493_27535	YP_009552767.1	45.2	42	165	3339	29	154	2493	2533	2.41e-07	40.8	76.4	1.2	2304510	Culex Flavi-like virus	YP_009552767.1 polyprotein [Culex Flavi-like virus]
+SRR25619493_27535	NP_937780.1	40.0	45	165	887	29	163	41	84	1.15e-06	38.9	81.8	5.0	218849	Kamiti River virus	NP_937780.1 NS5 protein [Kamiti River virus]
+SRR25619493_27535	NP_891560.1	40.0	45	165	3357	29	163	2511	2554	1.16e-06	38.9	81.8	1.3	218849	Kamiti River virus	NP_891560.1 flavivirus polyprotein [Kamiti River virus]
+SRR25619493_27535	YP_009389249.1	42.9	42	165	892	29	154	42	82	1.58e-06	38.5	76.4	4.6	1969397	Karumba virus	YP_009389249.1 NS5 [Karumba virus]
+SRR25619493_27535	YP_009388577.1	42.9	42	165	3342	29	154	2492	2532	1.59e-06	38.5	76.4	1.2	1969397	Karumba virus	YP_009388577.1 polyprotein [Karumba virus]
+SRR25619493_52009	YP_009179389.1	37.9	66	305	808	27	224	618	681	1.41e-06	40.8	64.9	7.9	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25619493_127462	YP_009179389.1	32.4	136	543	808	26	430	560	684	2.34e-08	48.5	74.6	15.5	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25619493_212701	YP_009026410.1	42.1	38	158	3445	9	119	3037	3074	2.00e-06	38.1	70.3	1.1	1485186	Nhumirim virus	YP_009026410.1 polyprotein [Nhumirim virus]
+SRR25619493_223098	YP_007877501.1	40.0	50	181	3359	18	167	2512	2558	5.10e-06	37.4	82.9	1.4	673515	Mosquito flavivirus	YP_007877501.1 polyprotein [Mosquito flavivirus]
+SRR25619493_223098	YP_899469.2	38.0	50	181	3363	18	167	2516	2562	9.59e-06	36.6	82.9	1.4	390844	Culex flavivirus	YP_899469.2 polyprotein [Culex flavivirus]
+SRR25619493_252568	YP_009179389.1	30.7	75	222	808	5	217	599	671	4.70e-06	38.1	95.9	9.0	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25619493_297519	NP_775649.1	31.1	61	230	616	190	8	192	245	9.77e-06	37.4	79.6	8.8	64312	Montana myotis leukoencephalitis virus	NP_775649.1 non-structural protein NS3, partial [Montana myotis leukoencephalitis virus]

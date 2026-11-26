@@ -1,0 +1,3 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25619233_129910	NP_937780.1	50.0	40	156	887	154	35	43	81	9.18e-06	36.2	76.9	4.4	218849	Kamiti River virus	NP_937780.1 NS5 protein [Kamiti River virus]
+SRR25619233_129910	NP_891560.1	50.0	40	156	3357	154	35	2513	2551	9.25e-06	36.2	76.9	1.2	218849	Kamiti River virus	NP_891560.1 flavivirus polyprotein [Kamiti River virus]

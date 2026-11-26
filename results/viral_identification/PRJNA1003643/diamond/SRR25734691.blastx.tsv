@@ -1,0 +1,5 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25734691_5505	YP_009179389.1	28.0	107	304	808	303	4	580	684	2.62e-06	40.0	98.7	13.0	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25734691_23771	YP_009351918.1	36.0	75	261	808	1	225	351	423	1.34e-07	43.1	86.2	9.0	1172985	Jingmen tick virus	YP_009351918.1 putative NS3-like protein [Jingmen tick virus]
+SRR25734691_23771	YP_009030000.1	36.0	75	261	808	1	225	351	423	1.34e-07	43.1	86.2	9.0	1172985	Jingmen tick virus	YP_009030000.1 NS3-like protein [Jingmen tick virus]
+SRR25734691_23771	YP_009179402.1	36.5	52	261	803	58	213	434	485	5.73e-06	38.5	59.8	6.5	1746063	Shuangao insect virus 7	YP_009179402.1 NS3-like protein [Shuangao insect virus 7]

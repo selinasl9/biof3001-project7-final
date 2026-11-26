@@ -1,0 +1,6 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25701320_17009	YP_009268612.1	69.4	36	250	889	154	47	481	516	8.99e-14	60.5	43.2	4.0	667516	Nakiwogo virus	YP_009268612.1 RNA-dependent RNA polymerase NS5 [Nakiwogo virus]
+SRR25701320_17009	YP_009259488.1	69.4	36	250	3373	154	47	2965	3000	9.23e-14	60.5	43.2	1.1	667516	Nakiwogo virus	YP_009259488.1 flavivirus polyprotein [Nakiwogo virus]
+SRR25701320_17009	YP_009259301.1	61.1	36	250	888	154	47	481	516	1.23e-13	60.1	43.2	4.1	31658	Cell fusing agent virus	YP_009259301.1 NS5 [Cell fusing agent virus]
+SRR25701320_17009	YP_009259365.1	66.7	36	250	889	154	47	481	516	1.23e-13	60.1	43.2	4.0	643132	Quang Binh virus	YP_009259365.1 RNA-dependent RNA polymerase NS5 [Quang Binh virus]
+SRR25701320_17009	YP_009259257.1	61.1	36	250	3341	154	47	2934	2969	1.26e-13	60.1	43.2	1.1	31658	Cell fusing agent virus	YP_009259257.1 polyprotein [Cell fusing agent virus]

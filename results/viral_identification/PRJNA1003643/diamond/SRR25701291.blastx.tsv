@@ -1,0 +1,8 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25701291_46002	YP_009552767.1	29.2	168	587	3339	8	481	1635	1795	1.44e-08	49.7	80.7	4.8	2304510	Culex Flavi-like virus	YP_009552767.1 polyprotein [Culex Flavi-like virus]
+SRR25701291_46002	NP_775649.1	30.3	109	587	616	8	322	186	288	1.64e-08	49.3	53.7	16.7	64312	Montana myotis leukoencephalitis virus	NP_775649.1 non-structural protein NS3, partial [Montana myotis leukoencephalitis virus]
+SRR25701291_46002	NP_689391.1	30.3	109	587	3374	8	322	1649	1751	1.94e-08	49.3	53.7	3.1	64312	Montana myotis leukoencephalitis virus	NP_689391.1 polyprotein [Montana myotis leukoencephalitis virus]
+SRR25701291_46002	NP_740264.1	31.1	103	587	618	26	322	194	290	9.86e-08	47.0	50.6	15.7	64300	Modoc virus	NP_740264.1 non-structural protein 3 [Modoc virus]
+SRR25701291_46002	NP_619758.1	31.1	103	587	3374	26	322	1654	1750	1.16e-07	47.0	50.6	2.9	64300	Modoc virus	NP_619758.1 polyprotein [Modoc virus]
+SRR25701291_195181	YP_009352228.1	38.5	39	210	3385	14	130	1462	1500	3.00e-06	38.5	55.7	1.2	1244565	Ochlerotatus caspius flavivirus	YP_009352228.1 polyprotein [Ochlerotatus caspius flavivirus]
+SRR25701291_195181	YP_009259489.1	38.5	39	210	3385	14	130	1462	1500	4.12e-06	38.1	55.7	1.2	1125677	Hanko virus	YP_009259489.1 flavivirus polyprotein [Hanko virus]

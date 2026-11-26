@@ -1,0 +1,6 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25619448_4903	YP_009169331.1	51.5	33	177	3441	25	123	2606	2638	1.06e-06	39.3	55.9	1.0	1566298	Paraiso Escondido virus	YP_009169331.1 polyprotein [Paraiso Escondido virus]
+SRR25619448_4903	YP_009344969.1	50.0	40	177	3390	25	123	2555	2594	1.45e-06	38.9	55.9	1.2	64309	Jugra virus	YP_009344969.1 polyprotein [Jugra virus]
+SRR25619448_4903	YP_009345036.1	64.3	28	177	3400	10	93	2561	2587	1.98e-06	38.5	47.5	0.8	1805494	Bamaga virus	YP_009345036.1 polyprotein [Bamaga virus]
+SRR25619448_4903	YP_009345037.1	38.5	52	177	3422	16	171	2583	2629	2.72e-06	38.1	88.1	1.4	40012	Saumarez Reef virus	YP_009345037.1 polyprotein [Saumarez Reef virus]
+SRR25619448_4903	YP_009344968.1	60.7	28	177	3393	25	105	2557	2584	3.72e-06	37.7	45.8	0.8	64297	Uganda S virus	YP_009344968.1 polyprotein [Uganda S virus]

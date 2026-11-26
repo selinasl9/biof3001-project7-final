@@ -1,0 +1,8 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25701891_7111	NP_891560.1	63.6	66	308	3357	243	46	1991	2055	1.57e-24	92.0	64.3	1.9	218849	Kamiti River virus	NP_891560.1 flavivirus polyprotein [Kamiti River virus]
+SRR25701891_7111	YP_009259297.1	58.1	62	308	587	243	58	527	587	8.33e-23	87.0	60.4	10.4	31658	Cell fusing agent virus	YP_009259297.1 NS3 [Cell fusing agent virus]
+SRR25701891_7111	YP_009259257.1	58.1	62	308	3341	243	58	1978	2038	8.98e-23	87.0	60.4	1.8	31658	Cell fusing agent virus	YP_009259257.1 polyprotein [Cell fusing agent virus]
+SRR25701891_7111	YP_003029843.1	57.1	63	308	3341	243	55	1978	2039	1.67e-22	86.3	61.4	1.9	390845	Aedes flavivirus	YP_003029843.1 flavivirus polyprotein [Aedes flavivirus]
+SRR25701891_7111	YP_009259327.1	56.5	62	308	587	243	58	527	587	5.40e-22	84.7	60.4	10.4	390845	Aedes flavivirus	YP_009259327.1 nonstructural protein NS3 [Aedes flavivirus]
+SRR25701891_47465	YP_009175071.1	35.7	56	241	7333	22	189	251	306	1.34e-09	48.5	69.7	0.8	1685953	Macrosiphum euphorbiae virus 1	YP_009175071.1 polyprotein [Macrosiphum euphorbiae virus 1]
+SRR25701891_67671	YP_009268604.1	39.0	41	229	427	201	79	295	335	9.56e-06	37.4	53.7	9.6	667516	Nakiwogo virus	YP_009268604.1 envelope protein E [Nakiwogo virus]

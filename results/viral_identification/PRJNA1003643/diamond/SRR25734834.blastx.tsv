@@ -1,0 +1,7 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25734834_2581	YP_009179389.1	31.5	149	1734	808	978	535	550	684	9.06e-07	47.4	25.6	16.7	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25734834_51480	YP_009259265.1	54.0	50	155	396	147	1	328	375	2.58e-15	63.2	94.8	12.1	1708654	Parramatta River virus	YP_009259265.1 nonstructural protein NS1 [Parramatta River virus]
+SRR25734834_51480	YP_009259273.1	54.0	50	155	652	147	1	328	375	2.65e-15	63.2	94.8	7.4	1708654	Parramatta River virus	YP_009259273.1 NS1-NS2AN-FIFO protein [Parramatta River virus]
+SRR25734834_51480	YP_009259258.1	54.0	50	155	1371	147	1	1046	1093	2.65e-15	63.2	94.8	3.5	1708654	Parramatta River virus	YP_009259258.1 truncated polyprotein [Parramatta River virus]
+SRR25734834_51480	YP_009164029.1	54.0	50	155	3384	147	1	1046	1093	2.66e-15	63.2	94.8	1.4	1708654	Parramatta River virus	YP_009164029.1 flavivirus polyprotein [Parramatta River virus]
+SRR25734834_51480	YP_009259257.1	47.1	51	155	3341	153	1	1028	1078	9.28e-15	61.6	98.7	1.5	31658	Cell fusing agent virus	YP_009259257.1 polyprotein [Cell fusing agent virus]

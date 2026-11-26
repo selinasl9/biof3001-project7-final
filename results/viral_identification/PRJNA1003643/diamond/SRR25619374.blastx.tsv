@@ -1,0 +1,2 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25619374_10886	YP_009026410.1	28.8	66	195	3445	182	6	146	211	1.79e-06	38.9	90.8	1.9	1485186	Nhumirim virus	YP_009026410.1 polyprotein [Nhumirim virus]

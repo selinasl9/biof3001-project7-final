@@ -1,0 +1,6 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25734491_16077	YP_009259331.1	52.6	78	470	890	375	196	520	597	3.29e-20	82.0	38.3	8.8	390845	Aedes flavivirus	YP_009259331.1 RNA-dependent RNA polymerase NS5 [Aedes flavivirus]
+SRR25734491_16077	YP_003029843.1	52.6	78	470	3341	375	196	2971	3048	3.58e-20	82.0	38.3	2.3	390845	Aedes flavivirus	YP_003029843.1 flavivirus polyprotein [Aedes flavivirus]
+SRR25734491_16077	YP_009552767.1	47.6	84	470	3339	393	196	2963	3046	4.87e-20	81.6	42.1	2.5	2304510	Culex Flavi-like virus	YP_009552767.1 polyprotein [Culex Flavi-like virus]
+SRR25734491_16077	YP_009256193.1	51.2	84	470	3396	393	196	3020	3103	6.64e-20	81.3	42.1	2.5	1821222	Culiseta flavivirus	YP_009256193.1 polyprotein [Culiseta flavivirus]
+SRR25734491_16077	NP_937780.1	52.6	78	470	887	375	196	517	594	5.30e-19	78.6	38.3	8.8	218849	Kamiti River virus	NP_937780.1 NS5 protein [Kamiti River virus]

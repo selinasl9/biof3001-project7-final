@@ -1,0 +1,11 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25734946_35721	YP_009268621.1	52.2	92	278	392	275	3	212	303	1.97e-31	109	98.2	23.5	1125677	Hanko virus	YP_009268621.1 nonstructural protein NS1 [Hanko virus]
+SRR25734946_35721	YP_009259265.1	51.1	92	278	396	275	3	212	303	2.07e-31	109	98.2	23.2	1708654	Parramatta River virus	YP_009259265.1 nonstructural protein NS1 [Parramatta River virus]
+SRR25734946_35721	YP_009352228.1	52.2	92	278	3385	275	3	927	1018	3.44e-31	110	98.2	2.7	1244565	Ochlerotatus caspius flavivirus	YP_009352228.1 polyprotein [Ochlerotatus caspius flavivirus]
+SRR25734946_35721	YP_009553010.1	52.3	88	278	3274	266	3	837	924	6.41e-31	109	95.0	2.7	1244563	Culex theileri flavivirus	YP_009553010.1 polyprotein [Culex theileri flavivirus]
+SRR25734946_35721	YP_009268629.1	52.2	92	278	651	275	3	212	303	8.03e-31	109	98.2	14.1	1125677	Hanko virus	YP_009268629.1 NS1-NS2AN-FIFO protein [Hanko virus]
+SRR25734946_100894	YP_899469.2	64.1	39	153	3363	2	118	744	782	4.65e-12	53.9	76.5	1.2	390844	Culex flavivirus	YP_899469.2 polyprotein [Culex flavivirus]
+SRR25734946_100894	YP_009552767.1	56.4	39	153	3339	2	118	673	711	1.19e-11	52.8	76.5	1.2	2304510	Culex Flavi-like virus	YP_009552767.1 polyprotein [Culex Flavi-like virus]
+SRR25734946_100894	YP_007877501.1	59.5	37	153	3359	2	112	740	776	2.23e-11	52.0	72.5	1.1	673515	Mosquito flavivirus	YP_007877501.1 polyprotein [Mosquito flavivirus]
+SRR25734946_100894	YP_009259358.1	59.5	37	153	393	2	112	35	71	3.01e-11	51.6	72.5	9.4	643132	Quang Binh virus	YP_009259358.1 nonstructural protein NS1 [Quang Binh virus]
+SRR25734946_100894	YP_006491222.1	59.5	37	153	688	2	112	35	71	3.03e-11	51.6	72.5	5.4	643132	Quang Binh virus	YP_006491222.1 NS1-NS2AN-FIFO protein [Quang Binh virus]

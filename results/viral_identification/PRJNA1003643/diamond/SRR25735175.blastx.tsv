@@ -1,0 +1,7 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25735175_15414	YP_007877501.1	46.9	49	160	3359	149	3	1015	1062	6.34e-14	59.3	91.9	1.4	673515	Mosquito flavivirus	YP_007877501.1 polyprotein [Mosquito flavivirus]
+SRR25735175_15414	YP_009553010.1	46.0	50	160	3274	152	3	931	979	3.03e-13	57.4	93.8	1.5	1244563	Culex theileri flavivirus	YP_009553010.1 polyprotein [Culex theileri flavivirus]
+SRR25735175_15414	YP_009268605.1	46.2	52	160	398	158	3	308	357	4.08e-13	57.0	97.5	12.6	667516	Nakiwogo virus	YP_009268605.1 nonstructural protein NS1 [Nakiwogo virus]
+SRR25735175_15414	YP_009268613.1	46.2	52	160	685	158	3	308	357	4.12e-13	57.0	97.5	7.3	667516	Nakiwogo virus	YP_009268613.1 NS1-NS2AN-FIFO protein [Nakiwogo virus]
+SRR25735175_15414	YP_009268598.1	46.2	52	160	1397	158	3	1020	1069	4.14e-13	57.0	97.5	3.6	667516	Nakiwogo virus	YP_009268598.1 truncated polyprotein [Nakiwogo virus]
+SRR25735175_38146	YP_009179404.1	37.5	72	366	797	121	336	617	686	3.47e-08	46.2	59.0	8.8	1746071	Wuhan flea virus	YP_009179404.1 NS3-like protein [Wuhan flea virus]

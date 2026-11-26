@@ -1,0 +1,6 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR19859373_13205	YP_009430307.1	98.5	68	226	251	206	3	20	87	6.72e-44	137	90.3	27.1	64320	Zika virus	YP_009430307.1 nonstructural protein NS4B [Zika virus]
+SRR19859373_13205	YP_009428568.1	98.5	68	226	3423	206	3	2289	2356	4.18e-41	137	90.3	2.0	64320	Zika virus	YP_009428568.1 flavivirus polyprotein [Zika virus]
+SRR19859373_13205	YP_002790881.1	95.5	67	226	3419	206	6	2285	2351	6.03e-39	131	88.9	2.0	64320	Zika virus	YP_002790881.1 polyprotein [Zika virus]
+SRR19859373_13205	YP_002790882.1	50.7	71	226	3408	206	3	2274	2344	2.24e-21	81.6	90.3	2.1	64311	Kedougou virus	YP_002790882.1 polyprotein [Kedougou virus]
+SRR19859373_13205	YP_004734464.1	66.7	54	226	3425	167	6	2300	2353	3.07e-21	81.3	71.7	1.6	64293	Tembusu virus	YP_004734464.1 flavivirus polyprotein [Tembusu virus]

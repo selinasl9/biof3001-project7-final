@@ -1,0 +1,13 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25734469_19980	YP_009179404.1	41.8	79	800	797	380	610	617	693	2.69e-08	50.1	28.9	9.7	1746071	Wuhan flea virus	YP_009179404.1 NS3-like protein [Wuhan flea virus]
+SRR25734469_31176	YP_009259257.1	44.6	83	464	3341	103	351	1007	1089	2.73e-23	90.9	53.7	2.5	31658	Cell fusing agent virus	YP_009259257.1 polyprotein [Cell fusing agent virus]
+SRR25734469_31176	YP_009350102.1	44.7	85	464	3414	103	348	1039	1123	1.12e-21	86.3	53.0	2.5	1821227	Xishuangbanna aedes flavivirus	YP_009350102.1 polyprotein [Xishuangbanna aedes flavivirus]
+SRR25734469_31176	NP_937774.1	43.2	81	464	390	103	345	302	382	1.56e-21	85.1	52.4	20.8	218849	Kamiti River virus	NP_937774.1 NS1 protein [Kamiti River virus]
+SRR25734469_31176	YP_006491220.1	43.2	81	464	651	103	345	302	382	2.49e-21	85.1	52.4	12.4	218849	Kamiti River virus	YP_006491220.1 NS1-NS2AN-FIFO protein [Kamiti River virus]
+SRR25734469_31176	YP_006491219.1	43.2	81	464	1369	103	345	1020	1100	2.71e-21	85.1	52.4	5.9	218849	Kamiti River virus	YP_006491219.1 truncated polyprotein [Kamiti River virus]
+SRR25734469_54143	YP_009179389.1	31.5	149	965	808	1	444	550	684	3.24e-07	47.4	46.0	16.7	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25734469_114171	YP_009259294.1	76.3	38	168	358	52	165	265	302	3.82e-18	71.2	67.9	10.6	31658	Cell fusing agent virus	YP_009259294.1 NS1 [Cell fusing agent virus]
+SRR25734469_114171	YP_009259257.1	76.3	38	168	3341	52	165	970	1007	4.70e-18	71.2	67.9	1.1	31658	Cell fusing agent virus	YP_009259257.1 polyprotein [Cell fusing agent virus]
+SRR25734469_114171	NP_937774.1	73.7	38	168	390	52	165	265	302	5.77e-18	70.9	67.9	9.7	218849	Kamiti River virus	NP_937774.1 NS1 protein [Kamiti River virus]
+SRR25734469_114171	YP_006491220.1	73.7	38	168	651	52	165	265	302	6.36e-18	70.9	67.9	5.8	218849	Kamiti River virus	YP_006491220.1 NS1-NS2AN-FIFO protein [Kamiti River virus]
+SRR25734469_114171	YP_006491219.1	73.7	38	168	1369	52	165	983	1020	6.40e-18	70.9	67.9	2.8	218849	Kamiti River virus	YP_006491219.1 truncated polyprotein [Kamiti River virus]

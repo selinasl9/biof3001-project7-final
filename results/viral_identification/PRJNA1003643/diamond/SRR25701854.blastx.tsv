@@ -1,0 +1,3 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25701854_66639	NP_740325.1	36.8	57	177	900	167	12	36	91	9.08e-06	36.6	88.1	6.2	11070	dengue virus type 4	NP_740325.1 NS5 protein [dengue virus type 4]
+SRR25701854_66639	NP_073286.1	36.8	57	177	3387	167	12	2523	2578	9.19e-06	36.6	88.1	1.7	11070	dengue virus type 4	NP_073286.1 polyprotein [dengue virus type 4]

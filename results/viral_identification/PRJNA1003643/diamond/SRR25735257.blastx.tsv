@@ -1,0 +1,6 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25735257_49465	YP_009259288.1	80.7	57	371	889	13	183	459	515	1.13e-30	110	46.1	6.4	1708574	Mercadeo virus	YP_009259288.1 RNA-dependent RNA polymerase NS5 [Mercadeo virus]
+SRR25735257_49465	YP_009268612.1	80.7	57	371	889	13	183	459	515	1.13e-30	110	46.1	6.4	667516	Nakiwogo virus	YP_009268612.1 RNA-dependent RNA polymerase NS5 [Nakiwogo virus]
+SRR25735257_49465	YP_009259488.1	80.7	57	371	3373	13	183	2943	2999	1.19e-30	110	46.1	1.7	667516	Nakiwogo virus	YP_009259488.1 flavivirus polyprotein [Nakiwogo virus]
+SRR25735257_49465	YP_009164031.1	80.7	57	371	3403	13	183	2973	3029	1.19e-30	110	46.1	1.7	1708574	Mercadeo virus	YP_009164031.1 flavivirus polyprotein [Mercadeo virus]
+SRR25735257_49465	YP_009259365.1	78.0	59	371	889	13	189	459	517	3.90e-30	108	47.7	6.6	643132	Quang Binh virus	YP_009259365.1 RNA-dependent RNA polymerase NS5 [Quang Binh virus]

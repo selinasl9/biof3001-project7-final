@@ -1,0 +1,5 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25701393_15463	YP_009305402.1	49.3	67	1023	597	91	291	398	462	1.04e-06	45.8	19.6	10.9	1903340	Anopheles flavivirus variant 1	YP_009305402.1 NS3 [Anopheles flavivirus variant 1]
+SRR25701393_15463	YP_009305197.1	49.3	67	1023	3341	91	291	1827	1891	1.34e-06	45.8	19.6	1.9	1903340	Anopheles flavivirus variant 1	YP_009305197.1 polyprotein [Anopheles flavivirus variant 1]
+SRR25701393_15463	YP_009389245.1	46.2	65	1023	597	97	291	400	462	9.88e-06	42.7	19.1	10.6	1969397	Karumba virus	YP_009389245.1 NS3 [Karumba virus]
+SRR25701393_39860	YP_009259271.1	28.6	70	259	259	72	251	181	248	9.01e-06	37.7	69.5	26.3	1708654	Parramatta River virus	YP_009259271.1 nonstructural protein NS4B [Parramatta River virus]

@@ -1,0 +1,8 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25734743_28220	YP_009305402.1	49.3	67	600	597	506	306	398	462	2.56e-07	45.8	33.5	10.9	1903340	Anopheles flavivirus variant 1	YP_009305402.1 NS3 [Anopheles flavivirus variant 1]
+SRR25734743_28220	YP_009305197.1	49.3	67	600	3341	506	306	1827	1891	3.04e-07	45.8	33.5	1.9	1903340	Anopheles flavivirus variant 1	YP_009305197.1 polyprotein [Anopheles flavivirus variant 1]
+SRR25734743_28220	YP_009389245.1	46.2	65	600	597	500	306	400	462	2.75e-06	42.7	32.5	10.6	1969397	Karumba virus	YP_009389245.1 NS3 [Karumba virus]
+SRR25734743_28220	YP_009388577.1	46.2	65	600	3342	500	306	1829	1891	3.25e-06	42.7	32.5	1.9	1969397	Karumba virus	YP_009388577.1 polyprotein [Karumba virus]
+SRR25734743_28220	YP_009389296.1	49.2	65	600	3341	500	306	1828	1890	4.36e-06	42.4	32.5	1.9	1969400	Mac Peak virus	YP_009389296.1 polyprotein [Mac Peak virus]
+SRR25734743_38408	YP_009553341.1	39.5	43	155	3425	150	37	2607	2649	4.92e-06	37.0	73.5	1.3	64315	Rocio virus	YP_009553341.1 polyprotein [Rocio virus]
+SRR25734743_38408	YP_002790881.1	58.3	24	155	3419	150	79	2602	2625	9.25e-06	36.2	46.5	0.7	64320	Zika virus	YP_002790881.1 polyprotein [Zika virus]

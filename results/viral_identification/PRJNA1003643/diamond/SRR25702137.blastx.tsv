@@ -1,0 +1,5 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25702137_27299	YP_009389296.1	24.6	228	5248	3341	3111	2443	2490	2691	1.94e-06	48.5	12.7	6.0	1969400	Mac Peak virus	YP_009389296.1 polyprotein [Mac Peak virus]
+SRR25702137_50054	YP_009179404.1	29.8	84	524	797	403	170	609	684	3.12e-07	45.1	44.7	9.5	1746071	Wuhan flea virus	YP_009179404.1 NS3-like protein [Wuhan flea virus]
+SRR25702137_50054	YP_009179389.1	30.1	113	524	808	505	185	571	681	3.13e-07	45.1	61.3	13.7	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25702137_50054	YP_899469.2	32.7	113	524	3363	370	32	1847	1940	6.92e-06	41.2	64.7	2.8	390844	Culex flavivirus	YP_899469.2 polyprotein [Culex flavivirus]

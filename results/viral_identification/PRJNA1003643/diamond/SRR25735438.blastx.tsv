@@ -1,0 +1,4 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25735438_5480	YP_009175071.1	33.9	56	262	7333	216	49	251	306	1.14e-08	46.2	64.1	0.8	1685953	Macrosiphum euphorbiae virus 1	YP_009175071.1 polyprotein [Macrosiphum euphorbiae virus 1]
+SRR25735438_11444	YP_009551951.1	29.7	118	587	3483	6	356	1993	2103	5.51e-06	42.0	59.8	3.2	2050971	Lumpfish flavivirus	YP_009551951.1 polyprotein [Lumpfish flavivirus]
+SRR25735438_28768	YP_009179408.1	34.6	52	263	260	9	164	70	121	7.03e-06	38.1	59.3	20.0	1746070	Wuhan cricket virus	YP_009179408.1 putative capsid protein [Wuhan cricket virus]

@@ -1,0 +1,150 @@
+IQ-TREE version 3.1.4 for Linux x86 64-bit built Sep 29 2026
+Developed by Bui Quang Minh, Thomas Wong, Nhan Ly-Trong, Huaiyan Ren
+Contributed by Lam-Tung Nguyen, Dominik Schrempf, Chris Bielow,
+Olga Chernomor, Michael Woodhams, Diep Thi Hoang, Heiko Schmidt
+
+Host:    biomed1 (AVX512, FMA3, 754 GB RAM)
+Command: iqtree2 -s results/host_tree/host_coi_msa.fasta -m MFP -B 1000 -T 4 --prefix results/host_tree/host_coi
+Seed:    487228 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Wed Nov 25 01:15:16 2026
+Kernel:  AVX+FMA - 4 threads (80 CPU cores detected)
+
+Reading alignment file results/host_tree/host_coi_msa.fasta ... Fasta format detected
+Reading fasta file: done in 0.000864029 secs using 74.07% CPU
+Alignment most likely contains DNA/RNA sequences
+Constructing alignment: done in 0.00393486 secs using 344.4% CPU
+Alignment has 12 sequences with 1571 columns, 458 distinct patterns
+297 parsimony-informative, 206 singleton sites, 1068 constant sites
+                                         Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 5.19753e-05 secs using 71.19% CPU
+   1  Aedes_albopictus|KU738386.1                0.19%    passed     90.14%
+   2  Aedes_aegypti|PZ792274.1                   1.85%    passed     59.94%
+   3  Culex_tarsalis|PZ832183.1                 56.33%    passed     73.16%
+   4  Culex_pipiens|FN395171.1                   1.85%    passed     93.92%
+   5  Culex_tritaeniorhynchus|OK493311.1         1.85%    passed     99.11%
+   6  Culex_orientalis|AB690841.1               58.12%    passed     98.41%
+   7  Coquillettidia_venezuelensis|PZ792264.1    1.85%    passed     49.39%
+   8  Culex_gelidus|PZ696519.1                  45.51%    passed     63.12%
+   9  Ochlerotatus_caspius|MT993477.1            2.16%    passed     96.54%
+  10  Ochlerotatus_procax|OQ946966.1             7.96%    passed     97.69%
+  11  Ochlerotatus_vigilax|OR269785.1            9.87%    passed     98.67%
+  12  Drosophila_melanogaster|GQ229519.1         1.34%    passed     47.88%
+WARNING: 2 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                                     15.74%  0 sequences failed composition chi2 test (p-value<5%; df=3)
+Checking for duplicate sequences: done in 9.60827e-05 secs using 148.8% CPU
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.001 seconds
+Perform fast likelihood tree search using GTR+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -6384.625
+Optimal log-likelihood: -6384.403
+Rate parameters:  A-C: 0.46845  A-G: 12.66365  A-T: 21.65486  C-G: 3.99448  C-T: 32.97752  G-T: 1.00000
+Base frequencies:  A: 0.303  C: 0.152  G: 0.146  T: 0.399
+Proportion of invariable sites: 0.343
+Gamma shape alpha: 0.535
+Parameters optimization took 1 rounds (0.010 sec)
+Time for fast ML tree search: 0.114 seconds
+
+NOTE: ModelFinder requires 3 MB RAM!
+ModelFinder will test up to 968 DNA models (sample size: 1571 epsilon: 0.100) ...
+Akaike Information Criterion:           GTR+F+G4
+Corrected Akaike Information Criterion: GTR+F+G4
+Bayesian Information Criterion:         GTR+F+G4
+Best-fit model: GTR+F+G4 chosen according to BIC
+
+All model information printed to results/host_tree/host_coi.model.gz
+CPU time for ModelFinder: 8.222 seconds (0h:0m:8s)
+Wall-clock time for ModelFinder: 2.077 seconds (0h:0m:2s)
+Generating 1000 samples for ultrafast bootstrap (seed: 487228)...
+
+NOTE: 2 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -6382.590
+Optimal log-likelihood: -6382.557
+Rate parameters:  A-C: 0.64070  A-G: 17.00216  A-T: 28.70804  C-G: 5.38974  C-T: 43.45789  G-T: 1.00000
+Base frequencies:  A: 0.303  C: 0.152  G: 0.146  T: 0.399
+Gamma shape alpha: 0.225
+Parameters optimization took 1 rounds (0.008 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.000667095 secs using 423.3% CPU
+Computing ML distances took 0.000806 sec (of wall-clock time) 0.003214 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 7.89165e-05 secs using 447.3% CPU
+Constructing RapidNJ tree: done in 0.000316143 secs using 266% CPU
+Computing RapidNJ tree took 0.000483 sec (of wall-clock time) 0.001582 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -6393.506
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.150 second
+Computing log-likelihood of 96 initial trees ... 0.229 seconds
+Current best score: -6382.557
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -6382.557
+Iteration 10 / LogL: -6382.581 / Time: 0h:0m:2s
+Iteration 20 / LogL: -6382.723 / Time: 0h:0m:2s
+Finish initializing candidate tree set (1)
+Current best tree score: -6382.557 / CPU time: 0.793
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+UPDATE BEST LOG-LIKELIHOOD: -6382.557
+Iteration 30 / LogL: -6382.563 / Time: 0h:0m:3s (0h:0m:2s left)
+Iteration 40 / LogL: -6382.563 / Time: 0h:0m:3s (0h:0m:2s left)
+Iteration 50 / LogL: -6382.574 / Time: 0h:0m:3s (0h:0m:1s left)
+Log-likelihood cutoff on original alignment: -6409.546
+Iteration 60 / LogL: -6382.566 / Time: 0h:0m:4s (0h:0m:1s left)
+Iteration 70 / LogL: -6382.563 / Time: 0h:0m:4s (0h:0m:1s left)
+Iteration 80 / LogL: -6382.563 / Time: 0h:0m:5s (0h:0m:0s left)
+Iteration 90 / LogL: -6382.564 / Time: 0h:0m:5s (0h:0m:0s left)
+Iteration 100 / LogL: -6382.733 / Time: 0h:0m:5s (0h:0m:0s left)
+Log-likelihood cutoff on original alignment: -6408.614
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 1.000
+TREE SEARCH COMPLETED AFTER 102 ITERATIONS / Time: 0h:0m:5s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -6382.557
+Optimal log-likelihood: -6382.557
+Rate parameters:  A-C: 0.62536  A-G: 16.97501  A-T: 28.70172  C-G: 5.39990  C-T: 43.45587  G-T: 1.00000
+Base frequencies:  A: 0.303  C: 0.152  G: 0.146  T: 0.399
+Gamma shape alpha: 0.225
+Parameters optimization took 1 rounds (0.006 sec)
+BEST SCORE FOUND : -6382.557
+Creating bootstrap support values...
+Split supports printed to NEXUS file results/host_tree/host_coi.splits.nex
+Total tree length: 0.983
+
+Total number of iterations: 102
+CPU time used for tree search: 14.429 sec (0h:0m:14s)
+Wall-clock time used for tree search: 3.616 sec (0h:0m:3s)
+Total CPU time used: 23.325 sec (0h:0m:23s)
+Total wall-clock time used: 5.864 sec (0h:0m:5s)
+
+Computing bootstrap consensus tree...
+Reading input file results/host_tree/host_coi.splits.nex...
+12 taxa and 72 splits.
+Consensus tree written to results/host_tree/host_coi.contree
+Reading input trees file results/host_tree/host_coi.contree
+Log-likelihood of consensus tree: -6382.557
+
+Analysis results written to: 
+  IQ-TREE report:                results/host_tree/host_coi.iqtree
+  Maximum-likelihood tree:       results/host_tree/host_coi.treefile
+  Likelihood distances:          results/host_tree/host_coi.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          results/host_tree/host_coi.splits.nex
+  Consensus tree:                results/host_tree/host_coi.contree
+  Screen log file:               results/host_tree/host_coi.log
+
+Date and Time: Wed Nov 25 01:15:22 2026

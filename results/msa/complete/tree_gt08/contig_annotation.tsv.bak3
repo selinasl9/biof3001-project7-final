@@ -1,0 +1,122 @@
+contig	cluster	length_bp	run	bioproject	country	province	lat_lon	host_species	host_genus	host_group	collection_date	diamond_species	pident	qcovhsp	nearest_reference	nearest_reference_name	tree_distance	singleton_cluster
+SRR22751824_1020	0	10940	SRR22751824	PRJNA911492	China			Aedes albopictus	Aedes	Aedes	2018-10-16	Aedes flavivirus	97.8	91.6	NC_012932.1	Aedes flavivirus	0.1002	no
+SRR22751826_2035	0	10905	SRR22751826	PRJNA911492	China			Aedes albopictus	Aedes	Aedes	2018-10-17	Aedes flavivirus	97.8	91.9	NC_012932.1	Aedes flavivirus	0.1009	no
+SRR25619241_230	0	10865	SRR25619241	PRJNA1003643	China	Yunnan	24.08 N 98.04 E	Aedes albopictus	Aedes	Aedes	2020-07-14	Aedes flavivirus	97.8	92.2	NC_012932.1	Aedes flavivirus	0.1008	no
+SRR25701690_6065_rev	0	10773	SRR25701690	PRJNA1003643	China	Yunnan	25.91 N 98.83 E	Aedes albopictus	Aedes	Aedes	2020-07-18	Aedes flavivirus	97.6	93.0	NC_012932.1	Aedes flavivirus	0.1011	no
+SRR22751784_4127	0	10771	SRR22751784	PRJNA911492	China			Aedes aegypti	Aedes	Aedes	2018-10-18	Aedes flavivirus	97.7	93.1	NC_012932.1	Aedes flavivirus	0.1018	no
+SRR11035291_251_rev	1	10760	SRR11035291	PRJNA605178	USA			Culex tarsalis	Culex	Culex	2017-09-12	Culex Flavi-like virus	97.3	92.7	NC_040645.1	Culex Flavi-like virus	0.0542	yes
+SRR11035278_141_rev	2	10750	SRR11035278	PRJNA605178	USA			Culex pipiens	Culex	Culex	2017-08-25	Culex flavivirus	99.2	93.9	NC_008604.2	Culex flavivirus	0.0123	no
+SRR25702102_344	3	10746	SRR25702102	PRJNA1003643	China	Yunnan	24.40 N 98.41 E	Culex tritaeniorhynchus	Culex	Culex	2020-07-12	Quang Binh virus	99.6	93.8	NC_021069.1	Mosquito flavivirus	0.0107	no
+SRR11035295_617_rev	2	10742	SRR11035295	PRJNA605178	USA			Culex pipiens	Culex	Culex	2017-09-13	Culex flavivirus	99.2	93.9	NC_008604.2	Culex flavivirus	0.0124	no
+SRR25735072_1404_rev	4	10727	SRR25735072	PRJNA1003643	China	Xizang	28.60 N 97.23 E	Culex orientalis	Culex	Culex	2020-07-24	Quang Binh virus	88.4	93.9	NC_021069.1	Mosquito flavivirus	0.3652	no
+SRR25619242_952_rev	0	10712	SRR25619242	PRJNA1003643	China	Yunnan	24.08 N 98.04 E	Aedes albopictus	Aedes	Aedes	2020-07-14	Aedes flavivirus	97.8	93.6	NC_012932.1	Aedes flavivirus	0.1034	no
+SRR25701622_2861	0	10710	SRR25701622	PRJNA1003643	China	Yunnan	21.69 N 100.05 E	Aedes albopictus	Aedes	Aedes	2019-06-21	Aedes flavivirus	97.7	93.6	NC_012932.1	Aedes flavivirus	0.1019	no
+SRR25735076_522_rev	4	10692	SRR25735076	PRJNA1003643	China	Xizang	28.60 N 97.23 E	Culex orientalis	Culex	Culex	2020-07-24	Quang Binh virus	88.4	94.2	NC_021069.1	Mosquito flavivirus	0.3658	no
+SRR16905219_8588	2	10683	SRR16905219	PRJNA778885	China			Culex pipiens	Culex	Culex	2018-06-01	Culex flavivirus	97.9	94.4	NC_008604.2	Culex flavivirus	0.0580	no
+SRR22751809_137_rev	5	10676	SRR22751809	PRJNA911492	China			Aedes aegypti	Aedes	Aedes	2018-10-31	Orthoflavivirus iunctionis	98.2	93.9	NC_001564.2	Cell fusing agent virus	0.0392	no
+SRR25734997_3401	3	10672	SRR25734997	PRJNA1003643	China	Yunnan	24.40 N 98.41 E	Culex tritaeniorhynchus	Culex	Culex	2020-07-12	Quang Binh virus	99.6	94.4	NC_021069.1	Mosquito flavivirus	0.0099	no
+SRR25735077_504_rev	4	10668	SRR25735077	PRJNA1003643	China	Xizang	28.60 N 97.23 E	Culex orientalis	Culex	Culex	2020-07-24	Quang Binh virus	88.3	94.3	NC_021069.1	Mosquito flavivirus	0.3656	no
+SRR25701286_1561	0	10659	SRR25701286	PRJNA1003643	China	Yunnan	21.69 N 100.05 E	Aedes albopictus	Aedes	Aedes	2019-06-21	Aedes flavivirus	97.7	94.0	NC_012932.1	Aedes flavivirus	0.1012	no
+SRR25735237_419	6	10658	SRR25735237	PRJNA1003643	China	Sichuan	31.60 N 104.82 E	Culex tritaeniorhynchus	Culex	Culex	2019-08-13	Quang Binh virus	97.2	94.5	NC_012671.1	Quang Binh virus	0.1324	no
+SRR25735166_4474_rev	4	10649	SRR25735166	PRJNA1003643	China	Xizang	28.61 N 97.32 E	Culex orientalis	Culex	Culex	2020-07-24	Quang Binh virus	88.4	94.6	NC_021069.1	Mosquito flavivirus	0.3652	no
+SRR29474086_363_rev	7	10637	SRR29474086	PRJNA1126168	Brazil			Coquillettidia venezuelensis	Coquillettidia	unknown		Mercadeo virus	81.3	95.9	NC_027819.1	Mercadeo virus	0.4259	yes
+SRR11035250_68	5	10623	SRR11035250	PRJNA605178	USA			Aedes aegypti	Aedes	Aedes	2017-11-28	Orthoflavivirus iunctionis	99.0	94.4	NC_001564.2	Cell fusing agent virus	0.0205	no
+SRR11035329_448	2	10619	SRR11035329	PRJNA605178	USA			Culex pipiens	Culex	Culex	2017-11-21	Culex flavivirus	98.8	95.0	NC_008604.2	Culex flavivirus	0.0300	no
+SRR16905208_6852	8	10616	SRR16905208	PRJNA778885	China			Culex pipiens	Culex	Culex	2018-05-01	Culex theileri flavivirus	94.9	92.5	NC_040682.1	Culex theileri flavivirus	0.1014	no
+SRR25734771_2015_rev	4	10610	SRR25734771	PRJNA1003643	China	Xizang	28.60 N 97.23 E	Culex orientalis	Culex	Culex	2020-07-24	Quang Binh virus	88.5	94.2	NC_021069.1	Mosquito flavivirus	0.3660	no
+SRR25701737_298_rev	9	10606	SRR25701737	PRJNA1003643	China	Hainan	20.06 N 110.34 E	Culex tritaeniorhynchus	Culex	Culex	2020-11-20	Quang Binh virus	99.4	95.0	NC_012671.1	Quang Binh virus	0.0291	no
+SRR25735092_1293	0	10589	SRR25735092	PRJNA1003643	China	Yunnan	21.69 N 100.05 E	Aedes albopictus	Aedes	Aedes	2019-06-21	Aedes flavivirus	97.7	94.0	NC_012932.1	Aedes flavivirus	0.1000	no
+SRR16905207_3667	8	10587	SRR16905207	PRJNA778885	China			Culex pipiens	Culex	Culex	2018-05-01	Culex theileri flavivirus	94.8	92.8	NC_040682.1	Culex theileri flavivirus	0.1012	no
+SRR25734962_4073	4	10569	SRR25734962	PRJNA1003643	China	Xizang	28.46 N 97.04 E	Culex orientalis	Culex	Culex	2020-07-23	Quang Binh virus	88.4	95.1	NC_021069.1	Mosquito flavivirus	0.3660	no
+SRR25734779_812_rev	6	10568	SRR25734779	PRJNA1003643	China	Hubei	30.60 N 114.27 E	Culex tritaeniorhynchus	Culex	Culex	2020	Quang Binh virus	97.2	95.4	NC_012671.1	Quang Binh virus	0.1341	no
+SRR12113237_2258	10	10549	SRR12113237	PRJNA642916	Australia				unknown	unknown	2016-12-01	Karumba virus	89.6	95.0	NC_035118.1	Karumba virus	0.3077	no
+SRR25735159_288	4	10545	SRR25735159	PRJNA1003643	China	Xizang	28.62 N 97.33 E	Culex orientalis	Culex	Culex	2020-07-24	Quang Binh virus	88.6	94.8	NC_021069.1	Mosquito flavivirus	0.3656	no
+SRR12113245_3328_rev	10	10543	SRR12113245	PRJNA642916	Australia				unknown	unknown	2016-12-01	Karumba virus	89.5	95.1	NC_035118.1	Karumba virus	0.3029	no
+SRR22751817_1514_rev	5	10542	SRR22751817	PRJNA911492	China			Aedes aegypti	Aedes	Aedes	2018-10-25	Orthoflavivirus iunctionis	98.3	95.1	NC_001564.2	Cell fusing agent virus	0.0391	no
+SRR25701426_1496_rev	6	10532	SRR25701426	PRJNA1003643	China	Henan	35.17 N 113.75 E	Culex tritaeniorhynchus	Culex	Culex	2019-09-02	Quang Binh virus	97.2	95.7	NC_012671.1	Quang Binh virus	0.1350	no
+SRR25734551_1685_rev	9	10530	SRR25734551	PRJNA1003643	China	Hainan	18.32 N 109.70 E	Culex gelidus	Culex	Culex	2019-10-18	Quang Binh virus	98.7	95.7	NC_012671.1	Quang Binh virus	0.0328	no
+SRR25619271_3476_rev	6	10523	SRR25619271	PRJNA1003643	China	Shanghai	30.98 N 121.46 E	Culex tritaeniorhynchus	Culex	Culex	2020-07-27	Quang Binh virus	97.1	95.8	NC_012671.1	Quang Binh virus	0.1346	no
+SRR25701520_1700	5	10511	SRR25701520	PRJNA1003643	China	Yunnan	21.96 N 100.30 E	Aedes aegypti	Aedes	Aedes	2019-06-23	Orthoflavivirus iunctionis	98.3	95.4	NC_001564.2	Cell fusing agent virus	0.0392	no
+SRR25702248_2037	2	10504	SRR25702248	PRJNA1003643	China	Heilongjiang	45.66 N 126.40 E	Culex pipiens	Culex	Culex	2020-08-29	Culex flavivirus	98.4	96.0	NC_008604.2	Culex flavivirus	0.0376	no
+SRR25701953_390_rev	6	10489	SRR25701953	PRJNA1003643	China	Shandong	36.11 N 120.47 E	Culex tritaeniorhynchus	Culex	Culex	2019	Quang Binh virus	97.2	96.1	NC_012671.1	Quang Binh virus	0.1347	no
+SRR25734556_23602_rev	9	10488	SRR25734556	PRJNA1003643	China	Hainan	18.29 N 109.44 E	Culex gelidus	Culex	Culex	2019-10-18	Quang Binh virus	98.7	96.1	NC_012671.1	Quang Binh virus	0.0334	no
+SRR25735160_4614_rev	4	10447	SRR25735160	PRJNA1003643	China	Xizang	28.62 N 97.33 E	Culex orientalis	Culex	Culex	2020-07-24	Quang Binh virus	89.0	95.1	NC_021069.1	Mosquito flavivirus	0.3647	no
+SRR25735043_389_rev	9	10445	SRR25735043	PRJNA1003643	China	Hainan	18.32 N 109.70 E	Culex gelidus	Culex	Culex	2019-10-18	Quang Binh virus	98.7	96.5	NC_012671.1	Quang Binh virus	0.0348	no
+SRR25735103_20_rev	0	10431	SRR25735103	PRJNA1003643	China	Yunnan	21.69 N 100.05 E	Aedes albopictus	Aedes	Aedes	2019-06-21	Aedes flavivirus	97.8	94.5	NC_012932.1	Aedes flavivirus	0.1000	no
+SRR25734545_4810_rev	9	10425	SRR25734545	PRJNA1003643	China	Hainan	18.32 N 109.70 E	Culex gelidus	Culex	Culex	2019-10-18	Quang Binh virus	98.7	96.5	NC_012671.1	Quang Binh virus	0.0349	no
+SRR25735090_630_rev	4	10416	SRR25735090	PRJNA1003643	China	Yunnan	21.75 N 100.18 E	Culex tritaeniorhynchus	Culex	Culex	2019-06-22	Quang Binh virus	88.1	96.4	NC_021069.1	Mosquito flavivirus	0.3780	no
+SRR25701872_3994_rev	2	10378	SRR25701872	PRJNA1003643	China	Heilongjiang	45.66 N 126.40 E	Culex pipiens	Culex	Culex	2019-07-29	Culex flavivirus	98.7	96.6	NC_008604.2	Culex flavivirus	0.0363	no
+SRR25735163_1639_rev	4	10368	SRR25735163	PRJNA1003643	China	Xizang	28.61 N 97.32 E	Culex orientalis	Culex	Culex	2020-07-24	Quang Binh virus	88.6	96.4	NC_021069.1	Mosquito flavivirus	0.3654	no
+SRR25619538_435_rev	6	10357	SRR25619538	PRJNA1003643	China	Zhejiang	29.75 N 121.33 E	Culex tritaeniorhynchus	Culex	Culex	2020-08-05	Quang Binh virus	97.5	97.3	NC_012671.1	Quang Binh virus	0.1302	no
+SRR25619290_1821_rev	6	10351	SRR25619290	PRJNA1003643	China	Shandong	36.29 N 120.62 E	Culex tritaeniorhynchus	Culex	Culex	2020-08-16	Quang Binh virus	97.2	97.4	NC_012671.1	Quang Binh virus	0.1344	no
+SRR19859370_290_rev	11	10325	SRR19859370	PRJNA852425	Finland			Ochlerotatus caspius	Ochlerotatus	Aedes	2017-08-23	Hanko virus	99.7	98.4	NC_030401.1	Hanko virus	0.0203	no
+SRR25734787_4062	3	10322	SRR25734787	PRJNA1003643	China	Yunnan	24.08 N 98.04 E	Culex tritaeniorhynchus	Culex	Culex	2020-07-14	Quang Binh virus	99.6	97.6	NC_021069.1	Mosquito flavivirus	0.0107	no
+SRR25734549_4560	9	10308	SRR25734549	PRJNA1003643	China	Hainan	18.32 N 109.70 E	Culex gelidus	Culex	Culex	2019-10-18	Quang Binh virus	98.7	97.8	NC_012671.1	Quang Binh virus	0.0326	no
+SRR28021988_1109	12	10297	SRR28021988	PRJNA1077787	Australia			Ochlerotatus procax	Ochlerotatus	Aedes	2022-02-17	Parramatta River virus	94.3	95.4	NC_027817.1	Parramatta River virus	0.1827	yes
+SRR25735089_3772	4	10295	SRR25735089	PRJNA1003643	China	Yunnan	21.75 N 100.18 E	Culex tritaeniorhynchus	Culex	Culex	2019-06-22	Quang Binh virus	88.6	96.5	NC_021069.1	Mosquito flavivirus	0.3817	no
+SRR28021976_449_rev	13	10280	SRR28021976	PRJNA1077787	Australia			Ochlerotatus procax	Ochlerotatus	Aedes	2022-04-11	Orthoflavivirus kokoberaorum	83.9	99.6	NC_009029.2	Kokobera virus	0.4386	yes
+SRR25734695_275	6	10279	SRR25734695	PRJNA1003643	China	Zhejiang	29.87 N 121.39 E	Culex tritaeniorhynchus	Culex	Culex	2019-08-21	Quang Binh virus	97.2	98.0	NC_012671.1	Quang Binh virus	0.1338	no
+SRR25619244_400_rev	0	10232	SRR25619244	PRJNA1003643	China	Yunnan	24.08 N 98.04 E	Aedes albopictus	Aedes	Aedes	2020-07-14	Aedes flavivirus	97.9	93.7	NC_012932.1	Aedes flavivirus	0.1017	no
+SRR12113254_1143_rev	10	10174	SRR12113254	PRJNA642916	Australia				unknown	unknown	2016-11-01	Karumba virus	89.7	98.5	NC_035118.1	Karumba virus	0.3064	no
+SRR28021993_576_rev	14	10127	SRR28021993	PRJNA1077787	Australia			Ochlerotatus vigilax	Ochlerotatus	Aedes	2022-04-11	Parramatta River virus	100.0	99.7	NC_027817.1	Parramatta River virus	0.0039	yes
+SRR25619405_22204_rev	6	10117	SRR25619405	PRJNA1003643	China	Zhejiang	30.11 N 120.10 E	Culex tritaeniorhynchus	Culex	Culex	2020-07-19	Quang Binh virus	97.5	96.6	NC_012671.1	Quang Binh virus	0.1352	no
+SRR25701760_271_rev	6	10048	SRR25701760	PRJNA1003643	China	Henan	35.17 N 113.75 E	Culex tritaeniorhynchus	Culex	Culex	2019-09-02	Quang Binh virus	97.2	99.1	NC_012671.1	Quang Binh virus	0.1349	no
+SRR25701462_952	6	9987	SRR25701462	PRJNA1003643	China	Hubei	30.30 N 114.40 E	Culex tritaeniorhynchus	Culex	Culex	2019	Quang Binh virus	97.3	100.0	NC_012671.1	Quang Binh virus	0.1342	no
+SRR25701627_1053	0	9960	SRR25701627	PRJNA1003643	China	Yunnan	21.69 N 100.05 E	Aedes albopictus	Aedes	Aedes	2019-06-21	Aedes flavivirus	98.0	90.2	NC_012932.1	Aedes flavivirus	0.1000	no
+SRR12113257_2745	10	9877	SRR12113257	PRJNA642916	Australia				unknown	unknown	2016-11-01	Karumba virus	90.3	95.8	NC_035118.1	Karumba virus	0.3070	no
+SRR25701390_3875_rev	6	9755	SRR25701390	PRJNA1003643	China	Jiangxi	28.47 N 116.23 E	Culex tritaeniorhynchus	Culex	Culex	2020-07-05	Quang Binh virus	97.2	99.6	NC_012671.1	Quang Binh virus	0.1350	no
+SRR17029056_192_rev	9	9736	SRR17029056	PRJNA781647	China			Culex	Culex	Culex	2018-05-09	Quang Binh virus	99.6	99.6	NC_012671.1	Quang Binh virus	0.0238	no
+SRR22751834_338	0	9732	SRR22751834	PRJNA911492	China			Aedes albopictus	Aedes	Aedes	2018-10-16	Aedes flavivirus	97.9	98.0	NC_012932.1	Aedes flavivirus	0.0969	no
+SRR25735203_1081_rev	6	9647	SRR25735203	PRJNA1003643	China	Jiangxi	28.47 N 116.23 E	Culex tritaeniorhynchus	Culex	Culex	2020-07-05	Quang Binh virus	97.1	98.7	NC_012671.1	Quang Binh virus	0.1346	no
+SRR25701623_751	0	9555	SRR25701623	PRJNA1003643	China	Yunnan	21.69 N 100.05 E	Aedes albopictus	Aedes	Aedes	2019-06-21	Aedes flavivirus	97.9	94.1	NC_012932.1	Aedes flavivirus	0.1021	no
+SRR25734768_5393_rev	15	9445	SRR25734768	PRJNA1003643	China	Guangxi	24.49 N 108.64 E	Culex tritaeniorhynchus	Culex	Culex	2020	Orthoflavivirus tembusu	96.6	97.8	NC_015843.2	Tembusu virus	0.1165	yes
+SRR25619240_35	0	9425	SRR25619240	PRJNA1003643	China	Yunnan	24.08 N 98.04 E	Aedes albopictus	Aedes	Aedes	2020-07-14	Aedes flavivirus	97.9	92.9	NC_012932.1	Aedes flavivirus	0.1003	no
+SRR25701625_4194_rev	0	9387	SRR25701625	PRJNA1003643	China	Yunnan	21.69 N 100.05 E	Aedes albopictus	Aedes	Aedes	2019-06-21	Aedes flavivirus	98.0	91.1	NC_012932.1	Aedes flavivirus	0.1000	no
+SRR25702262_1538_rev	3	9281	SRR25702262	PRJNA1003643	China	Guangdong	23.83 N 115.24 E	Culex tritaeniorhynchus	Culex	Culex	2020-10-04	Quang Binh virus	98.5	100.0	NC_021069.1	Mosquito flavivirus	0.0530	no
+SRR25734782_139_rev	0	9201	SRR25734782	PRJNA1003643	China	Yunnan	24.08 N 98.04 E	Aedes albopictus	Aedes	Aedes	2020-07-14	Aedes flavivirus	97.9	93.1	NC_012932.1	Aedes flavivirus	0.1016	no
+SRR13489055_30760_rev	2	9182	SRR13489055	PRJNA689580	Trinidad and Tobago			Haemagogus	Haemagogus	unknown		Culex flavivirus	96.3	99.2	NC_008604.2	Culex flavivirus	0.1201	no
+SRR25701789_480	0	9152	SRR25701789	PRJNA1003643	China	Dongcheng District	39.88 N 116.40 E	Aedes albopictus	Aedes	Aedes	2020	Aedes flavivirus	99.3	95.0	NC_012932.1	Aedes flavivirus	0.0151	no
+SRR22751813_55	0	9016	SRR22751813	PRJNA911492	China			Aedes albopictus	Aedes	Aedes	2018-10-27	Aedes flavivirus	97.5	100.0	NC_012932.1	Aedes flavivirus	0.1027	no
+SRR16905240_13517_rev	3	8794	SRR16905240	PRJNA778885	China			Culex tritaeniorhynchus	Culex	Culex	2018-07-01	Quang Binh virus	99.6	99.0	NC_021069.1	Mosquito flavivirus	0.0109	no
+SRR19859369_283_rev	11	8616	SRR19859369	PRJNA852425	Finland			Ochlerotatus caspius	Ochlerotatus	Aedes	2017-08-23	Hanko virus	99.8	100.0	NC_030401.1	Hanko virus	0.0205	no
+SRR25734542_1778_rev	9	8523	SRR25734542	PRJNA1003643	China	Hainan	18.32 N 109.70 E	Culex gelidus	Culex	Culex	2019-10-18	Quang Binh virus	98.6	100.0	NC_012671.1	Quang Binh virus	0.0331	no
+SRR19859372_144	11	8307	SRR19859372	PRJNA852425	Finland			Ochlerotatus caspius	Ochlerotatus	Aedes	2017-08-22	Hanko virus	99.6	99.0	NC_030401.1	Hanko virus	0.0203	no
+SRR25735168_7219_rev	4	7999	SRR25735168	PRJNA1003643	China	Xizang	28.61 N 97.32 E	Culex orientalis	Culex	Culex	2020-07-24	Quang Binh virus	87.4	99.9	NC_021069.1	Mosquito flavivirus	0.3655	no
+SRR25735144_5348	4	7990	SRR25735144	PRJNA1003643	China	Xizang	28.46 N 97.04 E	Culex orientalis	Culex	Culex	2020-07-23	Quang Binh virus	87.4	100.0	NC_021069.1	Mosquito flavivirus	0.3655	no
+SRR25735303_455_rev	4	7983	SRR25735303	PRJNA1003643	China	Xizang	28.60 N 97.23 E	Culex orientalis	Culex	Culex	2020-07-24	Quang Binh virus	87.4	100.0	NC_021069.1	Mosquito flavivirus	0.3658	no
+SRR25734664_3781	6	7963	SRR25734664	PRJNA1003643	China	Zhejiang	30.42 N 120.07 E	Culex tritaeniorhynchus	Culex	Culex	2020-07-25	Quang Binh virus	96.9	99.3	NC_012671.1	Quang Binh virus	0.1324	no
+SRR12113258_475	10	7862	SRR12113258	PRJNA642916	Australia				unknown	unknown	2016-11-01	Karumba virus	89.7	97.9	NC_035118.1	Karumba virus	0.3068	no
+SRR25735167_3255_rev	4	7795	SRR25735167	PRJNA1003643	China	Xizang	28.61 N 97.32 E	Culex orientalis	Culex	Culex	2020-07-24	Quang Binh virus	88.7	93.0	NC_021069.1	Mosquito flavivirus	0.3659	no
+SRR16905231_1449	16	7713	SRR16905231	PRJNA778885	China			Culex pipiens	Culex	Culex	2018-08-01	Orthoflavivirus japonicum	98.1	100.0	NC_001437.1	Japanese encephalitis virus	0.1325	yes
+SRR19859371_147	11	7492	SRR19859371	PRJNA852425	Finland			Ochlerotatus caspius	Ochlerotatus	Aedes	2017-08-22	Hanko virus	99.8	98.9	NC_030401.1	Hanko virus	0.0200	no
+SRR25701857_2636_rev	0	7273	SRR25701857	PRJNA1003643	China	Zhejiang	29.85 N 121.45 E	Aedes albopictus	Aedes	Aedes	2019-08-21	Aedes flavivirus	99.3	98.7	NC_012932.1	Aedes flavivirus	0.0137	no
+SRR30730374_1832_rev	6	7259	SRR30730374	PRJNA1162936	China			Culex tritaeniorhynchus	Culex	Culex	2023-08-01	Quang Binh virus	97.4	100.0	NC_012671.1	Quang Binh virus	0.1333	no
+SRR22751832_652_rev	0	7067	SRR22751832	PRJNA911492	China			Aedes albopictus	Aedes	Aedes	2018-10-19	Aedes flavivirus	98.1	88.0	NC_012932.1	Aedes flavivirus	0.1008	no
+SRR25619322_650_rev	0	7005	SRR25619322	PRJNA1003643	China	Yunnan	24.08 N 98.04 E	Aedes albopictus	Aedes	Aedes	2020-07-14	Aedes flavivirus	98.2	87.2	NC_012932.1	Aedes flavivirus	0.1032	no
+SRR25701632_2213	0	7005	SRR25701632	PRJNA1003643	China	Yunnan	21.69 N 100.05 E	Aedes albopictus	Aedes	Aedes	2019-06-21	Aedes flavivirus	97.9	100.0	NC_012932.1	Aedes flavivirus	0.1028	no
+SRR25735165_3641	4	6901	SRR25735165	PRJNA1003643	China	Xizang	28.61 N 97.32 E	Culex orientalis	Culex	Culex	2020-07-24	Quang Binh virus	88.4	92.1	NC_021069.1	Mosquito flavivirus	0.3662	no
+SRR25734550_2440_rev	9	6635	SRR25734550	PRJNA1003643	China	Hainan	18.32 N 109.70 E	Culex gelidus	Culex	Culex	2019-10-18	Quang Binh virus	98.5	100.0	NC_012671.1	Quang Binh virus	0.0350	no
+SRR17029057_232_rev	17	6558	SRR17029057	PRJNA781647	China			Culex	Culex	Culex	2018-05-09	Orthoflavivirus japonicum	98.4	97.2	NC_001437.1	Japanese encephalitis virus	0.1405	yes
+SRR12113252_1379	10	6548	SRR12113252	PRJNA642916	Australia				unknown	unknown	2016-11-01	Karumba virus	88.9	99.7	NC_035118.1	Karumba virus	0.3054	no
+SRR25701935_2262	18	6217	SRR25701935	PRJNA1003643	China	Shandong	36.11 N 120.47 E	Aedes albopictus	Aedes	Aedes	2019	Aedes flavivirus	99.5	85.5	NC_012932.1	Aedes flavivirus	0.0113	yes
+SRR25735223_1081_rev	19	6158	SRR25735223	PRJNA1003643	China	Heilongjiang	45.77 N 126.66 E	Culex pipiens	Culex	Culex	2020-09-19	Culex flavivirus	98.2	100.0	NC_008604.2	Culex flavivirus	0.0585	yes
+SRR28021988_379	20	6120	SRR28021988	PRJNA1077787	Australia			Ochlerotatus procax	Ochlerotatus	Aedes	2022-02-17	Orthoflavivirus kokoberaorum	85.2	99.5	NC_009029.2	Kokobera virus	0.4383	yes
+SRR25734971_1077_rev	21	6021	SRR25734971	PRJNA1003643	China	Yunnan	25.91 N 98.83 E	Aedes albopictus	Aedes	Aedes	2020-07-18	Aedes flavivirus	98.4	100.0	NC_012932.1	Aedes flavivirus	0.0999	no
+SRR28021994_559	22	5719	SRR28021994	PRJNA1077787	Australia			Ochlerotatus vigilax	Ochlerotatus	Aedes	2021-05-24	Parramatta River virus	100.0	92.1	NC_027817.1	Parramatta River virus	0.0016	yes
+SRR25619269_1877_rev	23	5687	SRR25619269	PRJNA1003643	China	Shanghai	30.98 N 121.48 E	Culex tritaeniorhynchus	Culex	Culex	2020-07-27	Quang Binh virus	98.0	97.4	NC_012671.1	Quang Binh virus	0.1323	no
+SRR25734548_1925	24	5525	SRR25734548	PRJNA1003643	China	Hainan	18.32 N 109.70 E	Culex gelidus	Culex	Culex	2019-10-18	Quang Binh virus	98.6	97.6	NC_012671.1	Quang Binh virus	0.0330	no
+SRR25619510_590_rev	25	5368	SRR25619510	PRJNA1003643	China	Sichuan	31.61 N 104.82 E	Culex tritaeniorhynchus	Culex	Culex	2021-05-29	Quang Binh virus	96.6	99.7	NC_012671.1	Quang Binh virus	0.1315	no
+SRR25619265_4968	23	5284	SRR25619265	PRJNA1003643	China	Shanghai	30.98 N 121.46 E	Culex tritaeniorhynchus	Culex	Culex	2020-07-28	Quang Binh virus	98.0	95.6	NC_012671.1	Quang Binh virus	0.1349	no
+SRR25735299_6681_rev	26	5160	SRR25735299	PRJNA1003643	China	Xizang	28.61 N 97.32 E	Culex orientalis	Culex	Culex	2020-07-24	Quang Binh virus	87.3	100.0	NC_021069.1	Mosquito flavivirus	0.3649	yes
+SRR25701606_28143_rev	27	5041	SRR25701606	PRJNA1003643	China	Ningxia	35.48 N 106.34 E	Culex pipiens	Culex	Culex	2019	Culex flavivirus	99.2	94.6	NC_008604.2	Culex flavivirus	0.0403	yes
+SRR25619265_3362_rev	25	5014	SRR25619265	PRJNA1003643	China	Shanghai	30.98 N 121.46 E	Culex tritaeniorhynchus	Culex	Culex	2020-07-28	Quang Binh virus	96.7	99.9	NC_012671.1	Quang Binh virus	0.1353	no
+SRR25619510_8647	23	4925	SRR25619510	PRJNA1003643	China	Sichuan	31.61 N 104.82 E	Culex tritaeniorhynchus	Culex	Culex	2021-05-29	Quang Binh virus	98.0	96.5	NC_012671.1	Quang Binh virus	0.1324	no
+SRR25702224_12601_rev	25	4906	SRR25702224	PRJNA1003643	China	Henan	35.02 N 114.12 E	Culex tritaeniorhynchus	Culex	Culex	2020-07-08	Quang Binh virus	96.6	99.5	NC_012671.1	Quang Binh virus	0.1326	no
+SRR22751815_659	21	4841	SRR22751815	PRJNA911492	China			Aedes albopictus	Aedes	Aedes	2018-10-26	Aedes flavivirus	97.9	100.0	NC_012932.1	Aedes flavivirus	0.0986	no
+SRR25734547_18646_rev	25	4766	SRR25734547	PRJNA1003643	China	Hainan	18.32 N 109.70 E	Culex gelidus	Culex	Culex	2019-10-18	Quang Binh virus	98.7	99.4	NC_012671.1	Quang Binh virus	0.0345	no
+SRR25734547_5153_rev	24	4611	SRR25734547	PRJNA1003643	China	Hainan	18.32 N 109.70 E	Culex gelidus	Culex	Culex	2019-10-18	Quang Binh virus	98.6	99.9	NC_012671.1	Quang Binh virus	0.0344	no
+SRR25619521_3537	21	4529	SRR25619521	PRJNA1003643	China	Yunnan	25.91 N 98.83 E	Aedes albopictus	Aedes	Aedes	2020-07-18	Aedes flavivirus	97.7	100.0	NC_012932.1	Aedes flavivirus	0.1022	no
+SRR25734548_8331_rev	25	3998	SRR25734548	PRJNA1003643	China	Hainan	18.32 N 109.70 E	Culex gelidus	Culex	Culex	2019-10-18	Quang Binh virus	98.8	99.9	NC_012671.1	Quang Binh virus	0.0324	no
+SRR17029057_17_rev	25	3995	SRR17029057	PRJNA781647	China			Culex	Culex	Culex	2018-05-09	Quang Binh virus	99.5	99.8	NC_012671.1	Quang Binh virus	0.0266	no
+SRR25619269_5454	25	3837	SRR25619269	PRJNA1003643	China	Shanghai	30.98 N 121.48 E	Culex tritaeniorhynchus	Culex	Culex	2020-07-27	Quang Binh virus	96.9	100.0	NC_012671.1	Quang Binh virus	0.1331	no
+SRR30730372_15747_rev	25	3794	SRR30730372	PRJNA1162936	China			Culex tritaeniorhynchus	Culex	Culex	2023-08-01	Quang Binh virus	96.9	97.9	NC_012671.1	Quang Binh virus	0.1357	no

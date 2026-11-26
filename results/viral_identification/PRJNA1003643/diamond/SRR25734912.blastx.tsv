@@ -1,0 +1,3 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25734912_8504	NP_775524.1	29.8	57	190	903	150	7	209	265	8.16e-06	37.0	75.8	6.3	11083	Powassan virus	NP_775524.1 non-structural protein NS5, partial [Powassan virus]
+SRR25734912_8504	NP_620099.1	29.8	57	190	3415	150	7	2721	2777	8.28e-06	37.0	75.8	1.7	11083	Powassan virus	NP_620099.1 polyprotein [Powassan virus]

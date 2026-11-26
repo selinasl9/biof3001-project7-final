@@ -1,0 +1,11 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25734885_8079	YP_006846328.2	30.1	113	766	3427	271	609	1682	1788	8.87e-07	45.4	44.3	3.1	64292	Ntaya virus	YP_006846328.2 flavivirus polyprotein [Ntaya virus]
+SRR25734885_8079	YP_002790883.1	30.1	113	766	3426	271	609	1682	1788	1.57e-06	44.7	44.3	3.1	64290	Bagaza virus	YP_002790883.1 polyprotein [Bagaza virus]
+SRR25734885_8079	YP_001040006.1	27.7	119	766	3424	271	609	1679	1785	2.10e-06	44.3	44.3	3.1	59563	Ilheus virus	YP_001040006.1 flavivirus polyprotein [Ilheus virus]
+SRR25734885_8079	NP_775670.1	25.9	116	766	619	277	609	184	288	5.44e-06	42.7	43.5	17.0	11072	Japanese encephalitis virus	NP_775670.1 non-structural protein NS3 [Japanese encephalitis virus]
+SRR25734885_8079	NP_059434.1	25.9	116	766	3432	277	609	1688	1792	6.59e-06	42.7	43.5	3.1	11072	Japanese encephalitis virus	NP_059434.1 flavivirus polyprotein [Japanese encephalitis virus]
+SRR25734885_24756	YP_009552767.1	57.3	82	255	3339	5	250	856	937	8.56e-31	108	96.5	2.5	2304510	Culex Flavi-like virus	YP_009552767.1 polyprotein [Culex Flavi-like virus]
+SRR25734885_24756	YP_009268605.1	53.7	82	255	398	5	250	232	313	5.89e-29	102	96.5	20.6	667516	Nakiwogo virus	YP_009268605.1 nonstructural protein NS1 [Nakiwogo virus]
+SRR25734885_24756	YP_009041466.1	55.0	80	255	3356	11	250	931	1010	6.67e-29	103	94.1	2.4	1286143	Nienokoue virus	YP_009041466.1 polyprotein [Nienokoue virus]
+SRR25734885_24756	YP_009259265.1	53.0	83	255	396	5	250	231	313	1.55e-28	101	96.5	21.0	1708654	Parramatta River virus	YP_009259265.1 nonstructural protein NS1 [Parramatta River virus]
+SRR25734885_24756	YP_009268613.1	53.7	82	255	685	5	250	232	313	1.63e-28	102	96.5	12.0	667516	Nakiwogo virus	YP_009268613.1 NS1-NS2AN-FIFO protein [Nakiwogo virus]

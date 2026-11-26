@@ -1,0 +1,115 @@
+run	host	genus	group	source_field	evidence
+SRR22751824	Aedes albopictus	Aedes	Aedes	ncbi:host	Aedes albopictus
+SRR22751826	Aedes albopictus	Aedes	Aedes	ncbi:host	Aedes albopictus
+SRR25619241	Aedes albopictus	Aedes	Aedes	local:host_biosample	Aedes albopictus
+SRR25701690		unknown	unknown		
+SRR22751784	Aedes aegypti	Aedes	Aedes	ncbi:host	Aedes aegypti
+SRR11035291	Culex tarsalis	Culex	Culex	ncbi:host	Culex tarsalis
+SRR11035278	Culex pipiens	Culex	Culex	ncbi:host	Culex pipiens
+SRR25702102		unknown	unknown		
+SRR11035295	Culex pipiens	Culex	Culex	ncbi:host	Culex pipiens
+SRR25735072		unknown	unknown		
+SRR25619242	Aedes albopictus	Aedes	Aedes	local:host_biosample	Aedes albopictus
+SRR25701622		unknown	unknown		
+SRR25735076		unknown	unknown		
+SRR16905219	Culex pipiens	Culex	Culex	local:organism	Culex pipiens
+SRR22751809	Aedes aegypti	Aedes	Aedes	ncbi:host	Aedes aegypti
+SRR25734997		unknown	unknown		
+SRR25735077		unknown	unknown		
+SRR25701286		unknown	unknown		
+SRR25735237		unknown	unknown		
+SRR25735166		unknown	unknown		
+SRR29474086	Coquillettidia venezuelensis	Coquillettidia	unknown	ncbi:host	Coquillettidia venezuelensis
+SRR11035250	Aedes aegypti	Aedes	Aedes	ncbi:host	Aedes aegypti
+SRR11035329	Culex pipiens	Culex	Culex	ncbi:host	Culex pipiens
+SRR16905208	Culex pipiens	Culex	Culex	local:organism	Culex pipiens
+SRR25734771		unknown	unknown		
+SRR25701737		unknown	unknown		
+SRR25735092		unknown	unknown		
+SRR16905207	Culex pipiens	Culex	Culex	local:organism	Culex pipiens
+SRR25734962		unknown	unknown		
+SRR25734779		unknown	unknown		
+SRR12113237		unknown	unknown		
+SRR25735159		unknown	unknown		
+SRR12113245		unknown	unknown		
+SRR22751817	Aedes aegypti	Aedes	Aedes	ncbi:host	Aedes aegypti
+SRR25701426		unknown	unknown		
+SRR25734551		unknown	unknown		
+SRR25619271	Culex tritaeniorhynchus	Culex	Culex	local:host_biosample	Culex tritaeniorhynchus
+SRR25701520		unknown	unknown		
+SRR25702248		unknown	unknown		
+SRR25701953		unknown	unknown		
+SRR25734556		unknown	unknown		
+SRR25735160		unknown	unknown		
+SRR25735043		unknown	unknown		
+SRR25735103		unknown	unknown		
+SRR25734545		unknown	unknown		
+SRR25735090		unknown	unknown		
+SRR25701872		unknown	unknown		
+SRR25735163		unknown	unknown		
+SRR25619538	Culex tritaeniorhynchus	Culex	Culex	local:host_biosample	Culex tritaeniorhynchus
+SRR25619290	Culex tritaeniorhynchus	Culex	Culex	local:host_biosample	Culex tritaeniorhynchus
+SRR19859370	Ochlerotatus caspius	Ochlerotatus	Aedes	local:organism	Ochlerotatus caspius
+SRR25734787		unknown	unknown		
+SRR25734549		unknown	unknown		
+SRR28021988	Ochlerotatus procax	Ochlerotatus	Aedes	local:organism	Ochlerotatus procax
+SRR25735089		unknown	unknown		
+SRR28021976	Ochlerotatus procax	Ochlerotatus	Aedes	local:organism	Ochlerotatus procax
+SRR25734695		unknown	unknown		
+SRR25619244	Aedes albopictus	Aedes	Aedes	local:host_biosample	Aedes albopictus
+SRR12113254		unknown	unknown		
+SRR28021993	Ochlerotatus vigilax	Ochlerotatus	Aedes	local:organism	Ochlerotatus vigilax
+SRR25619405	Culex tritaeniorhynchus	Culex	Culex	local:host_biosample	Culex tritaeniorhynchus
+SRR25701760		unknown	unknown		
+SRR25701462		unknown	unknown		
+SRR25701627		unknown	unknown		
+SRR12113257		unknown	unknown		
+SRR25701390		unknown	unknown		
+SRR17029056	Culex	Culex	Culex	ncbi:host	Culex
+SRR22751834	Aedes albopictus	Aedes	Aedes	ncbi:host	Aedes albopictus
+SRR25735203		unknown	unknown		
+SRR25701623		unknown	unknown		
+SRR25734768		unknown	unknown		
+SRR25619240	Aedes albopictus	Aedes	Aedes	local:host_biosample	Aedes albopictus
+SRR25701625		unknown	unknown		
+SRR25702262		unknown	unknown		
+SRR25734782		unknown	unknown		
+SRR13489055	Haemagogus	Haemagogus	unknown	ncbi:TITLE	RNAseq on Trinidad Haemagogus mosquitoes
+SRR25701789		unknown	unknown		
+SRR22751813	Aedes albopictus	Aedes	Aedes	ncbi:host	Aedes albopictus
+SRR16905240	Culex tritaeniorhynchus	Culex	Culex	local:organism	Culex tritaeniorhynchus
+SRR19859369	Ochlerotatus caspius	Ochlerotatus	Aedes	local:organism	Ochlerotatus caspius
+SRR25734542		unknown	unknown		
+SRR19859372	Ochlerotatus caspius	Ochlerotatus	Aedes	local:organism	Ochlerotatus caspius
+SRR25735168		unknown	unknown		
+SRR25735144		unknown	unknown		
+SRR25735303		unknown	unknown		
+SRR25734664		unknown	unknown		
+SRR12113258		unknown	unknown		
+SRR25735167		unknown	unknown		
+SRR16905231	Culex pipiens	Culex	Culex	local:organism	Culex pipiens
+SRR19859371	Ochlerotatus caspius	Ochlerotatus	Aedes	local:organism	Ochlerotatus caspius
+SRR25701857		unknown	unknown		
+SRR30730374	Culex tritaeniorhynchus	Culex	Culex	local:organism	Culex tritaeniorhynchus
+SRR22751832	Aedes albopictus	Aedes	Aedes	ncbi:host	Aedes albopictus
+SRR25619322	Aedes albopictus	Aedes	Aedes	local:host_biosample	Aedes albopictus
+SRR25701632		unknown	unknown		
+SRR25735165		unknown	unknown		
+SRR25734550		unknown	unknown		
+SRR17029057	Culex	Culex	Culex	ncbi:host	Culex
+SRR12113252		unknown	unknown		
+SRR25701935		unknown	unknown		
+SRR25735223		unknown	unknown		
+SRR25734971		unknown	unknown		
+SRR28021994	Ochlerotatus vigilax	Ochlerotatus	Aedes	local:organism	Ochlerotatus vigilax
+SRR25619269	Culex tritaeniorhynchus	Culex	Culex	local:host_biosample	Culex tritaeniorhynchus
+SRR25734548		unknown	unknown		
+SRR25619510	Culex tritaeniorhynchus	Culex	Culex	local:host_biosample	Culex tritaeniorhynchus
+SRR25619265	Culex tritaeniorhynchus	Culex	Culex	local:host_biosample	Culex tritaeniorhynchus
+SRR25735299		unknown	unknown		
+SRR25701606		unknown	unknown		
+SRR25702224		unknown	unknown		
+SRR22751815	Aedes albopictus	Aedes	Aedes	ncbi:host	Aedes albopictus
+SRR25734547		unknown	unknown		
+SRR25619521	Aedes albopictus	Aedes	Aedes	local:host_biosample	Aedes albopictus
+SRR30730372	Culex tritaeniorhynchus	Culex	Culex	local:organism	Culex tritaeniorhynchus

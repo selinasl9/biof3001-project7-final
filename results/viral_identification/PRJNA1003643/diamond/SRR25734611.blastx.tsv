@@ -1,0 +1,7 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25734611_13164	YP_009179404.1	35.1	77	405	797	58	288	617	691	1.99e-08	47.4	57.0	9.4	1746071	Wuhan flea virus	YP_009179404.1 NS3-like protein [Wuhan flea virus]
+SRR25734611_55045	YP_009259288.1	69.2	26	155	889	82	5	474	499	1.53e-07	41.2	50.3	2.9	1708574	Mercadeo virus	YP_009259288.1 RNA-dependent RNA polymerase NS5 [Mercadeo virus]
+SRR25734611_55045	YP_009164031.1	69.2	26	155	3403	82	5	2988	3013	1.54e-07	41.2	50.3	0.8	1708574	Mercadeo virus	YP_009164031.1 flavivirus polyprotein [Mercadeo virus]
+SRR25734611_55045	YP_009351861.1	69.2	26	155	3416	82	5	3002	3027	1.54e-07	41.2	50.3	0.8	1963247	Menghai flavivirus	YP_009351861.1 polyprotein [Menghai flavivirus]
+SRR25734611_55045	YP_009259365.1	69.2	26	155	889	82	5	474	499	2.86e-07	40.4	50.3	2.9	643132	Quang Binh virus	YP_009259365.1 RNA-dependent RNA polymerase NS5 [Quang Binh virus]
+SRR25734611_55045	YP_009553010.1	69.2	26	155	3274	82	5	2859	2884	2.88e-07	40.4	50.3	0.8	1244563	Culex theileri flavivirus	YP_009553010.1 polyprotein [Culex theileri flavivirus]

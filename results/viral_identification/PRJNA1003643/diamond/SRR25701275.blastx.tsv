@@ -1,0 +1,9 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25701275_3161	YP_009305402.1	43.5	85	1388	597	37	291	382	462	7.69e-07	47.0	18.4	13.6	1903340	Anopheles flavivirus variant 1	YP_009305402.1 NS3 [Anopheles flavivirus variant 1]
+SRR25701275_3161	YP_009305197.1	43.5	85	1388	3341	37	291	1811	1891	1.02e-06	47.0	18.4	2.4	1903340	Anopheles flavivirus variant 1	YP_009305197.1 polyprotein [Anopheles flavivirus variant 1]
+SRR25701275_3161	YP_009389245.1	40.0	85	1388	597	37	291	382	462	9.34e-06	43.5	18.4	13.6	1969397	Karumba virus	YP_009389245.1 NS3 [Karumba virus]
+SRR25701275_18161	NP_937777.1	60.0	40	215	577	14	133	449	488	6.15e-15	63.2	55.8	6.9	218849	Kamiti River virus	NP_937777.1 NS3 protein [Kamiti River virus]
+SRR25701275_18161	NP_891560.1	60.0	40	215	3357	14	133	1913	1952	6.34e-15	63.2	55.8	1.2	218849	Kamiti River virus	NP_891560.1 flavivirus polyprotein [Kamiti River virus]
+SRR25701275_18161	YP_009259297.1	50.0	52	215	587	14	160	449	500	8.41e-15	62.8	68.4	8.9	31658	Cell fusing agent virus	YP_009259297.1 NS3 [Cell fusing agent virus]
+SRR25701275_18161	YP_009259257.1	50.0	52	215	3341	14	160	1900	1951	8.67e-15	62.8	68.4	1.6	31658	Cell fusing agent virus	YP_009259257.1 polyprotein [Cell fusing agent virus]
+SRR25701275_18161	YP_009259327.1	48.1	52	215	587	14	160	449	500	1.02e-13	59.7	68.4	8.9	390845	Aedes flavivirus	YP_009259327.1 nonstructural protein NS3 [Aedes flavivirus]

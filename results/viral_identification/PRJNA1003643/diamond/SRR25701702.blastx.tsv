@@ -1,0 +1,13 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25701702_17128	YP_009179404.1	35.1	77	406	797	349	119	617	691	1.99e-08	47.4	56.9	9.4	1746071	Wuhan flea virus	YP_009179404.1 NS3-like protein [Wuhan flea virus]
+SRR25701702_17294	NP_891560.1	64.4	45	239	3357	233	99	2011	2055	2.85e-16	67.4	56.5	1.3	218849	Kamiti River virus	NP_891560.1 flavivirus polyprotein [Kamiti River virus]
+SRR25701702_17294	YP_009259297.1	56.1	41	239	587	233	111	547	587	2.95e-14	61.6	51.5	7.0	31658	Cell fusing agent virus	YP_009259297.1 NS3 [Cell fusing agent virus]
+SRR25701702_17294	YP_009259257.1	56.1	41	239	3341	233	111	1998	2038	3.08e-14	61.6	51.5	1.2	31658	Cell fusing agent virus	YP_009259257.1 polyprotein [Cell fusing agent virus]
+SRR25701702_17294	YP_003029843.1	52.4	42	239	3341	233	108	1998	2039	2.01e-13	59.3	52.7	1.3	390845	Aedes flavivirus	YP_003029843.1 flavivirus polyprotein [Aedes flavivirus]
+SRR25701702_17294	YP_009259327.1	51.2	41	239	587	233	111	547	587	6.72e-13	57.8	51.5	7.0	390845	Aedes flavivirus	YP_009259327.1 nonstructural protein NS3 [Aedes flavivirus]
+SRR25701702_22702	YP_003029843.1	60.5	38	158	3341	44	157	1069	1106	3.33e-11	51.6	72.2	1.1	390845	Aedes flavivirus	YP_003029843.1 flavivirus polyprotein [Aedes flavivirus]
+SRR25701702_22702	YP_009259332.1	61.1	36	158	650	44	151	364	399	1.16e-10	50.1	68.4	5.5	390845	Aedes flavivirus	YP_009259332.1 NS1-NS2AN-FIFO protein [Aedes flavivirus]
+SRR25701702_22702	YP_009259320.1	61.1	36	158	1356	44	151	1069	1104	1.17e-10	50.1	68.4	2.7	390845	Aedes flavivirus	YP_009259320.1 truncated polyprotein [Aedes flavivirus]
+SRR25701702_22702	YP_009259295.1	56.8	37	158	239	44	154	6	42	9.02e-10	47.4	70.3	15.5	31658	Cell fusing agent virus	YP_009259295.1 NS2A [Cell fusing agent virus]
+SRR25701702_22702	YP_009259257.1	56.8	37	158	3341	44	154	1069	1105	1.05e-09	47.4	70.3	1.1	31658	Cell fusing agent virus	YP_009259257.1 polyprotein [Cell fusing agent virus]
+SRR25701702_42558	YP_009175071.1	35.7	56	234	7333	189	22	251	306	1.23e-09	48.5	71.8	0.8	1685953	Macrosiphum euphorbiae virus 1	YP_009175071.1 polyprotein [Macrosiphum euphorbiae virus 1]

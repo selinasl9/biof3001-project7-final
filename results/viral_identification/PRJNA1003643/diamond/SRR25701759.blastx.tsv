@@ -1,0 +1,12 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25701759_2046	YP_009389296.1	24.6	228	7421	3341	2132	2800	2490	2691	2.84e-06	48.5	9.0	6.0	1969400	Mac Peak virus	YP_009389296.1 polyprotein [Mac Peak virus]
+SRR25701759_171521	YP_009259301.1	55.0	40	172	888	10	129	39	77	1.31e-06	38.9	69.8	4.4	31658	Cell fusing agent virus	YP_009259301.1 NS5 [Cell fusing agent virus]
+SRR25701759_171521	YP_009259257.1	55.0	40	172	3341	10	129	2492	2530	1.33e-06	38.9	69.8	1.2	31658	Cell fusing agent virus	YP_009259257.1 polyprotein [Cell fusing agent virus]
+SRR25701759_171521	YP_009350102.1	47.5	40	172	3414	10	129	2565	2603	8.80e-06	36.6	69.8	1.1	1821227	Xishuangbanna aedes flavivirus	YP_009350102.1 polyprotein [Xishuangbanna aedes flavivirus]
+SRR25701759_218610	YP_009344969.1	48.8	41	222	3390	193	71	2546	2586	1.00e-06	40.0	55.4	1.2	64309	Jugra virus	YP_009344969.1 polyprotein [Jugra virus]
+SRR25701759_218610	NP_740325.1	41.5	41	222	900	193	71	60	100	2.52e-06	38.9	55.4	4.6	11070	dengue virus type 4	NP_740325.1 NS5 protein [dengue virus type 4]
+SRR25701759_218610	NP_073286.1	41.5	41	222	3387	193	71	2547	2587	2.57e-06	38.9	55.4	1.2	11070	dengue virus type 4	NP_073286.1 polyprotein [dengue virus type 4]
+SRR25701759_218610	YP_001527887.1	43.9	41	222	905	193	71	60	100	3.45e-06	38.5	55.4	4.5	11082	West Nile virus	YP_001527887.1 nonstructural protein 5 [West Nile virus]
+SRR25701759_218610	YP_001527877.1	43.9	41	222	3433	193	71	2588	2628	3.52e-06	38.5	55.4	1.2	11082	West Nile virus	YP_001527877.1 polyprotein [West Nile virus]
+SRR25701759_233438	YP_009179389.1	53.8	26	152	808	9	86	619	644	6.40e-06	36.6	51.3	3.2	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25701759_233438	YP_009179379.1	51.9	27	152	816	9	89	621	647	8.78e-06	36.2	53.3	3.3	1746068	Wuhan aphid virus 2	YP_009179379.1 NS3-like protein [Wuhan aphid virus 2]

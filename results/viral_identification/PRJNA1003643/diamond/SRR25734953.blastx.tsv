@@ -1,0 +1,8 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25734953_10222	YP_009179404.1	31.6	76	243	797	243	16	569	640	1.81e-06	39.7	93.8	9.0	1746071	Wuhan flea virus	YP_009179404.1 NS3-like protein [Wuhan flea virus]
+SRR25734953_67634	YP_009179389.1	38.2	68	522	808	359	156	619	684	8.34e-06	40.8	39.1	8.2	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25734953_109648	YP_006846328.2	30.8	107	340	3427	4	324	1688	1788	8.48e-07	42.0	94.4	2.9	64292	Ntaya virus	YP_006846328.2 flavivirus polyprotein [Ntaya virus]
+SRR25734953_109648	NP_775670.1	26.8	112	340	619	4	324	188	288	1.46e-06	41.2	94.4	16.3	11072	Japanese encephalitis virus	NP_775670.1 non-structural protein NS3 [Japanese encephalitis virus]
+SRR25734953_109648	YP_002790883.1	30.8	107	340	3426	4	324	1688	1788	1.58e-06	41.2	94.4	2.9	64290	Bagaza virus	YP_002790883.1 polyprotein [Bagaza virus]
+SRR25734953_109648	NP_059434.1	26.8	112	340	3432	4	324	1692	1792	1.58e-06	41.2	94.4	2.9	11072	Japanese encephalitis virus	NP_059434.1 flavivirus polyprotein [Japanese encephalitis virus]
+SRR25734953_109648	NP_776018.1	30.1	113	340	619	4	324	188	288	3.70e-06	40.0	94.4	16.3	11082	West Nile virus	NP_776018.1 non-structural protein NS3 [West Nile virus]

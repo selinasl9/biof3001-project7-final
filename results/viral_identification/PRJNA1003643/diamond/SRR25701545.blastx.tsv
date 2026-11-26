@@ -1,0 +1,4 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25701545_119621	YP_009552082.1	41.0	78	379	3746	350	138	597	671	3.52e-07	43.5	56.2	2.0	1678179	Diatom colony associated ssRNA virus 1	YP_009552082.1 hypothetical polyprotein [Diatom colony associated ssRNA virus 1]
+SRR25701545_129388	YP_009268607.1	36.1	36	240	147	30	137	28	63	9.57e-07	39.7	45.0	24.5	667516	Nakiwogo virus	YP_009268607.1 nonstructural protein NS2B [Nakiwogo virus]
+SRR25701545_129388	YP_009259488.1	36.1	36	240	3373	30	137	1348	1383	1.73e-06	39.7	45.0	1.1	667516	Nakiwogo virus	YP_009259488.1 flavivirus polyprotein [Nakiwogo virus]

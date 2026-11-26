@@ -1,0 +1,4 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25619468_61700	YP_009175071.1	39.3	56	205	7333	10	162	4071	4126	7.45e-06	37.4	74.6	0.8	1685953	Macrosiphum euphorbiae virus 1	YP_009175071.1 polyprotein [Macrosiphum euphorbiae virus 1]
+SRR25619468_159005	NP_775520.1	36.2	47	296	622	144	4	344	390	8.14e-06	38.5	47.6	7.6	11083	Powassan virus	NP_775520.1 non-structural protein NS3 [Powassan virus]
+SRR25619468_159005	NP_620099.1	36.2	47	296	3415	144	4	1833	1879	8.65e-06	38.5	47.6	1.4	11083	Powassan virus	NP_620099.1 polyprotein [Powassan virus]

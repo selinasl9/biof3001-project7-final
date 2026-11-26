@@ -1,0 +1,8 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25734552_1700	YP_009179404.1	31.6	76	516	797	255	28	569	640	8.18e-06	40.8	44.2	9.0	1746071	Wuhan flea virus	YP_009179404.1 NS3-like protein [Wuhan flea virus]
+SRR25734552_14799	YP_009179389.1	35.1	94	991	808	983	702	594	684	3.25e-06	44.3	28.5	11.3	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25734552_55658	YP_009259361.1	96.5	57	173	588	2	172	146	202	4.74e-36	122	98.8	9.7	643132	Quang Binh virus	YP_009259361.1 nonstructural protein NS3 [Quang Binh virus]
+SRR25734552_55658	YP_002884239.1	96.5	57	173	3359	2	172	1592	1648	6.81e-36	122	98.8	1.7	643132	Quang Binh virus	YP_002884239.1 flavivirus polyprotein [Quang Binh virus]
+SRR25734552_55658	YP_007877501.1	96.5	57	173	3359	2	172	1592	1648	9.30e-36	121	98.8	1.7	673515	Mosquito flavivirus	YP_007877501.1 polyprotein [Mosquito flavivirus]
+SRR25734552_55658	YP_009553010.1	70.2	57	173	3274	2	172	1508	1563	8.28e-25	90.5	98.8	1.7	1244563	Culex theileri flavivirus	YP_009553010.1 polyprotein [Culex theileri flavivirus]
+SRR25734552_55658	YP_899469.2	71.9	57	173	3363	2	172	1597	1652	1.87e-23	86.7	98.8	1.7	390844	Culex flavivirus	YP_899469.2 polyprotein [Culex flavivirus]

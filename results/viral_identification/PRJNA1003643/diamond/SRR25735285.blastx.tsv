@@ -1,0 +1,8 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25735285_8468	YP_009179389.1	31.5	149	2602	808	1747	2190	550	684	6.89e-07	48.5	17.1	16.7	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25735285_18473	YP_009350102.1	71.4	161	852	3414	767	285	813	973	9.19e-74	241	56.7	4.7	1821227	Xishuangbanna aedes flavivirus	YP_009350102.1 polyprotein [Xishuangbanna aedes flavivirus]
+SRR25735285_18473	YP_009351861.1	70.8	161	852	3416	767	285	814	974	5.85e-73	239	56.7	4.7	1963247	Menghai flavivirus	YP_009351861.1 polyprotein [Menghai flavivirus]
+SRR25735285_18473	YP_009259265.1	59.1	159	852	396	761	291	81	237	1.61e-56	182	55.3	39.6	1708654	Parramatta River virus	YP_009259265.1 nonstructural protein NS1 [Parramatta River virus]
+SRR25735285_18473	YP_009259273.1	59.1	159	852	652	761	291	81	237	1.68e-54	182	55.3	24.1	1708654	Parramatta River virus	YP_009259273.1 NS1-NS2AN-FIFO protein [Parramatta River virus]
+SRR25735285_18473	YP_009259258.1	59.1	159	852	1371	761	291	799	955	1.84e-53	182	55.3	11.5	1708654	Parramatta River virus	YP_009259258.1 truncated polyprotein [Parramatta River virus]
+SRR25735285_117844	YP_009179404.1	30.6	72	230	797	219	4	566	633	9.88e-06	37.4	93.9	8.5	1746071	Wuhan flea virus	YP_009179404.1 NS3-like protein [Wuhan flea virus]

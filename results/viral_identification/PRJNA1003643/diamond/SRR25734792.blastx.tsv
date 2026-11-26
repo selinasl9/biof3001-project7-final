@@ -1,0 +1,2 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25734792_26652	YP_002790883.1	30.4	46	159	3426	2	139	869	914	9.68e-06	36.2	86.8	1.3	64290	Bagaza virus	YP_002790883.1 polyprotein [Bagaza virus]

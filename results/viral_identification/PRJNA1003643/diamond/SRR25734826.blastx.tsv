@@ -1,0 +1,2 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25734826_20366	YP_009179408.1	30.4	69	368	260	282	76	53	121	5.45e-06	39.7	56.3	26.5	1746070	Wuhan cricket virus	YP_009179408.1 putative capsid protein [Wuhan cricket virus]

@@ -1,0 +1,839 @@
+IQ-TREE version 3.1.4 for Linux x86 64-bit built Sep 29 2026
+Developed by Bui Quang Minh, Thomas Wong, Nhan Ly-Trong, Huaiyan Ren
+Contributed by Lam-Tung Nguyen, Dominik Schrempf, Chris Bielow,
+Olga Chernomor, Michael Woodhams, Diep Thi Hoang, Heiko Schmidt
+
+Host:    biomed1 (AVX512, FMA3, 754 GB RAM)
+Command: iqtree2 -s results/msa/tree_v2/add_gt08.fasta -m GTR+F+R8 -T 16 --prefix results/msa/tree_v2/add_gt08
+Seed:    857484 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue Nov 24 13:02:57 2026
+Kernel:  AVX+FMA - 16 threads (80 CPU cores detected)
+
+Reading alignment file results/msa/tree_v2/add_gt08.fasta ... Fasta format detected
+Reading fasta file: done in 0.0808198 secs using 78.93% CPU
+Alignment most likely contains DNA/RNA sequences
+Constructing alignment: done in 0.0816531 secs using 1484% CPU
+Alignment has 579 sequences with 8800 columns, 8339 distinct patterns
+7934 parsimony-informative, 182 singleton sites, 684 constant sites
+                       Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 0.00290012 secs using 1558% CPU
+   1  NC_012532.1              0.22%    failed      0.00%
+   2  NC_043110.1              1.00%    passed      9.04%
+   3  NC_040645.1              2.09%    failed      0.01%
+   4  NC_009942.1              0.02%    failed      0.12%
+   5  NC_001563.2              0.02%    failed      1.06%
+   6  NC_001475.2              0.88%    failed      0.00%
+   7  NC_001474.2              0.99%    failed      0.00%
+   8  NC_002640.1              0.84%    failed      0.00%
+   9  NC_012735.1              0.50%    failed      0.00%
+  10  NC_012534.1              0.11%    failed      0.00%
+  11  NC_012533.1              1.26%    failed      0.00%
+  12  NC_040788.1              1.89%    failed      0.00%
+  13  NC_040776.1              0.14%    failed      0.00%
+  14  NC_040682.1              0.14%    failed      0.00%
+  15  NC_040610.1              0.88%    failed      0.00%
+  16  NC_039219.1              1.02%    failed      0.00%
+  17  NC_039218.1              1.09%    failed      0.00%
+  18  NC_035889.1              0.22%    failed      0.02%
+  19  NC_034151.1              0.15%    failed      0.00%
+  20  NC_034242.1              1.19%    failed      0.00%
+  21  NC_034018.1              0.02%    failed      0.00%
+  22  NC_034007.1              2.02%    failed      0.00%
+  23  NC_033726.1              0.98%    failed      0.00%
+  24  NC_033724.1              1.22%    failed      0.00%
+  25  NC_033723.1              1.02%    failed      0.00%
+  26  NC_032088.1              0.49%    failed      0.01%
+  27  NC_030401.1              1.19%    failed      0.00%
+  28  NC_027819.1              1.22%    passed      5.10%
+  29  NC_027817.1              1.22%    failed      0.00%
+  30  NC_026623.1              0.11%    failed      0.00%
+  31  NC_018705.3              0.08%    failed      0.00%
+  32  NC_017086.1              0.26%    failed      0.00%
+  33  NC_016997.1              0.15%    failed      0.00%
+  34  NC_009028.2              0.18%    failed      0.00%
+  35  NC_009029.2              0.47%    failed      0.00%
+  36  NC_012932.1              1.55%    failed      0.00%
+  37  NC_012671.1              0.03%    failed      0.00%
+  38  NC_008604.2              0.00%    failed      0.00%
+  39  NC_007580.2              0.14%    failed      0.00%
+  40  NC_006551.1              0.02%    failed      0.13%
+  41  NC_005064.1              1.45%    failed      0.03%
+  42  NC_001437.1              0.01%    failed      0.00%
+  43  NC_029054.2              0.97%    failed      0.00%
+  44  NC_033721.1              1.00%    failed      0.00%
+  45  NC_033715.1              0.39%    failed      0.00%
+  46  NC_033699.1              0.97%    failed      0.00%
+  47  NC_033698.1              1.00%    failed      0.00%
+  48  NC_033697.1              0.97%    failed      0.00%
+  49  NC_033694.1              0.73%    failed      0.01%
+  50  NC_033693.1              1.06%    failed      0.00%
+  51  NC_030289.1              1.17%    failed      0.00%
+  52  NC_027999.1              0.41%    failed      0.00%
+  53  NC_027709.1              1.09%    failed      0.00%
+  54  NC_026624.1              0.60%    failed      3.22%
+  55  NC_026620.1              2.39%    failed      0.00%
+  56  NC_023439.1              1.17%    failed      0.00%
+  57  NC_023424.1              1.05%    failed      0.00%
+  58  NC_021069.1              0.10%    failed      0.00%
+  59  NC_008718.1              0.59%    failed      0.04%
+  60  NC_008719.1              0.51%    failed      0.00%
+  61  NC_005062.1              1.09%    failed      0.00%
+  62  NC_004119.1              1.94%    failed      0.00%
+  63  NC_003690.1              1.09%    failed      0.00%
+  64  NC_003687.1              1.06%    failed      0.00%
+  65  NC_003675.1              2.08%    failed      0.00%
+  66  NC_003676.1              1.88%    failed      0.06%
+  67  NC_003635.1              2.12%    failed      0.00%
+  68  NC_000943.1              0.05%    failed      0.00%
+  69  NC_001809.1              1.09%    failed      0.00%
+  70  NC_001672.1              1.09%    failed      0.00%
+  71  NC_002031.1              0.84%    failed      0.94%
+  72  NC_001477.1              0.88%    failed      0.00%
+  73  NC_034204.1              1.20%    passed      5.15%
+  74  NC_035187.1              1.92%    failed      0.00%
+  75  NC_035118.1              1.17%    failed      0.00%
+  76  NC_034017.1              1.12%    failed      0.32%
+  77  NC_033725.1              1.05%    failed      0.00%
+  78  NC_031327.1              1.17%    failed      0.62%
+  79  NC_024299.2              1.49%    failed      0.00%
+  80  NC_030400.1              0.60%    failed      0.00%
+  81  NC_001564.2              1.22%    failed      0.01%
+  82  NC_030290.1              1.26%    failed      0.00%
+  83  NC_024806.1              0.33%    failed      0.00%
+  84  NC_024805.1              0.45%    failed      0.04%
+  85  NC_024017.1              0.64%    failed      0.92%
+  86  NC_015843.2              0.08%    failed      0.00%
+  87  NC_009026.2              0.43%    failed      0.00%
+  88  NC_005039.1              0.60%    failed      0.00%
+  89  SRR22751824_1020         1.55%    failed      0.00%
+  90  SRR22751826_2035         1.55%    failed      0.00%
+  91  SRR25619241_230          1.55%    failed      0.00%
+  92  SRR25701690_6065_rev     1.55%    failed      0.00%
+  93  SRR22751784_4127         1.55%    failed      0.00%
+  94  SRR11035291_251_rev      1.88%    failed      0.01%
+  95  SRR11035278_141_rev      0.00%    failed      0.00%
+  96  SRR25702102_344          0.03%    failed      0.00%
+  97  SRR11035295_617_rev      0.00%    failed      0.00%
+  98  SRR25735072_1404_rev     0.03%    failed      0.00%
+  99  SRR25619242_952_rev      1.55%    failed      0.00%
+ 100  SRR25701622_2861         1.55%    failed      0.00%
+ 101  SRR25735076_522_rev      0.03%    failed      0.00%
+ 102  SRR16905219_8588         0.00%    failed      0.00%
+ 103  SRR22751809_137_rev      1.22%    failed      0.01%
+ 104  SRR25734997_3401         0.03%    failed      0.00%
+ 105  SRR25735077_504_rev      0.03%    failed      0.00%
+ 106  SRR25701286_1561         1.55%    failed      0.00%
+ 107  SRR25735237_419          0.03%    failed      0.01%
+ 108  SRR25735166_4474_rev     0.03%    failed      0.00%
+ 109  SRR29474086_363_rev      1.26%    failed      3.90%
+ 110  SRR11035250_68           1.22%    failed      0.01%
+ 111  SRR11035329_448          0.00%    failed      0.00%
+ 112  SRR16905208_6852         0.14%    failed      0.00%
+ 113  SRR25734771_2015_rev     0.08%    failed      0.00%
+ 114  SRR25701737_298_rev      0.03%    failed      0.00%
+ 115  SRR25735092_1293         1.60%    failed      0.00%
+ 116  SRR16905207_3667         0.14%    failed      0.00%
+ 117  SRR25734962_4073         0.03%    failed      0.00%
+ 118  SRR25734779_812_rev      0.03%    failed      0.01%
+ 119  SRR12113237_2258         1.17%    failed      0.00%
+ 120  SRR25735159_288          0.06%    failed      0.00%
+ 121  SRR12113245_3328_rev     1.17%    failed      0.00%
+ 122  SRR22751817_1514_rev     1.22%    failed      0.00%
+ 123  SRR25701426_1496_rev     0.03%    failed      0.01%
+ 124  SRR25734551_1685_rev     0.03%    failed      0.00%
+ 125  SRR25619271_3476_rev     0.03%    failed      0.01%
+ 126  SRR25701520_1700         1.22%    failed      0.00%
+ 127  SRR25702248_2037         0.00%    failed      0.00%
+ 128  SRR25701953_390_rev      0.03%    failed      0.01%
+ 129  SRR25734556_23602_rev    0.03%    failed      0.00%
+ 130  SRR25735160_4614_rev     0.42%    failed      0.00%
+ 131  SRR25735043_389_rev      0.03%    failed      0.00%
+ 132  SRR25735103_20_rev       1.93%    failed      0.00%
+ 133  SRR25734545_4810_rev     0.03%    failed      0.00%
+ 134  SRR25735090_630_rev      0.03%    failed      0.00%
+ 135  SRR25701872_3994_rev     0.00%    failed      0.00%
+ 136  SRR25735163_1639_rev     0.06%    failed      0.00%
+ 137  SRR25619538_435_rev      0.03%    failed      0.00%
+ 138  SRR25619290_1821_rev     0.03%    failed      0.01%
+ 139  SRR19859370_290_rev      1.19%    failed      0.00%
+ 140  SRR25734787_4062         0.03%    failed      0.00%
+ 141  SRR25734549_4560         0.03%    failed      0.00%
+ 142  SRR28021988_1109         2.33%    failed      0.00%
+ 143  SRR25735089_3772         0.42%    failed      0.00%
+ 144  SRR28021976_449_rev      0.59%    failed      0.00%
+ 145  SRR25734695_275          0.03%    failed      0.01%
+ 146  SRR25619244_400_rev      3.72%    failed      0.00%
+ 147  SRR12113254_1143_rev     1.23%    failed      0.00%
+ 148  SRR28021993_576_rev      1.22%    failed      0.00%
+ 149  SRR25619405_22204_rev    1.16%    failed      0.01%
+ 150  SRR25701760_271_rev      1.19%    failed      0.00%
+ 151  SRR25701462_952          0.80%    failed      0.00%
+ 152  SRR25701627_1053        10.02%    failed      0.00%
+ 153  SRR12113257_2745         5.88%    failed      0.00%
+ 154  SRR25701390_3875_rev     3.88%    failed      0.00%
+ 155  SRR17029056_192_rev      2.51%    failed      0.00%
+ 156  SRR22751834_338          4.33%    failed      0.00%
+ 157  SRR25735203_1081_rev     6.05%    failed      0.00%
+ 158  SRR25701623_751         10.03%    failed      0.00%
+ 159  SRR25734768_5393_rev     8.12%    failed      0.00%
+ 160  SRR25619240_35          12.65%    failed      0.00%
+ 161  SRR25701625_4194_rev    14.93%    failed      0.00%
+ 162  SRR25702262_1538_rev     6.00%    failed      0.01%
+ 163  SRR25734782_139_rev     14.80%    failed      0.00%
+ 164  SRR13489055_30760_rev   10.77%    failed      0.00%
+ 165  SRR25701789_480         13.38%    failed      0.00%
+ 166  SRR22751813_55          12.52%    failed      0.00%
+ 167  SRR16905240_13517_rev   15.10%    failed      0.00%
+ 168  SRR19859369_283_rev     16.25%    failed      0.00%
+ 169  SRR25734542_1778_rev    16.95%    failed      0.00%
+ 170  SRR19859372_144         22.47%    failed      0.00%
+ 171  SRR25735168_7219_rev    22.82%    failed      0.00%
+ 172  SRR25735144_5348        22.81%    failed      0.00%
+ 173  SRR25735303_455_rev     22.81%    failed      0.00%
+ 174  SRR25734664_3781        23.99%    failed      0.05%
+ 175  SRR12113258_475         23.77%    failed      0.01%
+ 176  SRR25735167_3255_rev    26.90%    failed      0.00%
+ 177  SRR16905231_1449        28.53%    failed      1.58%
+ 178  SRR19859371_147         31.37%    failed      0.00%
+ 179  SRR25701857_2636_rev    32.98%    failed      0.00%
+ 180  SRR30730374_1832_rev    27.28%    failed      0.43%
+ 181  SRR22751832_652_rev     36.38%    failed      0.20%
+ 182  SRR25619322_650_rev     36.98%    failed      0.22%
+ 183  SRR25701632_2213        32.39%    failed      0.00%
+ 184  SRR25735165_3641        34.68%    failed      0.00%
+ 185  SRR25734550_2440_rev    36.58%    failed      0.41%
+ 186  SRR17029057_232_rev     34.77%    failed      0.00%
+ 187  SRR12113252_1379        38.35%    failed      0.00%
+ 188  SRR25701935_2262        44.16%    failed      0.07%
+ 189  SRR25735223_1081_rev    40.30%    failed      0.01%
+ 190  SRR28021988_379         37.23%    failed      0.00%
+ 191  SRR25734971_1077_rev    40.94%    failed      0.04%
+ 192  SRR28021994_559         45.26%    failed      0.00%
+ 193  SRR25619269_1877_rev    41.77%    passed      6.32%
+ 194  SRR25734548_1925        43.33%    failed      0.95%
+ 195  SRR25619510_590_rev     49.44%    failed      0.36%
+ 196  SRR25619265_4968        47.05%    failed      4.04%
+ 197  SRR25735299_6681_rev    50.00%    failed      0.00%
+ 198  SRR25701606_28143_rev   50.01%    failed      0.85%
+ 199  SRR25619265_3362_rev    52.65%    failed      0.14%
+ 200  SRR25619510_8647        50.25%    failed      3.12%
+ 201  SRR25702224_12601_rev   54.62%    failed      0.01%
+ 202  SRR22751815_659         54.30%    failed      0.01%
+ 203  SRR25734547_18646_rev   56.07%    failed      0.10%
+ 204  SRR25734547_5153_rev    52.00%    failed      2.15%
+ 205  SRR25619521_3537        57.84%    failed      0.00%
+ 206  SRR25734548_8331_rev    61.53%    failed      0.01%
+ 207  SRR17029057_17_rev      61.50%    failed      0.01%
+ 208  SRR25619269_5454        63.22%    failed      0.01%
+ 209  SRR30730372_15747_rev   65.43%    failed      2.09%
+ 210  OR872521.1               0.08%    failed      0.00%
+ 211  OR909676.1               0.15%    failed      0.00%
+ 212  PP066163.1               1.22%    failed      0.00%
+ 213  PP336429.1               0.08%    failed      0.00%
+ 214  PP496992.1               0.59%    failed      0.00%
+ 215  PP496993.1               0.59%    failed      0.00%
+ 216  PP496994.1               1.03%    failed      0.00%
+ 217  PP496995.1               1.68%    failed      0.00%
+ 218  PP496996.1               1.45%    failed      0.00%
+ 219  PP682375.1               0.18%    failed      0.00%
+ 220  PP682376.1               0.18%    failed      0.00%
+ 221  PP682377.1               0.18%    failed      0.00%
+ 222  PP590357.1               0.14%    failed      0.00%
+ 223  PQ154625.1               0.12%    failed      0.00%
+ 224  PQ376979.1               0.09%    failed      0.01%
+ 225  PQ376980.1               0.03%    failed      0.01%
+ 226  PQ364831.1               0.12%    failed      0.00%
+ 227  PQ568333.1              27.58%    failed      0.00%
+ 228  PQ699974.1               0.12%    failed      0.00%
+ 229  PQ613836.1               0.12%    failed      0.00%
+ 230  PQ728306.1               0.12%    failed      0.00%
+ 231  PV010628.1               0.05%    failed      0.00%
+ 232  PV010629.1               0.03%    failed      0.00%
+ 233  PV010630.1               0.03%    failed      0.00%
+ 234  PP897806.1               0.16%    failed      0.00%
+ 235  PV026208.1              27.58%    failed      0.00%
+ 236  PV165522.1               1.72%    failed      0.00%
+ 237  PV165523.1               1.52%    failed      0.00%
+ 238  PV165384.1               0.00%    failed      0.00%
+ 239  PV360739.1               0.12%    failed      0.00%
+ 240  PV472353.1              27.58%    failed      0.00%
+ 241  PV525051.1              27.58%    failed      0.00%
+ 242  PV541690.1               0.12%    failed      0.00%
+ 243  PQ758740.1               0.12%    failed      0.00%
+ 244  PQ758741.1               0.12%    failed      0.00%
+ 245  PQ758742.1               0.12%    failed      0.00%
+ 246  PQ758744.1               0.12%    failed      0.00%
+ 247  PX205256.1               0.03%    failed      0.01%
+ 248  PX454849.1               0.08%    failed      0.00%
+ 249  PQ673810.1               1.24%    failed      0.60%
+ 250  PQ223729.1               1.55%    failed      0.00%
+ 251  PX213635.1               0.00%    failed      0.00%
+ 252  PX213636.1               0.00%    failed      0.00%
+ 253  PX213637.1               0.03%    failed      0.01%
+ 254  PX260218.1               0.15%    failed      0.00%
+ 255  PX260219.1               0.12%    failed      0.00%
+ 256  PX260220.1               0.12%    failed      0.00%
+ 257  PX260221.1               0.12%    failed      0.00%
+ 258  PX260222.1               0.12%    failed      0.00%
+ 259  PX260223.1               0.14%    failed      0.00%
+ 260  PX260224.1               0.14%    failed      0.00%
+ 261  PX260225.1               0.12%    failed      0.00%
+ 262  PX630769.1               0.12%    failed      0.00%
+ 263  PX761277.1              27.58%    failed      0.00%
+ 264  PZ345904.1               0.08%    failed      0.00%
+ 265  PZ161033.1               0.03%    failed      0.00%
+ 266  PZ161034.1               1.18%    passed     12.65%
+ 267  PZ161037.1               1.18%    passed      9.51%
+ 268  PZ161038.1               1.18%    passed     11.39%
+ 269  PZ161040.1               1.18%    passed      9.66%
+ 270  PZ161043.1               0.03%    failed      0.00%
+ 271  PZ161044.1               0.12%    failed      0.00%
+ 272  PZ161045.1               0.00%    failed      0.00%
+ 273  PZ099084.1              27.58%    failed      0.00%
+ 274  PZ305743.1               0.00%    failed      0.00%
+ 275  PZ303603.1               1.57%    failed      0.00%
+ 276  PZ270484.1               0.12%    failed      0.00%
+ 277  PZ357688.1              23.84%    failed      0.00%
+ 278  PZ761578.1              35.74%    failed      4.86%
+ 279  PZ761746.1               0.03%    failed      0.00%
+ 280  _R_PZ761990.1            0.00%    failed      0.00%
+ 281  _R_PZ762078.1            1.17%    passed     23.49%
+ 282  PZ762082.1               1.17%    passed     27.35%
+ 283  PZ762090.1               0.03%    failed      0.00%
+ 284  PZ762208.1               1.17%    passed     12.08%
+ 285  PZ762210.1               1.17%    passed      6.78%
+ 286  _R_PZ762239.1            1.17%    failed      0.57%
+ 287  PZ762243.1               1.17%    failed      1.03%
+ 288  PZ762246.1               1.17%    failed      1.89%
+ 289  _R_PZ762289.1            1.17%    failed      0.86%
+ 290  PZ762294.1               1.17%    failed      0.56%
+ 291  _R_PZ762421.1           25.44%    passed     11.88%
+ 292  PZ762697.1               1.17%    failed      0.97%
+ 293  PZ762841.1               1.22%    failed      0.00%
+ 294  _R_PZ762940.1            1.17%    passed      7.02%
+ 295  _R_PZ763009.1            1.17%    failed      0.57%
+ 296  _R_PZ763170.1            1.17%    failed      2.07%
+ 297  _R_PZ763176.1            1.17%    failed      0.44%
+ 298  _R_PZ763290.1            1.17%    failed      0.39%
+ 299  PZ763294.1               1.17%    failed      1.39%
+ 300  _R_PZ763306.1            1.17%    failed      0.60%
+ 301  _R_PZ763780.1            1.17%    passed      6.05%
+ 302  PZ763838.1               1.19%    failed      0.00%
+ 303  _R_PZ763842.1            1.19%    failed      0.00%
+ 304  PZ763845.1               1.19%    failed      0.00%
+ 305  PZ763850.1               1.17%    failed      0.75%
+ 306  _R_PZ763856.1            1.17%    failed      2.75%
+ 307  PZ880022.1               0.12%    failed      0.00%
+ 308  PZ859319.1               0.18%    failed      0.00%
+ 309  PZ859320.1               0.18%    failed      0.00%
+ 310  PZ859321.1               0.18%    failed      0.00%
+ 311  PZ859323.1               0.18%    failed      0.00%
+ 312  PZ859324.1               0.18%    failed      0.00%
+ 313  PZ859325.1               0.18%    failed      0.00%
+ 314  M91671.1                 1.22%    failed      0.01%
+ 315  AY149904.1               1.45%    failed      0.03%
+ 316  AB241118.1               0.08%    failed      0.00%
+ 317  AB377213.1               0.00%    failed      0.00%
+ 318  EU429297.1              27.58%    failed      0.00%
+ 319  EU880214.1              27.58%    failed      0.00%
+ 320  EU879060.1               0.00%    failed      0.00%
+ 321  FJ495189.1               0.08%    failed      0.00%
+ 322  FJ502995.1               0.00%    failed      0.00%
+ 323  FJ663034.1               0.01%    failed      0.00%
+ 324  GQ165808.1               0.00%    failed      0.00%
+ 325  GQ165810.1               3.75%    failed      0.00%
+ 326  GU187972.1               0.09%    failed      0.00%
+ 327  GU556217.1              27.58%    failed      0.00%
+ 328  GU205163.1               0.10%    failed      0.00%
+ 329  HQ678513.1               0.00%    failed      0.00%
+ 330  AB594829.1              27.58%    failed      0.00%
+ 331  JN381830.1               0.08%    failed      0.00%
+ 332  JN381831.1               0.08%    failed      0.00%
+ 333  JN381832.1               0.08%    failed      0.00%
+ 334  JN381833.1               0.08%    failed      0.00%
+ 335  JN381834.1               0.08%    failed      0.00%
+ 336  JN381835.1               0.08%    failed      0.00%
+ 337  JN381836.1               0.08%    failed      0.00%
+ 338  JN381837.1               0.08%    failed      0.00%
+ 339  JN381838.1               0.08%    failed      0.00%
+ 340  JN381839.1               0.08%    failed      0.00%
+ 341  JN381840.1               0.08%    failed      0.00%
+ 342  JN381841.1               0.08%    failed      0.00%
+ 343  JN381842.1               0.08%    failed      0.00%
+ 344  JN381844.1               0.08%    failed      0.00%
+ 345  JN381845.1               0.08%    failed      0.00%
+ 346  JN381849.1              27.58%    failed      0.00%
+ 347  JN381850.1              27.58%    failed      0.00%
+ 348  JF706267.1               0.08%    failed      0.00%
+ 349  JF706268.1               0.09%    failed      0.00%
+ 350  JF706274.1               0.08%    failed      0.00%
+ 351  JF706277.1               0.08%    failed      0.00%
+ 352  JF706286.1              27.58%    failed      0.00%
+ 353  JQ308186.1               0.00%    failed      0.00%
+ 354  JQ308187.1               0.00%    failed      0.00%
+ 355  JQ308188.1               0.00%    failed      0.00%
+ 356  JQ308189.1               0.00%    failed      0.00%
+ 357  JQ308190.1               0.23%    failed      0.00%
+ 358  JQ518484.1               0.00%    failed      0.00%
+ 359  JQ920420.1               0.08%    failed      0.00%
+ 360  HE574573.1               0.14%    failed      0.00%
+ 361  HE574574.1               0.14%    failed      0.00%
+ 362  AB698906.1               0.08%    failed      0.00%
+ 363  AB698909.1               0.08%    failed      0.00%
+ 364  JQ031753.1               0.08%    failed      0.00%
+ 365  KC196115.1               0.08%    failed      0.00%
+ 366  AB701766.1               0.00%    failed      0.00%
+ 367  AB701767.1               0.00%    failed      0.00%
+ 368  AB701768.1               0.00%    failed      0.00%
+ 369  AB701769.1               0.00%    failed      0.00%
+ 370  AB701770.1               0.00%    failed      0.00%
+ 371  AB701771.1               0.00%    failed      0.00%
+ 372  AB701772.1               0.00%    failed      0.00%
+ 373  AB701773.1               0.00%    failed      0.00%
+ 374  AB701774.1               0.00%    failed      0.00%
+ 375  AB701775.1               0.00%    failed      0.00%
+ 376  AB701776.1               0.00%    failed      0.00%
+ 377  KC181923.1               1.57%    failed      0.00%
+ 378  AB830335.1              27.58%    failed      0.00%
+ 379  JX897904.1               0.00%    failed      0.00%
+ 380  HF548540.1               4.35%    failed      0.00%
+ 381  KJ476731.1               6.08%    failed      0.01%
+ 382  KM225263.1               0.59%    failed      0.00%
+ 383  KM225264.1               0.47%    failed      0.00%
+ 384  KM225265.1               0.59%    failed      0.00%
+ 385  KJ741266.1               2.11%    failed      0.00%
+ 386  KF667316.1              27.58%    failed      0.00%
+ 387  KF667320.1               0.08%    failed      0.00%
+ 388  KF917540.1               0.59%    failed      0.00%
+ 389  AB981183.1              27.58%    failed      0.00%
+ 390  AB981184.1              27.58%    failed      0.00%
+ 391  AB981186.1               0.03%    failed      0.00%
+ 392  KR908702.1              27.58%    failed      0.00%
+ 393  KP688057.1               1.22%    failed      3.22%
+ 394  KT229572.1               0.08%    failed      0.00%
+ 395  KT229573.1               0.08%    failed      0.00%
+ 396  KT726939.1               0.00%    failed      0.00%
+ 397  KT957419.1               0.08%    failed      0.00%
+ 398  KX097989.1               0.16%    failed      0.00%
+ 399  KU936054.1               1.22%    failed      0.01%
+ 400  KT607935.1               0.18%    failed      0.00%
+ 401  KT607936.1               0.18%    failed      0.00%
+ 402  KX357114.1              27.58%    failed      0.00%
+ 403  KX148547.1               1.17%    failed      0.17%
+ 404  KX148548.1              39.12%    passed     15.98%
+ 405  KX657782.1               0.00%    failed      0.00%
+ 406  _R_KX924632.1            4.64%    failed      0.00%
+ 407  KX924633.1               0.49%    failed      0.00%
+ 408  KX652375.1               0.14%    failed      0.00%
+ 409  KX652376.1               0.14%    failed      0.00%
+ 410  KX652377.1               0.14%    failed      0.00%
+ 411  KX652378.1               0.14%    failed      0.00%
+ 412  KY460523.1               1.24%    failed      0.00%
+ 413  KX512322.1               0.50%    failed      0.00%
+ 414  KX669682.1               1.88%    failed      0.01%
+ 415  KX669683.1               1.88%    failed      0.06%
+ 416  KX669684.1               1.88%    failed      0.03%
+ 417  KX669685.1               1.88%    failed      0.23%
+ 418  KX669686.1               1.88%    failed      0.16%
+ 419  KX669687.1               1.88%    failed      0.06%
+ 420  KX669688.1               1.88%    failed      0.05%
+ 421  KX669689.1               1.90%    failed      0.03%
+ 422  MF352615.1               1.26%    failed      0.00%
+ 423  MF352617.1               1.49%    failed      0.24%
+ 424  KY349933.1               0.00%    failed      0.00%
+ 425  KY320649.1               2.11%    failed      0.00%
+ 426  MH310082.1               1.74%    failed      0.00%
+ 427  MH237596.1               1.23%    failed      0.01%
+ 428  MH414568.1               0.08%    failed      0.00%
+ 429  MF522175.1               0.08%    failed      0.00%
+ 430  MF582365.1               0.14%    failed      0.00%
+ 431  MF582366.1               0.14%    failed      0.00%
+ 432  MH188006.1               0.01%    failed      0.00%
+ 433  MH748542.1               0.12%    failed      0.00%
+ 434  MG719525.1               0.03%    failed      0.01%
+ 435  MH165313.1              27.58%    failed      0.00%
+ 436  MH184567.1              27.58%    failed      0.00%
+ 437  MH184569.1              27.58%    failed      0.00%
+ 438  MH184570.1              27.58%    failed      0.00%
+ 439  MH184571.1              27.58%    failed      0.00%
+ 440  MH184572.1              27.61%    failed      0.00%
+ 441  MH184573.1              27.58%    failed      0.00%
+ 442  MH184574.1              27.58%    failed      0.00%
+ 443  MH184576.1              27.58%    failed      0.00%
+ 444  MH827522.1               0.14%    failed      0.00%
+ 445  MH827523.1               0.03%    failed      0.00%
+ 446  MH827524.1               0.03%    failed      0.01%
+ 447  MH385014.1              27.59%    failed      0.00%
+ 448  MH719098.1               0.00%    failed      0.00%
+ 449  MH753127.1               0.08%    failed      0.00%
+ 450  MH753129.1               0.08%    failed      0.00%
+ 451  MH753133.1               0.08%    failed      0.00%
+ 452  MK251047.1               2.26%    failed      0.00%
+ 453  LR596014.1               1.22%    failed      0.00%
+ 454  LR694072.1               1.22%    failed      0.01%
+ 455  LR694073.1               1.22%    failed      0.00%
+ 456  LR694074.1               1.22%    failed      0.00%
+ 457  LR694075.1               1.22%    failed      0.02%
+ 458  LR694076.1               1.22%    failed      0.00%
+ 459  LR694077.1               1.22%    failed      0.02%
+ 460  LR694078.1               1.22%    failed      0.01%
+ 461  LR694079.1               1.24%    failed      0.01%
+ 462  LR694080.1               1.22%    failed      0.02%
+ 463  LR694081.1               1.60%    failed      0.00%
+ 464  MN294938.1               0.00%    failed      0.00%
+ 465  MN318426.1               0.00%    failed      0.00%
+ 466  LC496857.1               1.22%    failed      0.00%
+ 467  MK495877.1              27.60%    failed      0.00%
+ 468  LC513839.1               0.00%    failed      0.00%
+ 469  LC513840.1               0.03%    failed      0.00%
+ 470  LC513841.1              39.80%    failed      0.02%
+ 471  MN649260.1               0.09%    failed      0.00%
+ 472  MT134112.1              27.58%    failed      0.00%
+ 473  MT577804.1               1.58%    failed      0.00%
+ 474  LC536088.1               1.55%    failed      0.00%
+ 475  MT232844.1               0.08%    failed      0.00%
+ 476  MW434106.1               1.88%    failed      0.01%
+ 477  MW434107.1               0.00%    failed      0.00%
+ 478  MW434108.1               0.00%    failed      0.00%
+ 479  MW434109.1               0.00%    failed      0.00%
+ 480  MT560941.1              27.58%    failed      0.00%
+ 481  MW452275.1               0.03%    failed      0.01%
+ 482  MW246771.1               0.03%    failed      0.01%
+ 483  MW246772.1               0.00%    failed      0.00%
+ 484  MT254426.1               0.08%    failed      0.00%
+ 485  MT254427.1               1.72%    failed      0.00%
+ 486  MZ358848.1               0.59%    failed      0.00%
+ 487  MZ358849.1               0.59%    failed      0.00%
+ 488  MZ358850.1               0.59%    failed      0.00%
+ 489  MZ358851.1               0.59%    failed      0.00%
+ 490  MZ358852.1               0.59%    failed      0.00%
+ 491  MZ358856.1               1.25%    failed      0.00%
+ 492  MZ358857.1               1.25%    failed      0.00%
+ 493  MZ702743.1               0.08%    failed      0.00%
+ 494  MZ821064.1               0.03%    failed      0.00%
+ 495  MZ202252.1               0.26%    failed      0.04%
+ 496  LC687612.1              27.58%    failed      0.00%
+ 497  MZ355579.1               0.12%    failed      0.00%
+ 498  LC708273.1              27.59%    failed      0.00%
+ 499  LC708274.1              27.58%    failed      0.00%
+ 500  LC708276.1              27.59%    failed      0.00%
+ 501  OK423757.1              27.58%    failed      0.00%
+ 502  MZ972992.1               1.22%    failed      0.01%
+ 503  MZ972993.1               1.22%    failed      0.01%
+ 504  MZ972994.1               1.22%    failed      0.00%
+ 505  OL347997.1               0.47%    failed      0.00%
+ 506  OL700049.1               0.00%    failed      0.00%
+ 507  OL700072.1              28.62%    failed      1.50%
+ 508  OL700075.1               0.03%    failed      0.00%
+ 509  ON949927.1               1.19%    failed      0.00%
+ 510  ON949928.1               1.14%    failed      0.00%
+ 511  ON949929.1               1.19%    failed      0.00%
+ 512  ON949930.1               1.19%    failed      0.00%
+ 513  OK413947.1               0.00%    failed      0.00%
+ 514  ON875960.1               0.08%    failed      0.00%
+ 515  OM914715.1               0.32%    failed      0.00%
+ 516  OM572533.1              27.58%    failed      0.00%
+ 517  OM572534.1              27.58%    failed      0.00%
+ 518  OM572535.1              27.58%    failed      0.00%
+ 519  OM572536.1              27.58%    failed      0.00%
+ 520  OM572537.1              27.58%    failed      0.00%
+ 521  OM572538.1              27.58%    failed      0.00%
+ 522  OM572539.1              27.58%    failed      0.00%
+ 523  OM572540.1              27.58%    failed      0.00%
+ 524  OM572541.1              27.58%    failed      0.00%
+ 525  OM572542.1               0.08%    failed      0.00%
+ 526  OM572544.1               0.08%    failed      0.00%
+ 527  OM572545.1              27.58%    failed      0.00%
+ 528  OM572546.1              27.58%    failed      0.00%
+ 529  OM572547.1              27.58%    failed      0.00%
+ 530  OM572548.1              27.58%    failed      0.00%
+ 531  OM572549.1              27.58%    failed      0.00%
+ 532  OM572550.1              27.58%    failed      0.00%
+ 533  OM240640.1               0.12%    failed      0.00%
+ 534  OM240641.1               0.12%    failed      0.00%
+ 535  OP186478.1               0.12%    failed      0.00%
+ 536  OQ305237.1               4.24%    failed      0.00%
+ 537  OQ238827.1               0.12%    failed      0.00%
+ 538  LC770211.1               0.00%    failed      0.00%
+ 539  LC770212.1               1.22%    failed      0.00%
+ 540  OP087418.1               0.03%    failed      0.01%
+ 541  OP087419.1               0.05%    failed      0.01%
+ 542  OP087420.1               0.08%    failed      0.01%
+ 543  OP087421.1               0.20%    failed      0.00%
+ 544  OQ555395.1               0.12%    failed      0.00%
+ 545  OQ915540.1               1.22%    failed      0.01%
+ 546  OQ915542.1               1.36%    failed      0.01%
+ 547  OQ915543.1               1.22%    failed      0.01%
+ 548  OQ915544.1              12.49%    failed      0.00%
+ 549  OQ915546.1               1.26%    failed      0.01%
+ 550  OQ915547.1               1.22%    failed      0.02%
+ 551  OQ915578.1               0.00%    failed      0.00%
+ 552  OQ915579.1               0.00%    failed      0.00%
+ 553  OQ915802.1               0.03%    failed      0.00%
+ 554  OQ915803.1               1.73%    failed      0.00%
+ 555  OQ915804.1               2.24%    failed      0.00%
+ 556  OQ915805.1               0.03%    failed      0.00%
+ 557  OQ915806.1               1.14%    failed      0.00%
+ 558  OQ915866.1               1.55%    failed      0.00%
+ 559  OR531689.1               0.08%    failed      0.00%
+ 560  OR479685.1               0.03%    failed      0.00%
+ 561  OR479686.1               0.05%    failed      0.00%
+ 562  OR479687.1               1.22%    failed      0.01%
+ 563  OR479689.1               1.22%    failed      0.02%
+ 564  OR479690.1               1.22%    failed      0.07%
+ 565  OR479691.1               0.00%    failed      0.00%
+ 566  OR479692.1               0.00%    failed      0.00%
+ 567  OR479693.1               0.00%    failed      0.00%
+ 568  OR479694.1               0.00%    failed      0.00%
+ 569  OR479695.1               0.00%    failed      0.00%
+ 570  OQ139646.1               0.03%    failed      0.01%
+ 571  OQ139647.1               0.08%    failed      0.00%
+ 572  OQ139648.1               0.05%    failed      0.00%
+ 573  OR605600.1              27.58%    failed      0.00%
+ 574  MW858084.2               0.19%    failed      0.00%
+ 575  OR098296.1               1.57%    failed      0.00%
+ 576  OQ507676.1               0.15%    failed      0.00%
+ 577  LC770118.1               1.57%    failed      0.00%
+ 578  LC770161.1               0.00%    failed      0.00%
+ 579  LC775064.1               1.57%    failed      0.00%
+WARNING: 12 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                    6.57%  563 sequences failed composition chi2 test (p-value<5%; df=3)
+NOTE: MW434106.1 is identical to SRR11035291_251_rev but kept for subsequent analysis
+NOTE: MW434108.1 is identical to SRR11035278_141_rev but kept for subsequent analysis
+NOTE: MW434107.1 is identical to SRR11035295_617_rev but kept for subsequent analysis
+NOTE: OL700049.1 is identical to SRR16905219_8588 but kept for subsequent analysis
+NOTE: MW434109.1 is identical to SRR11035329_448 but kept for subsequent analysis
+NOTE: ON949929.1 is identical to SRR19859370_290_rev but kept for subsequent analysis
+NOTE: PP496992.1 is identical to SRR28021976_449_rev but kept for subsequent analysis
+NOTE: KC181923.1 is identical to PZ303603.1 but kept for subsequent analysis
+NOTE: KY320649.1 is identical to KJ741266.1 but kept for subsequent analysis
+Checking for duplicate sequences: done in 0.00933599 secs using 1528% CPU
+Identifying sites to remove: done in 0.0611749 secs using 1497% CPU
+NOTE: 1 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: PP496993.1 (identical to SRR28021976_449_rev) is ignored but added at the end
+Alignment was printed to results/msa/tree_v2/add_gt08.uniqueseq.phy
+
+For your convenience alignment with unique sequences printed to results/msa/tree_v2/add_gt08.uniqueseq.phy
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 1.207 seconds
+
+NOTE: 1251 MB RAM (1 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -909432.908
+2. Current log-likelihood: -874799.987
+3. Current log-likelihood: -874092.753
+4. Current log-likelihood: -874008.311
+5. Current log-likelihood: -873964.161
+6. Current log-likelihood: -873926.390
+7. Current log-likelihood: -873891.808
+8. Current log-likelihood: -873860.748
+9. Current log-likelihood: -873832.357
+10. Current log-likelihood: -873806.162
+11. Current log-likelihood: -873782.194
+12. Current log-likelihood: -873759.328
+13. Current log-likelihood: -873738.120
+14. Current log-likelihood: -873718.401
+15. Current log-likelihood: -873699.940
+16. Current log-likelihood: -873682.779
+17. Current log-likelihood: -873666.754
+18. Current log-likelihood: -873651.644
+19. Current log-likelihood: -873637.582
+20. Current log-likelihood: -873624.270
+21. Current log-likelihood: -873611.841
+22. Current log-likelihood: -873599.944
+23. Current log-likelihood: -873588.661
+24. Current log-likelihood: -873577.835
+25. Current log-likelihood: -873567.447
+26. Current log-likelihood: -873557.593
+27. Current log-likelihood: -873548.361
+28. Current log-likelihood: -873539.340
+29. Current log-likelihood: -873530.694
+30. Current log-likelihood: -873522.556
+31. Current log-likelihood: -873514.673
+32. Current log-likelihood: -873507.079
+33. Current log-likelihood: -873499.695
+34. Current log-likelihood: -873492.440
+35. Current log-likelihood: -873485.391
+36. Current log-likelihood: -873478.634
+37. Current log-likelihood: -873473.467
+38. Current log-likelihood: -873469.940
+39. Current log-likelihood: -873467.248
+40. Current log-likelihood: -873465.055
+41. Current log-likelihood: -873463.217
+42. Current log-likelihood: -873461.652
+43. Current log-likelihood: -873460.327
+44. Current log-likelihood: -873459.204
+45. Current log-likelihood: -873458.299
+46. Current log-likelihood: -873457.536
+47. Current log-likelihood: -873456.964
+48. Current log-likelihood: -873456.491
+49. Current log-likelihood: -873456.126
+50. Current log-likelihood: -873455.898
+51. Current log-likelihood: -873455.728
+52. Current log-likelihood: -873455.559
+53. Current log-likelihood: -873455.435
+Optimal log-likelihood: -873455.383
+Rate parameters:  A-C: 2.30427  A-G: 3.78800  A-T: 1.30952  C-G: 0.96954  C-T: 6.92476  G-T: 1.00000
+Base frequencies:  A: 0.259  C: 0.225  G: 0.283  T: 0.234
+Site proportion and rates:  (0.151,0.026) (0.095,0.133) (0.123,0.267) (0.156,0.473) (0.133,0.753) (0.088,1.232) (0.122,2.057) (0.131,3.175)
+Parameters optimization took 53 rounds (425.512 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.651023 secs using 1591% CPU
+Computing ML distances took 0.659268 sec (of wall-clock time) 10.452381 sec (of CPU time)
+WARNING: Some pairwise ML distances are too long (saturated)
+Setting up auxiliary I and S matrices: done in 0.00141501 secs using 990.5% CPU
+Constructing RapidNJ tree: done in 0.164278 secs using 1682% CPU
+Computing RapidNJ tree took 0.165766 sec (of wall-clock time) 2.780018 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -916181.027
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 142.047 second
+Computing log-likelihood of 98 initial trees ... 77.423 seconds
+Current best score: -873455.383
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -873152.431
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 2: -873099.170
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 3: -873091.064
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 6: -873089.926
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 7: -873088.728
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 8: -873088.223
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 9: -873085.869
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 10: -873084.994
+Iteration 10 / LogL: -873084.994 / Time: 0h:28m:22s
+Iteration 20 / LogL: -873099.494 / Time: 0h:31m:33s
+Finish initializing candidate tree set (20)
+Current best tree score: -873084.994 / CPU time: 1447.966
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 24: -873064.114
+Iteration 30 / LogL: -874036.435 / Time: 0h:34m:54s (1h:53m:4s left)
+Iteration 40 / LogL: -873337.532 / Time: 0h:37m:48s (1h:21m:21s left)
+Iteration 50 / LogL: -873292.760 / Time: 0h:40m:32s (1h:1m:11s left)
+Iteration 60 / LogL: -873111.051 / Time: 0h:43m:1s (0h:46m:38s left)
+Iteration 70 / LogL: -873699.498 / Time: 0h:45m:29s (0h:35m:34s left)
+Iteration 80 / LogL: -873130.148 / Time: 0h:48m:3s (0h:26m:45s left)
+Iteration 90 / LogL: -873272.948 / Time: 0h:50m:33s (0h:19m:18s left)
+Iteration 100 / LogL: -873267.692 / Time: 0h:53m:21s (0h:12m:55s left)
+Iteration 110 / LogL: -873231.187 / Time: 0h:55m:57s (0h:7m:11s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 117: -873059.800
+Iteration 120 / LogL: -873931.383 / Time: 0h:58m:52s (0h:47m:58s left)
+Iteration 130 / LogL: -873067.649 / Time: 1h:1m:28s (0h:41m:26s left)
+Iteration 140 / LogL: -873726.162 / Time: 1h:4m:13s (0h:35m:33s left)
+Iteration 150 / LogL: -873079.578 / Time: 1h:6m:54s (0h:30m:4s left)
+Iteration 160 / LogL: -873415.073 / Time: 1h:9m:32s (0h:24m:55s left)
+Iteration 170 / LogL: -873224.864 / Time: 1h:12m:7s (0h:20m:3s left)
+Iteration 180 / LogL: -873324.267 / Time: 1h:14m:48s (0h:15m:27s left)
+Iteration 190 / LogL: -877633.467 / Time: 1h:17m:16s (0h:11m:2s left)
+Iteration 200 / LogL: -873234.116 / Time: 1h:19m:56s (0h:6m:49s left)
+Iteration 210 / LogL: -874135.873 / Time: 1h:22m:30s (0h:2m:45s left)
+TREE SEARCH COMPLETED AFTER 218 ITERATIONS / Time: 1h:24m:26s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -873059.800
+2. Current log-likelihood: -873059.681
+3. Current log-likelihood: -873059.545
+4. Current log-likelihood: -873059.415
+5. Current log-likelihood: -873059.288
+6. Current log-likelihood: -873059.165
+7. Current log-likelihood: -873059.044
+8. Current log-likelihood: -873058.845
+9. Current log-likelihood: -873058.685
+10. Current log-likelihood: -873058.569
+11. Current log-likelihood: -873058.377
+12. Current log-likelihood: -873058.259
+13. Current log-likelihood: -873058.143
+14. Current log-likelihood: -873058.028
+15. Current log-likelihood: -873057.916
+16. Current log-likelihood: -873057.801
+17. Current log-likelihood: -873057.695
+18. Current log-likelihood: -873057.588
+19. Current log-likelihood: -873057.411
+20. Current log-likelihood: -873057.319
+21. Current log-likelihood: -873057.188
+22. Current log-likelihood: -873057.085
+23. Current log-likelihood: -873056.978
+24. Current log-likelihood: -873056.872
+25. Current log-likelihood: -873056.768
+26. Current log-likelihood: -873056.678
+27. Current log-likelihood: -873056.575
+28. Current log-likelihood: -873056.474
+29. Current log-likelihood: -873056.386
+30. Current log-likelihood: -873056.298
+31. Current log-likelihood: -873056.203
+32. Current log-likelihood: -873056.144
+33. Current log-likelihood: -873056.031
+34. Current log-likelihood: -873055.945
+35. Current log-likelihood: -873055.859
+36. Current log-likelihood: -873055.774
+37. Current log-likelihood: -873055.691
+38. Current log-likelihood: -873055.606
+39. Current log-likelihood: -873055.522
+40. Current log-likelihood: -873055.438
+41. Current log-likelihood: -873055.356
+42. Current log-likelihood: -873055.266
+43. Current log-likelihood: -873055.201
+44. Current log-likelihood: -873055.118
+45. Current log-likelihood: -873055.036
+46. Current log-likelihood: -873054.954
+47. Current log-likelihood: -873054.874
+48. Current log-likelihood: -873054.798
+49. Current log-likelihood: -873054.744
+50. Current log-likelihood: -873054.667
+51. Current log-likelihood: -873054.608
+52. Current log-likelihood: -873054.531
+53. Current log-likelihood: -873054.458
+54. Current log-likelihood: -873054.381
+55. Current log-likelihood: -873054.351
+56. Current log-likelihood: -873054.276
+57. Current log-likelihood: -873054.202
+58. Current log-likelihood: -873054.126
+59. Current log-likelihood: -873054.049
+60. Current log-likelihood: -873053.975
+61. Current log-likelihood: -873053.898
+62. Current log-likelihood: -873053.827
+63. Current log-likelihood: -873053.799
+64. Current log-likelihood: -873053.705
+65. Current log-likelihood: -873053.664
+66. Current log-likelihood: -873053.626
+67. Current log-likelihood: -873053.611
+68. Current log-likelihood: -873053.586
+Optimal log-likelihood: -873053.569
+Rate parameters:  A-C: 2.31189  A-G: 3.82791  A-T: 1.31501  C-G: 0.97019  C-T: 7.02096  G-T: 1.00000
+Base frequencies:  A: 0.259  C: 0.225  G: 0.283  T: 0.234
+Site proportion and rates:  (0.124,0.012) (0.097,0.097) (0.138,0.239) (0.171,0.460) (0.139,0.767) (0.093,1.306) (0.142,2.239) (0.097,3.436)
+Parameters optimization took 68 rounds (400.239 sec)
+BEST SCORE FOUND : -873053.569
+Total tree length: 54.996
+
+Total number of iterations: 218
+CPU time used for tree search: 71796.668 sec (19h:56m:36s)
+Wall-clock time used for tree search: 4621.497 sec (1h:17m:1s)
+Total CPU time used: 85124.386 sec (23h:38m:44s)
+Total wall-clock time used: 5467.082 sec (1h:31m:7s)
+
+Analysis results written to: 
+  IQ-TREE report:                results/msa/tree_v2/add_gt08.iqtree
+  Maximum-likelihood tree:       results/msa/tree_v2/add_gt08.treefile
+  Likelihood distances:          results/msa/tree_v2/add_gt08.mldist
+  Screen log file:               results/msa/tree_v2/add_gt08.log
+
+Date and Time: Tue Nov 24 14:34:05 2026

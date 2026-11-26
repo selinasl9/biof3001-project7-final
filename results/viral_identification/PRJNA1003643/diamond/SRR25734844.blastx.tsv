@@ -1,0 +1,2 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25734844_8534	YP_009305198.1	39.5	38	208	308	95	208	145	182	9.86e-06	37.0	54.8	12.3	1903340	Anopheles flavivirus variant 1	YP_009305198.1 fifo, partial [Anopheles flavivirus variant 1]

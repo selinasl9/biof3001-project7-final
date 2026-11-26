@@ -1,0 +1,6 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25701534_4115	YP_006846328.2	28.0	118	870	3427	7	345	1682	1788	8.94e-06	42.7	39.0	3.1	64292	Ntaya virus	YP_006846328.2 flavivirus polyprotein [Ntaya virus]
+SRR25701534_4261	YP_009305402.1	43.5	85	1443	597	1433	1179	382	462	4.69e-07	47.8	17.7	13.6	1903340	Anopheles flavivirus variant 1	YP_009305402.1 NS3 [Anopheles flavivirus variant 1]
+SRR25701534_4261	YP_009305197.1	43.5	85	1443	3341	1433	1179	1811	1891	6.26e-07	47.8	17.7	2.4	1903340	Anopheles flavivirus variant 1	YP_009305197.1 polyprotein [Anopheles flavivirus variant 1]
+SRR25701534_4261	YP_009389245.1	40.0	85	1443	597	1433	1179	382	462	5.68e-06	44.3	17.7	13.6	1969397	Karumba virus	YP_009389245.1 NS3 [Karumba virus]
+SRR25701534_4261	YP_009388577.1	40.0	85	1443	3342	1433	1179	1811	1891	7.36e-06	44.3	17.7	2.4	1969397	Karumba virus	YP_009388577.1 polyprotein [Karumba virus]

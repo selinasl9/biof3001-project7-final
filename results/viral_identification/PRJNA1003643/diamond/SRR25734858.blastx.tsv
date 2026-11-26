@@ -1,0 +1,6 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25734858_16700	NP_891560.1	60.4	48	187	3357	148	5	2012	2059	6.87e-19	73.9	77.0	1.4	218849	Kamiti River virus	NP_891560.1 flavivirus polyprotein [Kamiti River virus]
+SRR25734858_16700	YP_009259257.1	51.1	47	187	3341	148	8	1999	2045	3.98e-17	68.9	75.4	1.4	31658	Cell fusing agent virus	YP_009259257.1 polyprotein [Cell fusing agent virus]
+SRR25734858_16700	YP_003029843.1	51.0	49	187	3341	148	2	1999	2047	7.43e-17	68.2	78.6	1.5	390845	Aedes flavivirus	YP_003029843.1 flavivirus polyprotein [Aedes flavivirus]
+SRR25734858_16700	YP_009259297.1	55.0	40	187	587	148	29	548	587	7.92e-15	62.4	64.2	6.8	31658	Cell fusing agent virus	YP_009259297.1 NS3 [Cell fusing agent virus]
+SRR25734858_16700	YP_009259327.1	50.0	40	187	587	148	29	548	587	3.38e-13	57.8	64.2	6.8	390845	Aedes flavivirus	YP_009259327.1 nonstructural protein NS3 [Aedes flavivirus]

@@ -1,0 +1,6 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25619467_65318	YP_009553010.1	39.4	66	253	3274	46	243	2427	2487	8.13e-07	40.8	78.3	1.9	1244563	Culex theileri flavivirus	YP_009553010.1 polyprotein [Culex theileri flavivirus]
+SRR25619467_65318	YP_007877501.1	43.8	48	253	3359	46	189	2512	2558	1.52e-06	40.0	56.9	1.4	673515	Mosquito flavivirus	YP_007877501.1 polyprotein [Mosquito flavivirus]
+SRR25619467_65318	YP_009256193.1	41.1	56	253	3396	46	213	2550	2604	1.52e-06	40.0	66.4	1.6	1821222	Culiseta flavivirus	YP_009256193.1 polyprotein [Culiseta flavivirus]
+SRR25619467_65318	NP_937780.1	46.0	50	253	887	46	195	41	87	2.02e-06	39.7	59.3	5.3	218849	Kamiti River virus	NP_937780.1 NS5 protein [Kamiti River virus]
+SRR25619467_65318	NP_891560.1	46.0	50	253	3357	46	195	2511	2557	2.08e-06	39.7	59.3	1.4	218849	Kamiti River virus	NP_891560.1 flavivirus polyprotein [Kamiti River virus]

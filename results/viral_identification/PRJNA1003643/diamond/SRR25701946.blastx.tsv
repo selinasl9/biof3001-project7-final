@@ -1,0 +1,13 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25701946_6312	YP_009350102.1	65.7	35	151	3414	139	35	2956	2990	1.19e-11	52.8	69.5	1.0	1821227	Xishuangbanna aedes flavivirus	YP_009350102.1 polyprotein [Xishuangbanna aedes flavivirus]
+SRR25701946_6312	YP_009389249.1	76.7	30	151	892	124	35	435	464	3.03e-11	51.6	59.6	3.4	1969397	Karumba virus	YP_009389249.1 NS5 [Karumba virus]
+SRR25701946_6312	YP_009388577.1	76.7	30	151	3342	124	35	2885	2914	3.05e-11	51.6	59.6	0.9	1969397	Karumba virus	YP_009388577.1 polyprotein [Karumba virus]
+SRR25701946_6312	YP_009041466.1	76.7	30	151	3356	124	35	2902	2931	3.05e-11	51.6	59.6	0.9	1286143	Nienokoue virus	YP_009041466.1 polyprotein [Nienokoue virus]
+SRR25701946_6312	YP_009305401.1	73.3	30	151	892	124	35	435	464	4.15e-11	51.2	59.6	3.4	1903340	Anopheles flavivirus variant 1	YP_009305401.1 NS5 [Anopheles flavivirus variant 1]
+SRR25701946_27983	YP_009305402.1	49.3	67	375	597	26	226	398	462	9.03e-08	45.1	53.6	10.9	1903340	Anopheles flavivirus variant 1	YP_009305402.1 NS3 [Anopheles flavivirus variant 1]
+SRR25701946_27983	YP_009305197.1	49.3	67	375	3341	26	226	1827	1891	9.93e-08	45.1	53.6	1.9	1903340	Anopheles flavivirus variant 1	YP_009305197.1 polyprotein [Anopheles flavivirus variant 1]
+SRR25701946_27983	YP_009389245.1	46.2	65	375	597	32	226	400	462	1.07e-06	42.0	52.0	10.6	1969397	Karumba virus	YP_009389245.1 NS3 [Karumba virus]
+SRR25701946_27983	YP_009388577.1	46.2	65	375	3342	32	226	1829	1891	1.17e-06	42.0	52.0	1.9	1969397	Karumba virus	YP_009388577.1 polyprotein [Karumba virus]
+SRR25701946_27983	YP_009389296.1	49.2	65	375	3341	32	226	1828	1890	1.60e-06	41.6	52.0	1.9	1969400	Mac Peak virus	YP_009389296.1 polyprotein [Mac Peak virus]
+SRR25701946_31044	YP_009175071.1	35.2	54	193	7333	30	191	251	304	1.25e-09	47.8	83.9	0.7	1685953	Macrosiphum euphorbiae virus 1	YP_009175071.1 polyprotein [Macrosiphum euphorbiae virus 1]
+SRR25701946_34818	NP_891560.1	39.2	51	247	3357	2	154	2035	2084	1.58e-07	42.7	61.9	1.5	218849	Kamiti River virus	NP_891560.1 flavivirus polyprotein [Kamiti River virus]

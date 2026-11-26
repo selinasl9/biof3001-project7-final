@@ -1,0 +1,11 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR19859383_7483	YP_001531168.2	98.2	56	168	493	168	1	82	137	1.75e-37	125	100	11.4	11069	dengue virus type 3	YP_001531168.2 Envelope protein [dengue virus type 3]
+SRR19859383_7483	YP_001621843.1	98.2	56	168	3390	168	1	362	417	5.42e-37	125	100	1.7	11069	dengue virus type 3	YP_001621843.1 polyprotein [dengue virus type 3]
+SRR19859383_7483	NP_722460.2	76.8	56	168	495	168	1	82	137	2.05e-30	105	100	11.3	11053	dengue virus type 1	NP_722460.2 envelope protein [dengue virus type 1]
+SRR19859383_7483	NP_059433.1	76.8	56	168	3392	168	1	362	417	3.08e-30	105	100	1.7	11053	dengue virus type 1	NP_059433.1 polyprotein [dengue virus type 1]
+SRR19859383_7483	NP_739583.2	71.4	56	168	495	168	1	82	137	1.58e-26	95.1	100	11.3	11060	dengue virus type 2	NP_739583.2 Envelope protein [dengue virus type 2]
+SRR19859383_12993	YP_009428568.1	96.2	52	159	3423	3	158	3058	3109	7.92e-29	101	98.1	1.5	64320	Zika virus	YP_009428568.1 flavivirus polyprotein [Zika virus]
+SRR19859383_12993	YP_009430308.1	96.2	52	159	903	3	158	538	589	7.93e-29	101	98.1	5.8	64320	Zika virus	YP_009430308.1 RNA-dependent RNA polymerase NS5 [Zika virus]
+SRR19859383_12993	YP_002790881.1	88.5	52	159	3419	3	158	3054	3105	8.46e-27	95.9	98.1	1.5	64320	Zika virus	YP_002790881.1 polyprotein [Zika virus]
+SRR19859383_12993	NP_740325.1	64.7	51	159	900	3	155	537	587	1.66e-16	66.6	96.2	5.7	11070	dengue virus type 4	NP_740325.1 NS5 protein [dengue virus type 4]
+SRR19859383_12993	NP_073286.1	64.7	51	159	3387	3	155	3024	3074	1.67e-16	66.6	96.2	1.5	11070	dengue virus type 4	NP_073286.1 polyprotein [dengue virus type 4]

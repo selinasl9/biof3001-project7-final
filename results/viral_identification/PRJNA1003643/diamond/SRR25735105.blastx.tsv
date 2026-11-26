@@ -1,0 +1,5 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25735105_3037	YP_009179389.1	30.4	112	650	808	250	570	599	707	8.56e-07	44.7	49.4	13.5	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25735105_3710	YP_009179404.1	31.6	76	443	797	428	201	569	640	3.62e-06	41.2	51.5	9.0	1746071	Wuhan flea virus	YP_009179404.1 NS3-like protein [Wuhan flea virus]
+SRR25735105_12736	YP_009333111.1	42.9	42	228	618	27	152	427	468	6.87e-06	37.7	55.3	6.8	64305	Cacipacore virus	YP_009333111.1 nonstructural protein NS3 [Cacipacore virus]
+SRR25735105_12736	YP_009126874.1	42.9	42	228	3427	27	152	1927	1968	7.14e-06	37.7	55.3	1.2	64305	Cacipacore virus	YP_009126874.1 flavivirus polyprotein [Cacipacore virus]

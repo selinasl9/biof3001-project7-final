@@ -1,0 +1,10 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25734852_12621	YP_009179408.1	30.4	69	388	260	89	295	53	121	6.45e-06	39.7	53.4	26.5	1746070	Wuhan cricket virus	YP_009179408.1 putative capsid protein [Wuhan cricket virus]
+SRR25734852_12621	YP_009179386.1	19.8	111	388	263	38	367	30	139	8.82e-06	39.3	85.1	41.8	1746068	Wuhan aphid virus 2	YP_009179386.1 putative capsid protein [Wuhan aphid virus 2]
+SRR25734852_13161	YP_009175071.1	25.6	117	579	7333	199	531	190	306	3.45e-08	48.5	57.5	1.6	1685953	Macrosiphum euphorbiae virus 1	YP_009175071.1 polyprotein [Macrosiphum euphorbiae virus 1]
+SRR25734852_29217	YP_009179404.1	35.6	73	394	797	252	34	617	687	3.30e-08	46.6	55.6	8.9	1746071	Wuhan flea virus	YP_009179404.1 NS3-like protein [Wuhan flea virus]
+SRR25734852_56599	YP_009259295.1	50.7	69	214	239	213	13	100	166	1.06e-10	50.8	93.9	28.0	31658	Cell fusing agent virus	YP_009259295.1 NS2A [Cell fusing agent virus]
+SRR25734852_56599	YP_009259257.1	50.7	69	214	3341	213	13	1163	1229	1.41e-10	50.8	93.9	2.0	31658	Cell fusing agent virus	YP_009259257.1 polyprotein [Cell fusing agent virus]
+SRR25734852_56599	YP_009259325.1	46.4	69	214	207	213	13	68	134	3.13e-09	46.6	93.9	32.4	390845	Aedes flavivirus	YP_009259325.1 nonstructural protein NS2A [Aedes flavivirus]
+SRR25734852_56599	YP_003029843.1	46.4	69	214	3341	213	13	1163	1229	4.45e-09	46.6	93.9	2.0	390845	Aedes flavivirus	YP_003029843.1 flavivirus polyprotein [Aedes flavivirus]
+SRR25734852_56599	NP_937775.1	43.5	69	214	232	213	13	68	134	4.61e-08	43.5	93.9	28.9	218849	Kamiti River virus	NP_937775.1 NS2A protein [Kamiti River virus]

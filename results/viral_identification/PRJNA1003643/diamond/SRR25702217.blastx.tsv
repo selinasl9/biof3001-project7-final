@@ -1,0 +1,13 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25702217_6519	YP_009175071.1	26.5	117	537	7333	354	22	190	306	4.24e-09	50.8	62.0	1.6	1685953	Macrosiphum euphorbiae virus 1	YP_009175071.1 polyprotein [Macrosiphum euphorbiae virus 1]
+SRR25702217_21253	YP_009179404.1	35.1	77	562	797	310	540	617	691	6.62e-08	47.4	41.1	9.4	1746071	Wuhan flea virus	YP_009179404.1 NS3-like protein [Wuhan flea virus]
+SRR25702217_28629	YP_009259327.1	64.3	98	347	587	21	314	393	490	2.47e-40	136	84.7	16.7	390845	Aedes flavivirus	YP_009259327.1 nonstructural protein NS3 [Aedes flavivirus]
+SRR25702217_28629	YP_003029843.1	64.3	98	347	3341	21	314	1844	1941	5.88e-40	136	84.7	2.9	390845	Aedes flavivirus	YP_003029843.1 flavivirus polyprotein [Aedes flavivirus]
+SRR25702217_28629	NP_937777.1	64.9	97	347	577	21	311	393	489	1.16e-39	134	83.9	16.8	218849	Kamiti River virus	NP_937777.1 NS3 protein [Kamiti River virus]
+SRR25702217_28629	NP_891560.1	64.9	97	347	3357	21	311	1857	1953	2.78e-39	134	83.9	2.9	218849	Kamiti River virus	NP_891560.1 flavivirus polyprotein [Kamiti River virus]
+SRR25702217_28629	YP_009259297.1	59.4	101	347	587	9	311	389	489	4.55e-39	133	87.3	17.2	31658	Cell fusing agent virus	YP_009259297.1 NS3 [Cell fusing agent virus]
+SRR25702217_58595	YP_003029843.1	58.1	43	176	3341	26	154	1069	1111	1.01e-12	56.2	73.3	1.3	390845	Aedes flavivirus	YP_003029843.1 flavivirus polyprotein [Aedes flavivirus]
+SRR25702217_58595	YP_009259295.1	54.3	46	176	239	26	163	6	51	1.27e-12	55.5	78.4	19.2	31658	Cell fusing agent virus	YP_009259295.1 NS2A [Cell fusing agent virus]
+SRR25702217_58595	YP_009259257.1	54.3	46	176	3341	26	163	1069	1114	1.90e-12	55.5	78.4	1.4	31658	Cell fusing agent virus	YP_009259257.1 polyprotein [Cell fusing agent virus]
+SRR25702217_58595	YP_009259332.1	51.1	47	176	650	26	166	364	410	3.13e-11	52.0	80.1	7.2	390845	Aedes flavivirus	YP_009259332.1 NS1-NS2AN-FIFO protein [Aedes flavivirus]
+SRR25702217_58595	YP_009259320.1	51.1	47	176	1356	26	166	1069	1115	3.16e-11	52.0	80.1	3.5	390845	Aedes flavivirus	YP_009259320.1 truncated polyprotein [Aedes flavivirus]

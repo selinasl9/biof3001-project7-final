@@ -1,0 +1,6 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25735361_45606	YP_009259288.1	64.3	28	169	889	110	27	512	539	1.07e-08	44.7	49.7	3.1	1708574	Mercadeo virus	YP_009259288.1 RNA-dependent RNA polymerase NS5 [Mercadeo virus]
+SRR25735361_45606	YP_009164031.1	64.3	28	169	3403	110	27	3026	3053	1.08e-08	44.7	49.7	0.8	1708574	Mercadeo virus	YP_009164031.1 flavivirus polyprotein [Mercadeo virus]
+SRR25735361_45606	YP_009552767.1	60.7	28	169	3339	110	27	2963	2990	1.48e-08	44.3	49.7	0.8	2304510	Culex Flavi-like virus	YP_009552767.1 polyprotein [Culex Flavi-like virus]
+SRR25735361_45606	YP_009256193.1	64.3	28	169	3396	110	27	3020	3047	1.48e-08	44.3	49.7	0.8	1821222	Culiseta flavivirus	YP_009256193.1 polyprotein [Culiseta flavivirus]
+SRR25735361_45606	NP_937780.1	75.0	24	169	887	92	21	517	540	2.01e-08	43.9	42.6	2.7	218849	Kamiti River virus	NP_937780.1 NS5 protein [Kamiti River virus]

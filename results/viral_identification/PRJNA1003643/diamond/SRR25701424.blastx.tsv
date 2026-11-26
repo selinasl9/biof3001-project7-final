@@ -1,0 +1,8 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25701424_3183	YP_003029843.1	55.8	43	259	3341	113	241	1069	1111	3.93e-11	53.1	49.8	1.3	390845	Aedes flavivirus	YP_003029843.1 flavivirus polyprotein [Aedes flavivirus]
+SRR25701424_3183	YP_009259295.1	52.2	46	259	239	113	250	6	51	5.01e-11	52.4	53.3	19.2	31658	Cell fusing agent virus	YP_009259295.1 NS2A [Cell fusing agent virus]
+SRR25701424_3183	YP_009259257.1	52.2	46	259	3341	113	250	1069	1114	7.35e-11	52.4	53.3	1.4	31658	Cell fusing agent virus	YP_009259257.1 polyprotein [Cell fusing agent virus]
+SRR25701424_3183	YP_009259332.1	48.9	47	259	650	113	253	364	410	1.17e-09	48.9	54.4	7.2	390845	Aedes flavivirus	YP_009259332.1 NS1-NS2AN-FIFO protein [Aedes flavivirus]
+SRR25701424_3183	YP_009259320.1	48.9	47	259	1356	113	253	1069	1115	1.21e-09	48.9	54.4	3.5	390845	Aedes flavivirus	YP_009259320.1 truncated polyprotein [Aedes flavivirus]
+SRR25701424_16377	YP_009179404.1	36.1	72	651	797	265	50	617	686	1.96e-07	46.6	33.2	8.8	1746071	Wuhan flea virus	YP_009179404.1 NS3-like protein [Wuhan flea virus]
+SRR25701424_40238	YP_009175071.1	22.7	97	295	7333	15	293	201	297	3.31e-06	39.7	94.6	1.3	1685953	Macrosiphum euphorbiae virus 1	YP_009175071.1 polyprotein [Macrosiphum euphorbiae virus 1]

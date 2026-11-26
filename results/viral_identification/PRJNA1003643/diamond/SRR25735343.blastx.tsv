@@ -1,0 +1,5 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25735343_11376	YP_009179389.1	31.0	71	410	808	24	236	616	684	6.99e-06	40.0	52.0	8.5	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25735343_48529	YP_009329953.1	48.6	37	189	618	180	76	117	153	1.67e-06	38.9	55.6	6.0	11080	St. Louis encephalitis virus	YP_009329953.1 nonstructural protein NS3 [St. Louis encephalitis virus]
+SRR25735343_48529	YP_001008348.1	48.6	37	189	3430	180	76	1616	1652	1.71e-06	38.9	55.6	1.1	11080	St. Louis encephalitis virus	YP_001008348.1 polyprotein [St. Louis encephalitis virus]
+SRR25735343_122060	YP_009513189.1	44.4	45	175	3416	174	40	1611	1651	4.89e-06	37.4	77.1	1.2	33743	Kyasanur Forest disease virus	YP_009513189.1 polyprotein [Kyasanur Forest disease virus]

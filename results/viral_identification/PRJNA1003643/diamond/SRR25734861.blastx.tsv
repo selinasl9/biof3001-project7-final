@@ -1,0 +1,13 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25734861_650	YP_009259295.1	50.7	67	198	239	197	3	100	164	3.05e-10	49.3	98.5	27.2	31658	Cell fusing agent virus	YP_009259295.1 NS2A [Cell fusing agent virus]
+SRR25734861_650	YP_009259257.1	50.7	67	198	3341	197	3	1163	1227	3.86e-10	49.3	98.5	1.9	31658	Cell fusing agent virus	YP_009259257.1 polyprotein [Cell fusing agent virus]
+SRR25734861_650	YP_009259325.1	62.5	40	198	207	197	78	68	105	9.17e-09	45.1	60.6	18.4	390845	Aedes flavivirus	YP_009259325.1 nonstructural protein NS2A [Aedes flavivirus]
+SRR25734861_650	YP_003029843.1	62.5	40	198	3341	197	78	1163	1200	1.22e-08	45.1	60.6	1.1	390845	Aedes flavivirus	YP_003029843.1 flavivirus polyprotein [Aedes flavivirus]
+SRR25734861_650	NP_937775.1	43.3	67	198	232	197	3	68	132	1.81e-07	41.6	98.5	28.0	218849	Kamiti River virus	NP_937775.1 NS2A protein [Kamiti River virus]
+SRR25734861_5936	YP_009179404.1	36.1	72	360	797	117	332	617	686	4.33e-08	45.8	60.0	8.8	1746071	Wuhan flea virus	YP_009179404.1 NS3-like protein [Wuhan flea virus]
+SRR25734861_7126	YP_009175071.1	25.6	117	370	7333	353	21	190	306	4.29e-09	48.9	90.0	1.6	1685953	Macrosiphum euphorbiae virus 1	YP_009175071.1 polyprotein [Macrosiphum euphorbiae virus 1]
+SRR25734861_38612	NP_937775.1	48.1	54	385	232	9	170	130	183	1.92e-14	63.2	42.1	23.3	218849	Kamiti River virus	NP_937775.1 NS2A protein [Kamiti River virus]
+SRR25734861_38612	NP_891560.1	48.1	54	385	3357	9	170	1238	1291	5.24e-14	63.2	42.1	1.6	218849	Kamiti River virus	NP_891560.1 flavivirus polyprotein [Kamiti River virus]
+SRR25734861_38612	YP_009259325.1	42.3	52	385	207	3	158	128	179	7.40e-14	61.2	40.5	25.1	390845	Aedes flavivirus	YP_009259325.1 nonstructural protein NS2A [Aedes flavivirus]
+SRR25734861_38612	YP_003029843.1	42.3	52	385	3341	3	158	1223	1274	2.47e-13	61.2	40.5	1.6	390845	Aedes flavivirus	YP_003029843.1 flavivirus polyprotein [Aedes flavivirus]
+SRR25734861_38612	YP_009259295.1	36.0	50	385	239	9	158	162	211	4.01e-08	45.8	39.0	20.9	31658	Cell fusing agent virus	YP_009259295.1 NS2A [Cell fusing agent virus]

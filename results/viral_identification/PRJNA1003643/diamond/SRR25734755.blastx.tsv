@@ -1,0 +1,3 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25734755_14595	YP_009350102.1	51.4	35	223	3414	221	117	1210	1239	1.00e-06	40.0	47.1	0.9	1821227	Xishuangbanna aedes flavivirus	YP_009350102.1 polyprotein [Xishuangbanna aedes flavivirus]
+SRR25734755_14595	YP_009351861.1	59.3	27	223	3416	221	141	1211	1237	1.00e-06	40.0	36.3	0.8	1963247	Menghai flavivirus	YP_009351861.1 polyprotein [Menghai flavivirus]

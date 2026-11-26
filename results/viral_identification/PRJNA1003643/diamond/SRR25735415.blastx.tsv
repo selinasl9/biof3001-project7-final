@@ -1,0 +1,3 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25735415_13125	NP_891560.1	45.2	31	136	3357	42	134	2032	2062	6.70e-06	36.2	68.4	0.9	218849	Kamiti River virus	NP_891560.1 flavivirus polyprotein [Kamiti River virus]
+SRR25735415_43406	YP_009305411.1	51.9	27	128	77	101	21	51	77	5.27e-06	35.0	63.3	35.1	1903340	Anopheles flavivirus variant 1	YP_009305411.1 Pr [Anopheles flavivirus variant 1]

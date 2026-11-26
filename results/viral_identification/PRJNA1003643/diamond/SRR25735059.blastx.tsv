@@ -1,0 +1,6 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25735059_1318	NP_775670.1	27.6	116	517	619	130	462	184	288	5.26e-07	44.3	64.4	17.0	11072	Japanese encephalitis virus	NP_775670.1 non-structural protein NS3 [Japanese encephalitis virus]
+SRR25735059_1318	NP_059434.1	27.6	116	517	3432	130	462	1688	1792	6.05e-07	44.3	64.4	3.1	11072	Japanese encephalitis virus	NP_059434.1 flavivirus polyprotein [Japanese encephalitis virus]
+SRR25735059_1318	YP_009553341.1	26.3	118	517	3425	124	462	1679	1785	3.66e-06	42.0	65.6	3.1	64315	Rocio virus	YP_009553341.1 polyprotein [Rocio virus]
+SRR25735059_1318	YP_009350103.1	29.2	113	517	3430	124	462	1683	1789	3.66e-06	42.0	65.6	3.1	64319	Yaounde virus	YP_009350103.1 polyprotein [Yaounde virus]
+SRR25735059_1318	YP_002790883.1	26.3	118	517	3426	124	462	1682	1788	4.94e-06	41.6	65.6	3.1	64290	Bagaza virus	YP_002790883.1 polyprotein [Bagaza virus]

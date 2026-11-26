@@ -1,0 +1,6 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25735201_10727	YP_003029843.1	58.1	43	352	3341	281	153	1069	1111	9.63e-12	56.2	36.6	1.3	390845	Aedes flavivirus	YP_003029843.1 flavivirus polyprotein [Aedes flavivirus]
+SRR25735201_10727	YP_009259295.1	54.3	46	352	239	281	144	6	51	1.01e-11	55.5	39.2	19.2	31658	Cell fusing agent virus	YP_009259295.1 NS2A [Cell fusing agent virus]
+SRR25735201_10727	YP_009259257.1	54.3	46	352	3341	281	144	1069	1114	1.79e-11	55.5	39.2	1.4	31658	Cell fusing agent virus	YP_009259257.1 polyprotein [Cell fusing agent virus]
+SRR25735201_10727	YP_009259332.1	51.1	47	352	650	281	141	364	410	2.71e-10	52.0	40.1	7.2	390845	Aedes flavivirus	YP_009259332.1 NS1-NS2AN-FIFO protein [Aedes flavivirus]
+SRR25735201_10727	YP_009259320.1	51.1	47	352	1356	281	141	1069	1115	2.85e-10	52.0	40.1	3.5	390845	Aedes flavivirus	YP_009259320.1 truncated polyprotein [Aedes flavivirus]

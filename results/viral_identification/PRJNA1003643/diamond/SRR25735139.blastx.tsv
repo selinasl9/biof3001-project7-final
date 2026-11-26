@@ -1,0 +1,4 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25735139_10864	YP_009179389.1	31.8	85	290	808	284	42	599	681	1.63e-06	40.4	83.8	10.3	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25735139_43485	YP_009179389.1	29.1	148	719	808	534	151	540	684	8.73e-06	42.0	53.4	17.9	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25735139_100683	YP_009513190.1	43.6	39	167	3417	136	20	1062	1100	5.88e-06	37.0	70.1	1.1	64288	Royal Farm virus	YP_009513190.1 polyprotein [Royal Farm virus]

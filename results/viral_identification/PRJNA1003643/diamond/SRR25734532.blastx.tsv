@@ -1,0 +1,12 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25734532_6491	YP_009551951.1	24.9	370	2244	3483	1947	850	1786	2096	1.57e-06	47.4	48.9	8.9	2050971	Lumpfish flavivirus	YP_009551951.1 polyprotein [Lumpfish flavivirus]
+SRR25734532_6491	YP_006846328.2	27.1	118	2244	3427	1992	1654	1682	1788	3.54e-06	46.2	15.1	3.1	64292	Ntaya virus	YP_006846328.2 flavivirus polyprotein [Ntaya virus]
+SRR25734532_6491	NP_776018.1	27.7	119	2244	619	1992	1654	182	288	8.05e-06	44.7	15.1	17.3	11082	West Nile virus	NP_776018.1 non-structural protein NS3 [West Nile virus]
+SRR25734532_15481	YP_009179389.1	32.4	136	1747	808	604	1008	560	684	3.05e-07	48.9	23.2	15.5	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25734532_33204	YP_009179389.1	32.3	65	357	808	279	85	619	681	4.49e-06	40.0	54.6	7.8	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25734532_59611	YP_009179404.1	36.1	72	290	797	249	34	617	686	2.82e-08	45.4	74.5	8.8	1746071	Wuhan flea virus	YP_009179404.1 NS3-like protein [Wuhan flea virus]
+SRR25734532_76766	YP_009553010.1	41.7	48	179	3274	179	36	2421	2466	1.06e-06	39.3	80.4	1.4	1244563	Culex theileri flavivirus	YP_009553010.1 polyprotein [Culex theileri flavivirus]
+SRR25734532_76766	YP_009256193.1	44.7	47	179	3396	179	39	2544	2588	1.45e-06	38.9	78.8	1.3	1821222	Culiseta flavivirus	YP_009256193.1 polyprotein [Culiseta flavivirus]
+SRR25734532_76766	NP_937780.1	32.1	53	179	887	158	3	41	92	2.68e-06	38.1	87.2	5.9	218849	Kamiti River virus	NP_937780.1 NS5 protein [Kamiti River virus]
+SRR25734532_76766	NP_891560.1	32.1	53	179	3357	158	3	2511	2562	2.72e-06	38.1	87.2	1.5	218849	Kamiti River virus	NP_891560.1 flavivirus polyprotein [Kamiti River virus]
+SRR25734532_76766	YP_007877501.1	40.4	57	179	3359	179	9	2506	2558	2.72e-06	38.1	95.5	1.6	673515	Mosquito flavivirus	YP_007877501.1 polyprotein [Mosquito flavivirus]

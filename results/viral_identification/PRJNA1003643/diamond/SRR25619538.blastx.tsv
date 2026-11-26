@@ -1,0 +1,11 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25619538_435	YP_002884239.1	97.5	3359	10357	3359	10351	275	1	3359	0.0	6593	97.3	100	643132	Quang Binh virus	YP_002884239.1 flavivirus polyprotein [Quang Binh virus]
+SRR25619538_435	YP_007877501.1	94.3	3359	10357	3359	10351	275	1	3359	0.0	6435	97.3	100	673515	Mosquito flavivirus	YP_007877501.1 polyprotein [Mosquito flavivirus]
+SRR25619538_435	YP_009553010.1	73.2	3284	10357	3274	10099	275	1	3274	0.0	5003	94.9	100	1244563	Culex theileri flavivirus	YP_009553010.1 polyprotein [Culex theileri flavivirus]
+SRR25619538_435	YP_899469.2	69.4	3354	10357	3363	10303	278	20	3362	0.0	4792	96.8	99.4	390844	Culex flavivirus	YP_899469.2 polyprotein [Culex flavivirus]
+SRR25619538_435	YP_009344962.1	56.2	3345	10357	3364	10195	278	46	3363	0.0	3783	95.8	98.6	1302179	Palm Creek virus	YP_009344962.1 polyprotein [Palm Creek virus]
+SRR25619538_9120	YP_009305402.1	49.3	67	847	597	774	574	398	462	6.90e-07	45.8	23.7	10.9	1903340	Anopheles flavivirus variant 1	YP_009305402.1 NS3 [Anopheles flavivirus variant 1]
+SRR25619538_9120	YP_009305197.1	49.3	67	847	3341	774	574	1827	1891	8.69e-07	45.8	23.7	1.9	1903340	Anopheles flavivirus variant 1	YP_009305197.1 polyprotein [Anopheles flavivirus variant 1]
+SRR25619538_9120	YP_009389245.1	46.2	65	847	597	768	574	400	462	6.78e-06	42.7	23.0	10.6	1969397	Karumba virus	YP_009389245.1 NS3 [Karumba virus]
+SRR25619538_9120	YP_009388577.1	46.2	65	847	3342	768	574	1829	1891	8.39e-06	42.7	23.0	1.9	1969397	Karumba virus	YP_009388577.1 polyprotein [Karumba virus]
+SRR25619538_12713	YP_009179389.1	23.9	255	1166	808	1049	300	494	707	1.10e-06	46.2	64.3	26.5	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]

@@ -1,0 +1,8 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25734679_4966	YP_009179408.1	31.9	69	363	260	129	335	53	121	3.16e-07	43.1	57.0	26.5	1746070	Wuhan cricket virus	YP_009179408.1 putative capsid protein [Wuhan cricket virus]
+SRR25734679_7068	YP_009259325.1	67.6	71	309	207	62	274	37	105	8.20e-25	89.0	68.9	33.3	390845	Aedes flavivirus	YP_009259325.1 nonstructural protein NS2A [Aedes flavivirus]
+SRR25734679_7068	YP_003029843.1	67.6	71	309	3341	62	274	1132	1200	1.89e-23	89.0	68.9	2.1	390845	Aedes flavivirus	YP_003029843.1 flavivirus polyprotein [Aedes flavivirus]
+SRR25734679_7068	NP_937775.1	68.3	63	309	232	71	259	40	100	7.06e-20	76.6	61.2	26.3	218849	Kamiti River virus	NP_937775.1 NS2A protein [Kamiti River virus]
+SRR25734679_7068	YP_009259295.1	65.2	66	309	239	62	259	69	132	1.54e-19	75.9	64.1	26.8	31658	Cell fusing agent virus	YP_009259295.1 NS2A [Cell fusing agent virus]
+SRR25734679_7068	NP_891560.1	68.3	63	309	3357	71	259	1148	1208	4.00e-19	76.6	61.2	1.8	218849	Kamiti River virus	NP_891560.1 flavivirus polyprotein [Kamiti River virus]
+SRR25734679_27858	YP_009175071.1	33.3	54	166	7333	2	163	251	304	1.65e-09	47.0	97.6	0.7	1685953	Macrosiphum euphorbiae virus 1	YP_009175071.1 polyprotein [Macrosiphum euphorbiae virus 1]

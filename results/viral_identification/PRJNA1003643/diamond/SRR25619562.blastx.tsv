@@ -1,0 +1,2 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25619562_13850	YP_009345037.1	51.7	29	153	3422	62	148	1773	1801	6.45e-06	36.6	56.9	0.8	40012	Saumarez Reef virus	YP_009345037.1 polyprotein [Saumarez Reef virus]

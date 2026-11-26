@@ -1,0 +1,6 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25734557_1014	YP_009179389.1	23.9	255	1062	808	855	106	494	707	9.24e-07	46.2	70.6	26.5	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25734557_4160	YP_009179389.1	31.1	122	801	808	310	675	575	684	3.67e-07	46.6	45.7	13.6	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25734557_14088	YP_009179389.1	30.7	88	546	808	131	382	599	684	9.60e-06	40.8	46.2	10.6	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25734557_16049	YP_009259284.1	29.2	96	400	588	341	66	375	470	6.12e-06	40.0	69.0	16.3	1708574	Mercadeo virus	YP_009259284.1 nonstructural protein NS3 [Mercadeo virus]
+SRR25734557_16049	YP_009164031.1	29.2	96	400	3403	341	66	1885	1980	6.78e-06	40.0	69.0	2.8	1708574	Mercadeo virus	YP_009164031.1 flavivirus polyprotein [Mercadeo virus]

@@ -1,0 +1,13 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25701581_1182	YP_009175071.1	26.5	117	525	7333	181	513	190	306	2.86e-09	51.2	63.4	1.6	1685953	Macrosiphum euphorbiae virus 1	YP_009175071.1 polyprotein [Macrosiphum euphorbiae virus 1]
+SRR25701581_5008	YP_006846328.2	28.0	118	924	3427	40	378	1682	1788	5.80e-06	43.5	36.7	3.1	64292	Ntaya virus	YP_006846328.2 flavivirus polyprotein [Ntaya virus]
+SRR25701581_8052	YP_009305402.1	49.2	65	348	597	344	150	400	462	3.27e-07	43.1	56.0	10.6	1903340	Anopheles flavivirus variant 1	YP_009305402.1 NS3 [Anopheles flavivirus variant 1]
+SRR25701581_8052	YP_009305197.1	49.2	65	348	3341	344	150	1829	1891	3.56e-07	43.1	56.0	1.9	1903340	Anopheles flavivirus variant 1	YP_009305197.1 polyprotein [Anopheles flavivirus variant 1]
+SRR25701581_8052	YP_009389245.1	46.2	65	348	597	344	150	400	462	8.29e-07	42.0	56.0	10.6	1969397	Karumba virus	YP_009389245.1 NS3 [Karumba virus]
+SRR25701581_8052	YP_009388577.1	46.2	65	348	3342	344	150	1829	1891	9.01e-07	42.0	56.0	1.9	1969397	Karumba virus	YP_009388577.1 polyprotein [Karumba virus]
+SRR25701581_8052	YP_009389296.1	49.2	65	348	3341	344	150	1828	1890	1.23e-06	41.6	56.0	1.9	1969400	Mac Peak virus	YP_009389296.1 polyprotein [Mac Peak virus]
+SRR25701581_32681	YP_009259327.1	51.0	51	230	587	170	18	494	544	7.52e-15	63.2	66.5	8.7	390845	Aedes flavivirus	YP_009259327.1 nonstructural protein NS3 [Aedes flavivirus]
+SRR25701581_32681	YP_003029843.1	51.0	51	230	3341	170	18	1945	1995	7.81e-15	63.2	66.5	1.5	390845	Aedes flavivirus	YP_003029843.1 flavivirus polyprotein [Aedes flavivirus]
+SRR25701581_32681	YP_009259297.1	52.1	48	230	587	167	24	495	542	1.92e-14	62.0	62.6	8.2	31658	Cell fusing agent virus	YP_009259297.1 NS3 [Cell fusing agent virus]
+SRR25701581_32681	YP_009259257.1	52.1	48	230	3341	167	24	1946	1993	1.99e-14	62.0	62.6	1.4	31658	Cell fusing agent virus	YP_009259257.1 polyprotein [Cell fusing agent virus]
+SRR25701581_32681	NP_937777.1	58.5	41	230	577	146	24	502	542	1.71e-13	59.3	53.5	7.1	218849	Kamiti River virus	NP_937777.1 NS3 protein [Kamiti River virus]

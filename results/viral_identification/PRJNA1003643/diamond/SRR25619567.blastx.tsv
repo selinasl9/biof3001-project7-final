@@ -1,0 +1,10 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25619567_24467	YP_009259361.1	40.0	70	219	588	2	211	402	466	9.29e-07	40.0	95.9	11.1	643132	Quang Binh virus	YP_009259361.1 nonstructural protein NS3 [Quang Binh virus]
+SRR25619567_24467	YP_002884239.1	40.0	70	219	3359	2	211	1848	1912	9.63e-07	40.0	95.9	1.9	643132	Quang Binh virus	YP_002884239.1 flavivirus polyprotein [Quang Binh virus]
+SRR25619567_24467	YP_009553010.1	40.0	70	219	3274	2	211	1763	1827	1.32e-06	39.7	95.9	2.0	1244563	Culex theileri flavivirus	YP_009553010.1 polyprotein [Culex theileri flavivirus]
+SRR25619567_24467	YP_007877501.1	43.9	57	219	3359	2	172	1848	1901	3.39e-06	38.5	78.1	1.6	673515	Mosquito flavivirus	YP_007877501.1 polyprotein [Mosquito flavivirus]
+SRR25619567_24467	YP_899469.2	40.0	70	219	3363	2	211	1852	1916	3.39e-06	38.5	95.9	1.9	390844	Culex flavivirus	YP_899469.2 polyprotein [Culex flavivirus]
+SRR25619567_41863	NP_739587.2	41.9	43	202	618	135	7	196	237	6.92e-06	37.4	63.9	6.8	11060	dengue virus type 2	NP_739587.2 Nonstructural protein NS3 [dengue virus type 2]
+SRR25619567_41863	NP_056776.2	41.9	43	202	3391	135	7	1671	1712	7.13e-06	37.4	63.9	1.2	11060	dengue virus type 2	NP_056776.2 polyprotein [dengue virus type 2]
+SRR25619567_90469	NP_872627.1	45.2	31	156	3425	34	126	1619	1649	7.06e-06	36.6	59.6	0.9	64294	Yokose virus	NP_872627.1 polyprotein [Yokose virus]
+SRR25619567_105746	YP_009179389.1	40.3	62	230	808	227	42	622	681	1.50e-06	39.7	80.9	7.4	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]

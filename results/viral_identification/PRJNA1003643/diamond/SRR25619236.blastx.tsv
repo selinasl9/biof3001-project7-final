@@ -1,0 +1,7 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25619236_1210	YP_009389296.1	24.6	228	7721	3341	2327	2995	2490	2691	3.87e-06	48.1	8.7	6.0	1969400	Mac Peak virus	YP_009389296.1 polyprotein [Mac Peak virus]
+SRR25619236_149051	NP_740325.1	42.5	40	156	900	154	35	61	100	7.37e-07	39.3	76.9	4.4	11070	dengue virus type 4	NP_740325.1 NS5 protein [dengue virus type 4]
+SRR25619236_149051	NP_073286.1	42.5	40	156	3387	154	35	2548	2587	7.42e-07	39.3	76.9	1.2	11070	dengue virus type 4	NP_073286.1 polyprotein [dengue virus type 4]
+SRR25619236_149051	YP_009344969.1	47.5	40	156	3390	154	35	2547	2586	7.42e-07	39.3	76.9	1.2	64309	Jugra virus	YP_009344969.1 polyprotein [Jugra virus]
+SRR25619236_149051	YP_009344961.1	39.6	48	156	3390	154	14	2548	2595	1.91e-06	38.1	90.4	1.4	64295	Bouboui virus	YP_009344961.1 polyprotein [Bouboui virus]
+SRR25619236_149051	YP_001527887.1	42.5	40	156	905	154	35	61	100	2.60e-06	37.7	76.9	4.4	11082	West Nile virus	YP_001527887.1 nonstructural protein 5 [West Nile virus]

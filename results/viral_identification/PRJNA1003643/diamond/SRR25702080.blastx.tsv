@@ -1,0 +1,9 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25702080_11325	YP_009389296.1	45.7	35	157	3341	51	155	1566	1600	3.59e-06	37.4	66.9	1.0	1969400	Mac Peak virus	YP_009389296.1 polyprotein [Mac Peak virus]
+SRR25702080_11325	YP_009389245.1	42.9	35	157	597	51	155	137	171	4.86e-06	37.0	66.9	5.9	1969397	Karumba virus	YP_009389245.1 NS3 [Karumba virus]
+SRR25702080_11325	YP_009388577.1	42.9	35	157	3342	51	155	1566	1600	4.92e-06	37.0	66.9	1.0	1969397	Karumba virus	YP_009388577.1 polyprotein [Karumba virus]
+SRR25702080_134503	YP_009305401.1	35.4	82	302	892	30	272	13	90	1.87e-06	40.4	80.5	8.7	1903340	Anopheles flavivirus variant 1	YP_009305401.1 NS5 [Anopheles flavivirus variant 1]
+SRR25702080_134503	YP_009305197.1	35.4	82	302	3341	30	272	2462	2539	1.94e-06	40.4	80.5	2.3	1903340	Anopheles flavivirus variant 1	YP_009305197.1 polyprotein [Anopheles flavivirus variant 1]
+SRR25702080_297995	YP_009351820.1	40.7	59	157	3427	18	149	1624	1682	1.39e-06	38.5	84.1	1.7	577122	T'Ho virus	YP_009351820.1 polyprotein [T'Ho virus]
+SRR25702080_297995	YP_009333127.1	57.1	28	157	616	21	104	128	155	6.67e-06	36.6	53.5	4.5	44024	Kokobera virus	YP_009333127.1 nonstructural protein NS3 [Kokobera virus]
+SRR25702080_297995	YP_001040007.1	57.1	28	157	3410	21	104	1620	1647	6.75e-06	36.6	53.5	0.8	44024	Kokobera virus	YP_001040007.1 flavivirus polyprotein [Kokobera virus]

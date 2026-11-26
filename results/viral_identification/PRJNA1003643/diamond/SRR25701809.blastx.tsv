@@ -1,0 +1,6 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25701809_17297	YP_009268621.1	87.7	65	195	392	195	1	112	176	5.38e-37	122	100	16.6	1125677	Hanko virus	YP_009268621.1 nonstructural protein NS1 [Hanko virus]
+SRR25701809_17297	YP_009268629.1	87.7	65	195	651	195	1	112	176	4.38e-36	122	100	10.0	1125677	Hanko virus	YP_009268629.1 NS1-NS2AN-FIFO protein [Hanko virus]
+SRR25701809_17297	YP_009268614.1	87.7	65	195	1366	195	1	827	891	5.18e-36	122	100	4.8	1125677	Hanko virus	YP_009268614.1 truncated polyprotein [Hanko virus]
+SRR25701809_17297	YP_009259489.1	87.7	65	195	3385	195	1	827	891	5.20e-36	122	100	1.9	1125677	Hanko virus	YP_009259489.1 flavivirus polyprotein [Hanko virus]
+SRR25701809_17297	YP_009352228.1	87.7	65	195	3385	195	1	827	891	7.10e-36	122	100	1.9	1244565	Ochlerotatus caspius flavivirus	YP_009352228.1 polyprotein [Ochlerotatus caspius flavivirus]

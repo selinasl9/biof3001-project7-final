@@ -1,0 +1,6 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25702256_30807	YP_009259365.1	67.4	43	299	889	42	170	474	516	5.35e-15	64.7	43.1	4.8	643132	Quang Binh virus	YP_009259365.1 RNA-dependent RNA polymerase NS5 [Quang Binh virus]
+SRR25702256_30807	YP_002884239.1	67.4	43	299	3359	42	170	2944	2986	5.56e-15	64.7	43.1	1.3	643132	Quang Binh virus	YP_002884239.1 flavivirus polyprotein [Quang Binh virus]
+SRR25702256_30807	YP_007877501.1	67.4	43	299	3359	42	170	2944	2986	5.56e-15	64.7	43.1	1.3	673515	Mosquito flavivirus	YP_007877501.1 polyprotein [Mosquito flavivirus]
+SRR25702256_30807	YP_009553010.1	67.4	43	299	3274	42	170	2859	2901	7.59e-15	64.3	43.1	1.3	1244563	Culex theileri flavivirus	YP_009553010.1 polyprotein [Culex theileri flavivirus]
+SRR25702256_30807	YP_009041466.1	62.8	43	299	3356	42	170	2941	2983	1.42e-14	63.5	43.1	1.3	1286143	Nienokoue virus	YP_009041466.1 polyprotein [Nienokoue virus]

@@ -1,0 +1,8 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25735247_14334	YP_009179389.1	22.7	330	2467	808	2166	1180	403	684	3.31e-06	46.2	40.0	34.9	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25735247_14334	YP_009305402.1	49.3	67	2467	597	1386	1186	398	462	3.93e-06	45.8	8.1	10.9	1903340	Anopheles flavivirus variant 1	YP_009305402.1 NS3 [Anopheles flavivirus variant 1]
+SRR25735247_14334	YP_009305197.1	49.3	67	2467	3341	1386	1186	1827	1891	5.23e-06	45.8	8.1	1.9	1903340	Anopheles flavivirus variant 1	YP_009305197.1 polyprotein [Anopheles flavivirus variant 1]
+SRR25735247_19720	YP_009179389.1	37.8	82	468	808	8	253	606	684	9.50e-07	43.1	52.6	9.8	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25735247_51650	YP_009179389.1	23.6	330	1212	808	1196	228	409	684	1.27e-07	49.3	80.0	34.2	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25735247_51650	YP_009179402.1	25.0	348	1212	803	1196	183	406	696	3.85e-07	47.8	83.7	36.2	1746063	Shuangao insect virus 7	YP_009179402.1 NS3-like protein [Shuangao insect virus 7]
+SRR25735247_79861	YP_002790883.1	38.5	39	180	3426	154	38	468	506	7.00e-06	37.0	65.0	1.1	64290	Bagaza virus	YP_002790883.1 polyprotein [Bagaza virus]

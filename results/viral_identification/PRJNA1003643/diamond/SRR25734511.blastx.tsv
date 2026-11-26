@@ -1,0 +1,4 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25734511_9686	YP_009305402.1	49.3	67	1479	597	1377	1177	398	462	1.95e-06	45.8	13.6	10.9	1903340	Anopheles flavivirus variant 1	YP_009305402.1 NS3 [Anopheles flavivirus variant 1]
+SRR25734511_9686	YP_009305197.1	49.3	67	1479	3341	1377	1177	1827	1891	2.57e-06	45.8	13.6	1.9	1903340	Anopheles flavivirus variant 1	YP_009305197.1 polyprotein [Anopheles flavivirus variant 1]
+SRR25734511_21270	YP_009179389.1	29.1	148	566	808	433	50	540	684	3.28e-06	42.4	67.8	17.9	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]

@@ -1,0 +1,2 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25735450_3973	YP_009388303.1	36.4	55	188	6614	7	171	402	449	8.78e-07	39.7	87.8	0.7	1983570	Apis flavivirus	YP_009388303.1 polyprotein [Apis flavivirus]

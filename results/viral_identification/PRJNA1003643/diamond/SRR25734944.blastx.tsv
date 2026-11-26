@@ -1,0 +1,3 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25734944_37246	YP_009179389.1	35.3	68	357	808	138	341	619	686	2.26e-08	46.6	57.1	8.4	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25734944_69697	YP_009430305.1	36.1	36	186	127	133	26	66	101	5.95e-06	36.6	58.1	28.3	64320	Zika virus	YP_009430305.1 nonstructural protein NS4A [Zika virus]

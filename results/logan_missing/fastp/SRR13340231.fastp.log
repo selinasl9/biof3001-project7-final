@@ -1,0 +1,52 @@
+Detecting adapter sequence for read1...
+No adapter detected for read1
+
+Detecting adapter sequence for read2...
+No adapter detected for read2
+
+Read1 before filtering:
+total reads: 245822
+total bases: 60294602
+Q20 bases: 59018917(97.8842%)
+Q30 bases: 56352927(93.4626%)
+Q40 bases: 0(0%)
+
+Read2 before filtering:
+total reads: 245822
+total bases: 60351025
+Q20 bases: 57156796(94.7072%)
+Q30 bases: 52515765(87.0172%)
+Q40 bases: 0(0%)
+
+Read1 after filtering:
+total reads: 226629
+total bases: 55116417
+Q20 bases: 54493022(98.8689%)
+Q30 bases: 52712482(95.6384%)
+Q40 bases: 0(0%)
+
+Read2 after filtering:
+total reads: 226629
+total bases: 55073469
+Q20 bases: 53516690(97.1733%)
+Q30 bases: 50193254(91.1387%)
+Q40 bases: 0(0%)
+
+Filtering result:
+reads passed filter: 453258
+reads failed due to low quality: 36268
+reads failed due to too many N: 154
+reads failed due to too short: 1964
+reads failed due to adapter dimer: 0
+reads with adapter trimmed: 9782
+bases trimmed due to adapters: 190661
+
+Duplication rate: 16.0909%
+
+Insert size peak (evaluated by paired-end reads): 201
+
+JSON report: results/logan_missing/fastp/SRR13340231.fastp.json
+HTML report: results/logan_missing/fastp/SRR13340231.fastp.html
+
+fastp -i data/logan_missing/SRR13340231/SRR13340231_1.fastq -I data/logan_missing/SRR13340231/SRR13340231_2.fastq -o data/logan_missing/SRR13340231/SRR13340231_1.trim.fq.gz -O data/logan_missing/SRR13340231/SRR13340231_2.trim.fq.gz -q 30 -l 50 --trim_poly_g --detect_adapter_for_pe -w 16 -j results/logan_missing/fastp/SRR13340231.fastp.json -h results/logan_missing/fastp/SRR13340231.fastp.html 
+fastp v1.4.0, time used: 62 seconds

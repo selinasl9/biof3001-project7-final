@@ -1,0 +1,13 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25702145_878	YP_009179389.1	35.8	67	589	808	3	197	619	681	8.93e-06	41.2	33.1	7.8	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25702145_7912	YP_009389296.1	44.4	63	245	3341	190	2	1828	1888	1.36e-06	40.0	77.1	1.8	1969400	Mac Peak virus	YP_009389296.1 polyprotein [Mac Peak virus]
+SRR25702145_7912	YP_009305402.1	40.0	80	245	597	241	2	388	460	3.33e-06	38.9	98.0	12.2	1903340	Anopheles flavivirus variant 1	YP_009305402.1 NS3 [Anopheles flavivirus variant 1]
+SRR25702145_7912	YP_009305197.1	40.0	80	245	3341	241	2	1817	1889	3.49e-06	38.9	98.0	2.2	1903340	Anopheles flavivirus variant 1	YP_009305197.1 polyprotein [Anopheles flavivirus variant 1]
+SRR25702145_7912	YP_009389245.1	44.4	63	245	597	190	2	400	460	8.55e-06	37.7	77.1	10.2	1969397	Karumba virus	YP_009389245.1 NS3 [Karumba virus]
+SRR25702145_7912	YP_009388577.1	44.4	63	245	3342	190	2	1829	1889	8.95e-06	37.7	77.1	1.8	1969397	Karumba virus	YP_009388577.1 polyprotein [Karumba virus]
+SRR25702145_21863	NP_740325.1	42.5	40	243	900	1	120	61	100	2.48e-06	39.3	49.4	4.4	11070	dengue virus type 4	NP_740325.1 NS5 protein [dengue virus type 4]
+SRR25702145_21863	NP_073286.1	42.5	40	243	3387	1	120	2548	2587	2.55e-06	39.3	49.4	1.2	11070	dengue virus type 4	NP_073286.1 polyprotein [dengue virus type 4]
+SRR25702145_21863	YP_009344969.1	47.5	40	243	3390	1	120	2547	2586	2.55e-06	39.3	49.4	1.2	64309	Jugra virus	YP_009344969.1 polyprotein [Jugra virus]
+SRR25702145_21863	NP_937780.1	34.5	55	243	887	1	162	48	102	6.36e-06	38.1	66.7	6.2	218849	Kamiti River virus	NP_937780.1 NS5 protein [Kamiti River virus]
+SRR25702145_21863	NP_891560.1	34.5	55	243	3357	1	162	2518	2572	6.54e-06	38.1	66.7	1.6	218849	Kamiti River virus	NP_891560.1 flavivirus polyprotein [Kamiti River virus]
+SRR25702145_28895	YP_009179389.1	31.5	89	386	808	60	323	619	705	4.88e-07	43.1	68.4	10.8	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]

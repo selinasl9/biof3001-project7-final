@@ -1,0 +1,5 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25734713_32742	YP_009179404.1	35.8	67	219	797	205	5	615	679	8.49e-06	37.4	91.8	8.2	1746071	Wuhan flea virus	YP_009179404.1 NS3-like protein [Wuhan flea virus]
+SRR25734713_32742	YP_009552082.1	46.0	63	219	3746	193	5	608	668	8.71e-06	37.4	86.3	1.6	1678179	Diatom colony associated ssRNA virus 1	YP_009552082.1 hypothetical polyprotein [Diatom colony associated ssRNA virus 1]
+SRR25734713_236966	YP_009179389.1	35.8	67	273	808	222	28	619	681	5.39e-07	41.6	71.4	7.8	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25734713_236966	YP_009175071.1	35.4	79	273	7333	216	7	4351	4426	7.71e-07	41.2	76.9	1.0	1685953	Macrosiphum euphorbiae virus 1	YP_009175071.1 polyprotein [Macrosiphum euphorbiae virus 1]

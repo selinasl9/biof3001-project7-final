@@ -1,0 +1,8 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR11035271_10424	YP_009305402.1	49.3	67	516	597	289	89	398	462	1.53e-07	45.8	39.0	10.9	1903340	Anopheles flavivirus variant 1	YP_009305402.1 NS3 [Anopheles flavivirus variant 1]
+SRR11035271_10424	YP_009305197.1	49.3	67	516	3341	289	89	1827	1891	1.77e-07	45.8	39.0	1.9	1903340	Anopheles flavivirus variant 1	YP_009305197.1 polyprotein [Anopheles flavivirus variant 1]
+SRR11035271_10424	YP_009389245.1	46.2	65	516	597	283	89	400	462	1.71e-06	42.7	37.8	10.6	1969397	Karumba virus	YP_009389245.1 NS3 [Karumba virus]
+SRR11035271_10424	YP_009388577.1	46.2	65	516	3342	283	89	1829	1891	1.97e-06	42.7	37.8	1.9	1969397	Karumba virus	YP_009388577.1 polyprotein [Karumba virus]
+SRR11035271_10424	YP_009389296.1	49.2	65	516	3341	283	89	1828	1890	2.66e-06	42.4	37.8	1.9	1969400	Mac Peak virus	YP_009389296.1 polyprotein [Mac Peak virus]
+SRR11035271_29270	NP_740320.1	58.1	31	337	130	182	90	51	81	2.78e-06	39.3	27.6	23.8	11070	dengue virus type 4	NP_740320.1 NS2B protein [dengue virus type 4]
+SRR11035271_29270	NP_073286.1	58.1	31	337	3387	182	90	1395	1425	6.99e-06	39.3	27.6	0.9	11070	dengue virus type 4	NP_073286.1 polyprotein [dengue virus type 4]

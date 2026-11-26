@@ -1,0 +1,5 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25735405_7849	YP_009259325.1	50.0	38	328	207	322	209	142	179	6.07e-11	52.8	34.8	18.4	390845	Aedes flavivirus	YP_009259325.1 nonstructural protein NS2A [Aedes flavivirus]
+SRR25735405_7849	YP_003029843.1	50.0	38	328	3341	322	209	1237	1274	1.24e-10	52.8	34.8	1.1	390845	Aedes flavivirus	YP_003029843.1 flavivirus polyprotein [Aedes flavivirus]
+SRR25735405_7849	NP_937775.1	47.4	38	328	232	310	197	146	183	5.14e-10	50.4	34.8	16.4	218849	Kamiti River virus	NP_937775.1 NS2A protein [Kamiti River virus]
+SRR25735405_7849	NP_891560.1	47.4	38	328	3357	310	197	1254	1291	8.04e-10	50.4	34.8	1.1	218849	Kamiti River virus	NP_891560.1 flavivirus polyprotein [Kamiti River virus]

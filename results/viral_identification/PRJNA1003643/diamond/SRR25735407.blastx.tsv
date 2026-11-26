@@ -1,0 +1,9 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25735407_3024	YP_009175071.1	34.0	50	154	7333	150	1	253	302	9.07e-09	44.7	97.4	0.7	1685953	Macrosiphum euphorbiae virus 1	YP_009175071.1 polyprotein [Macrosiphum euphorbiae virus 1]
+SRR25735407_13058	YP_009259295.1	53.5	71	219	239	2	214	89	157	4.28e-15	62.8	97.3	28.9	31658	Cell fusing agent virus	YP_009259295.1 NS2A [Cell fusing agent virus]
+SRR25735407_13058	YP_009259325.1	66.7	51	219	207	2	154	57	105	5.74e-15	62.0	69.9	23.7	390845	Aedes flavivirus	YP_009259325.1 nonstructural protein NS2A [Aedes flavivirus]
+SRR25735407_13058	YP_009259257.1	53.5	71	219	3341	2	214	1152	1220	9.04e-15	62.8	97.3	2.1	31658	Cell fusing agent virus	YP_009259257.1 polyprotein [Cell fusing agent virus]
+SRR25735407_13058	YP_003029843.1	66.7	51	219	3341	2	154	1152	1200	1.69e-14	62.0	69.9	1.5	390845	Aedes flavivirus	YP_003029843.1 flavivirus polyprotein [Aedes flavivirus]
+SRR25735407_13058	NP_937775.1	69.6	46	219	232	2	139	57	100	2.11e-13	58.2	63.0	19.0	218849	Kamiti River virus	NP_937775.1 NS2A protein [Kamiti River virus]
+SRR25735407_18794	YP_009345034.1	59.1	22	168	3416	22	87	485	506	6.15e-06	37.0	39.3	0.6	64307	Gadgets Gully virus	YP_009345034.1 polyprotein [Gadgets Gully virus]
+SRR25735407_21092	YP_009179408.1	34.6	52	224	260	17	172	70	121	4.51e-06	38.1	69.6	20.0	1746070	Wuhan cricket virus	YP_009179408.1 putative capsid protein [Wuhan cricket virus]

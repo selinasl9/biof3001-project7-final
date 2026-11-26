@@ -1,0 +1,6 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25701805_10395	YP_009268616.1	56.7	60	190	118	9	188	7	66	4.51e-20	72.8	94.7	50.8	1125677	Hanko virus	YP_009268616.1 capsid protein C [Hanko virus]
+SRR25701805_10395	YP_009268615.1	56.7	60	190	137	9	188	7	66	7.14e-20	72.8	94.7	43.8	1125677	Hanko virus	YP_009268615.1 anchored capsid protein C [Hanko virus]
+SRR25701805_10395	YP_009352228.1	60.0	60	190	3385	9	188	7	66	5.03e-19	74.3	94.7	1.8	1244565	Ochlerotatus caspius flavivirus	YP_009352228.1 polyprotein [Ochlerotatus caspius flavivirus]
+SRR25701805_10395	YP_009268614.1	56.7	60	190	1366	9	188	7	66	1.74e-18	72.8	94.7	4.4	1125677	Hanko virus	YP_009268614.1 truncated polyprotein [Hanko virus]
+SRR25701805_10395	YP_009259489.1	56.7	60	190	3385	9	188	7	66	1.75e-18	72.8	94.7	1.8	1125677	Hanko virus	YP_009259489.1 flavivirus polyprotein [Hanko virus]

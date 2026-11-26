@@ -1,0 +1,4 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25734515_20196	YP_009389296.1	50.0	36	153	3341	109	2	2510	2545	1.83e-06	38.1	70.6	1.1	1969400	Mac Peak virus	YP_009389296.1 polyprotein [Mac Peak virus]
+SRR25734515_20566	YP_009305402.1	49.3	67	1457	597	53	253	398	462	1.91e-06	45.8	13.8	10.9	1903340	Anopheles flavivirus variant 1	YP_009305402.1 NS3 [Anopheles flavivirus variant 1]
+SRR25734515_20566	YP_009305197.1	49.3	67	1457	3341	53	253	1827	1891	2.50e-06	45.8	13.8	1.9	1903340	Anopheles flavivirus variant 1	YP_009305197.1 polyprotein [Anopheles flavivirus variant 1]

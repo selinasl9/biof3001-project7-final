@@ -1,0 +1,7 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25735265_13649	YP_009259365.1	75.5	49	423	889	422	276	469	517	4.71e-22	86.7	34.8	5.5	643132	Quang Binh virus	YP_009259365.1 RNA-dependent RNA polymerase NS5 [Quang Binh virus]
+SRR25735265_13649	YP_002884239.1	75.5	49	423	3359	422	276	2939	2987	5.06e-22	86.7	34.8	1.5	643132	Quang Binh virus	YP_002884239.1 flavivirus polyprotein [Quang Binh virus]
+SRR25735265_13649	YP_007877501.1	75.5	49	423	3359	422	276	2939	2987	5.06e-22	86.7	34.8	1.5	673515	Mosquito flavivirus	YP_007877501.1 polyprotein [Mosquito flavivirus]
+SRR25735265_13649	YP_009259288.1	74.5	47	423	889	422	282	469	515	1.63e-21	85.1	33.3	5.3	1708574	Mercadeo virus	YP_009259288.1 RNA-dependent RNA polymerase NS5 [Mercadeo virus]
+SRR25735265_13649	YP_009268612.1	74.5	47	423	889	422	282	469	515	1.63e-21	85.1	33.3	5.3	667516	Nakiwogo virus	YP_009268612.1 RNA-dependent RNA polymerase NS5 [Nakiwogo virus]
+SRR25735265_125534	YP_009179389.1	39.0	59	177	808	1	177	622	680	5.55e-07	40.0	100	7.3	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]

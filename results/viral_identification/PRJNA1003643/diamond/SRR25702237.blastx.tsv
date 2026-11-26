@@ -1,0 +1,4 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25702237_43917	YP_009175071.1	32.9	85	304	7333	46	264	4351	4432	3.12e-07	42.7	72.0	1.1	1685953	Macrosiphum euphorbiae virus 1	YP_009175071.1 polyprotein [Macrosiphum euphorbiae virus 1]
+SRR25702237_43917	YP_009179389.1	35.8	67	304	808	40	234	619	681	4.04e-07	42.4	64.1	7.8	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25702237_43917	YP_009179402.1	29.9	77	304	803	40	264	616	688	9.10e-06	38.5	74.0	9.1	1746063	Shuangao insect virus 7	YP_009179402.1 NS3-like protein [Shuangao insect virus 7]

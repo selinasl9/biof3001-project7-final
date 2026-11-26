@@ -1,0 +1,4 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25619324_2595	YP_009175071.1	27.2	1198	12148	7333	8856	12035	6124	7290	1.79e-116	414	26.2	15.9	1685953	Macrosiphum euphorbiae virus 1	YP_009175071.1 polyprotein [Macrosiphum euphorbiae virus 1]
+SRR25619324_2595	YP_009028573.1	23.6	1073	12148	5905	8850	11921	4465	5499	2.15e-58	221	25.3	17.5	1495316	Soybean cyst nematode virus 5	YP_009028573.1 polyprotein [Soybean cyst nematode virus 5]
+SRR25619324_2595	YP_009388303.1	24.7	843	12148	6614	9717	11903	5606	6427	1.13e-42	169	18.0	12.4	1983570	Apis flavivirus	YP_009388303.1 polyprotein [Apis flavivirus]

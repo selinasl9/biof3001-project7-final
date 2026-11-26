@@ -1,0 +1,2 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25734982_864	YP_009389296.1	24.6	228	5615	3341	5182	4514	2490	2691	1.22e-06	49.3	11.9	6.0	1969400	Mac Peak virus	YP_009389296.1 polyprotein [Mac Peak virus]

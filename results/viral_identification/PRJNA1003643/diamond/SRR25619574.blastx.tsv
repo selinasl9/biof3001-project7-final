@@ -1,0 +1,6 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25619574_5257	NP_937780.1	42.6	54	313	887	71	229	41	93	2.90e-06	40.0	50.8	6.0	218849	Kamiti River virus	NP_937780.1 NS5 protein [Kamiti River virus]
+SRR25619574_5257	NP_891560.1	42.6	54	313	3357	71	229	2511	2563	3.02e-06	40.0	50.8	1.6	218849	Kamiti River virus	NP_891560.1 flavivirus polyprotein [Kamiti River virus]
+SRR25619574_55972	YP_009256193.1	37.9	58	258	3396	50	220	2546	2602	4.04e-06	38.9	66.3	1.7	1821222	Culiseta flavivirus	YP_009256193.1 polyprotein [Culiseta flavivirus]
+SRR25619574_121357	YP_009179389.1	37.9	66	459	808	453	256	618	681	4.15e-06	41.2	43.1	7.9	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25619574_123258	NP_872627.1	48.6	37	194	3425	193	83	2575	2610	4.60e-06	37.7	57.2	1.1	64294	Yokose virus	NP_872627.1 polyprotein [Yokose virus]

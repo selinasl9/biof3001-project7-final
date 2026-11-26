@@ -1,0 +1,6 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25735237_419	YP_002884239.1	97.2	3359	10658	3359	44	10120	1	3359	0.0	6578	94.5	100	643132	Quang Binh virus	YP_002884239.1 flavivirus polyprotein [Quang Binh virus]
+SRR25735237_419	YP_007877501.1	94.3	3359	10658	3359	44	10120	1	3359	0.0	6433	94.5	100	673515	Mosquito flavivirus	YP_007877501.1 polyprotein [Mosquito flavivirus]
+SRR25735237_419	YP_009553010.1	73.1	3284	10658	3274	296	10120	1	3274	0.0	4999	92.2	100	1244563	Culex theileri flavivirus	YP_009553010.1 polyprotein [Culex theileri flavivirus]
+SRR25735237_419	YP_899469.2	69.3	3359	10658	3363	92	10117	20	3362	0.0	4788	94.1	99.4	390844	Culex flavivirus	YP_899469.2 polyprotein [Culex flavivirus]
+SRR25735237_419	YP_009344962.1	56.1	3345	10658	3364	200	10117	46	3363	0.0	3778	93.1	98.6	1302179	Palm Creek virus	YP_009344962.1 polyprotein [Palm Creek virus]

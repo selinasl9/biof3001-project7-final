@@ -1,0 +1,9 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25734938_58239	YP_009305402.1	40.0	85	914	597	759	505	382	462	4.50e-06	43.5	27.9	13.6	1903340	Anopheles flavivirus variant 1	YP_009305402.1 NS3 [Anopheles flavivirus variant 1]
+SRR25734938_58239	YP_009305197.1	40.0	85	914	3341	759	505	1811	1891	5.64e-06	43.5	27.9	2.4	1903340	Anopheles flavivirus variant 1	YP_009305197.1 polyprotein [Anopheles flavivirus variant 1]
+SRR25734938_69829	YP_009179379.1	36.4	77	446	816	40	270	616	690	5.03e-06	40.8	51.8	9.2	1746068	Wuhan aphid virus 2	YP_009179379.1 NS3-like protein [Wuhan aphid virus 2]
+SRR25734938_75458	YP_009388303.1	48.6	37	165	6614	40	150	2820	2851	8.08e-06	36.6	67.3	0.5	1983570	Apis flavivirus	YP_009388303.1 polyprotein [Apis flavivirus]
+SRR25734938_151072	NP_775684.1	39.1	46	188	616	162	25	282	326	5.66e-06	37.4	73.4	7.3	64280	Apoi virus	NP_775684.1 non-structural protein NS3 [Apoi virus]
+SRR25734938_151072	NP_620045.1	39.1	46	188	3371	162	25	1746	1790	5.80e-06	37.4	73.4	1.3	64280	Apoi virus	NP_620045.1 polyprotein [Apoi virus]
+SRR25734938_185409	NP_776002.1	50.0	32	181	352	172	77	226	257	5.11e-06	37.4	53.0	9.1	11089	Yellow fever virus	NP_776002.1 non-structural protein NS1 [Yellow fever virus]
+SRR25734938_185409	NP_041726.1	50.0	32	181	3411	172	77	1004	1035	5.33e-06	37.4	53.0	0.9	11089	Yellow fever virus	NP_041726.1 polyprotein precursor [Yellow fever virus]

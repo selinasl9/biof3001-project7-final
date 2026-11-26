@@ -1,0 +1,6 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25701506_122959	NP_775649.1	30.3	109	496	616	152	466	186	288	8.84e-09	49.3	63.5	16.7	64312	Montana myotis leukoencephalitis virus	NP_775649.1 non-structural protein NS3, partial [Montana myotis leukoencephalitis virus]
+SRR25701506_122959	NP_689391.1	30.3	109	496	3374	152	466	1649	1751	1.01e-08	49.3	63.5	3.1	64312	Montana myotis leukoencephalitis virus	NP_689391.1 polyprotein [Montana myotis leukoencephalitis virus]
+SRR25701506_122959	NP_740264.1	31.1	103	496	618	170	466	194	290	5.48e-08	47.0	59.9	15.7	64300	Modoc virus	NP_740264.1 non-structural protein 3 [Modoc virus]
+SRR25701506_122959	NP_619758.1	31.1	103	496	3374	170	466	1654	1750	6.27e-08	47.0	59.9	2.9	64300	Modoc virus	NP_619758.1 polyprotein [Modoc virus]
+SRR25701506_122959	YP_009552767.1	33.6	110	496	3339	152	466	1635	1737	1.29e-06	43.1	63.5	3.1	2304510	Culex Flavi-like virus	YP_009552767.1 polyprotein [Culex Flavi-like virus]

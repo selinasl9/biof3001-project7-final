@@ -1,0 +1,11 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25734544_13448	YP_009179389.1	22.7	330	2575	808	400	1386	403	684	2.66e-06	46.6	38.3	34.9	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25734544_13448	YP_009305402.1	49.3	67	2575	597	1180	1380	398	462	4.15e-06	45.8	7.8	10.9	1903340	Anopheles flavivirus variant 1	YP_009305402.1 NS3 [Anopheles flavivirus variant 1]
+SRR25734544_13448	YP_009305197.1	49.3	67	2575	3341	1180	1380	1827	1891	5.52e-06	45.8	7.8	1.9	1903340	Anopheles flavivirus variant 1	YP_009305197.1 polyprotein [Anopheles flavivirus variant 1]
+SRR25734544_16273	YP_009179389.1	32.0	122	2507	808	874	1239	575	684	1.95e-06	47.0	14.6	13.6	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25734544_24345	YP_009553341.1	27.1	118	666	3425	429	91	1679	1785	8.10e-06	42.0	50.9	3.1	64315	Rocio virus	YP_009553341.1 polyprotein [Rocio virus]
+SRR25734544_24345	YP_002790883.1	26.3	118	666	3426	429	91	1682	1788	8.10e-06	42.0	50.9	3.1	64290	Bagaza virus	YP_002790883.1 polyprotein [Bagaza virus]
+SRR25734544_24474	YP_009179402.1	36.7	79	750	803	491	255	612	688	7.24e-06	42.4	31.6	9.6	1746063	Shuangao insect virus 7	YP_009179402.1 NS3-like protein [Shuangao insect virus 7]
+SRR25734544_24474	YP_009179389.1	35.7	70	750	808	485	276	617	684	9.67e-06	42.0	28.0	8.4	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25734544_28476	YP_009552767.1	27.6	127	480	3339	437	57	2945	3052	6.93e-06	40.8	79.4	3.2	2304510	Culex Flavi-like virus	YP_009552767.1 polyprotein [Culex Flavi-like virus]
+SRR25734544_59501	YP_009513189.1	48.0	25	153	3416	71	145	2035	2059	3.43e-06	37.4	49.0	0.7	33743	Kyasanur Forest disease virus	YP_009513189.1 polyprotein [Kyasanur Forest disease virus]

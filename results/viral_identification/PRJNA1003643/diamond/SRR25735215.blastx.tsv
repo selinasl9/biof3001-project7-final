@@ -1,0 +1,6 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25735215_28495	YP_009389245.1	63.2	95	369	597	363	100	380	474	8.39e-33	116	71.5	15.9	1969397	Karumba virus	YP_009389245.1 NS3 [Karumba virus]
+SRR25735215_28495	YP_009388577.1	63.2	95	369	3342	363	100	1809	1903	1.13e-32	116	71.5	2.8	1969397	Karumba virus	YP_009388577.1 polyprotein [Karumba virus]
+SRR25735215_28495	YP_009305402.1	57.9	95	369	597	363	100	380	474	6.32e-30	108	71.5	15.9	1903340	Anopheles flavivirus variant 1	YP_009305402.1 NS3 [Anopheles flavivirus variant 1]
+SRR25735215_28495	YP_009305197.1	57.9	95	369	3341	363	100	1809	1903	7.67e-30	108	71.5	2.8	1903340	Anopheles flavivirus variant 1	YP_009305197.1 polyprotein [Anopheles flavivirus variant 1]
+SRR25735215_28495	YP_009389296.1	57.9	95	369	3341	363	100	1808	1902	3.62e-29	106	71.5	2.8	1969400	Mac Peak virus	YP_009389296.1 polyprotein [Mac Peak virus]

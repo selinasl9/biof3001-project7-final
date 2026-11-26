@@ -1,0 +1,13 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25619228_415	YP_009175071.1	23.3	729	13751	7333	4708	2675	3864	4566	1.20e-33	140	14.8	9.6	1685953	Macrosiphum euphorbiae virus 1	YP_009175071.1 polyprotein [Macrosiphum euphorbiae virus 1]
+SRR25619228_415	YP_009028573.1	23.5	588	13751	5905	4702	3119	2779	3323	1.06e-09	60.8	11.5	9.2	1495316	Soybean cyst nematode virus 5	YP_009028573.1 polyprotein [Soybean cyst nematode virus 5]
+SRR25619228_2171	YP_009175071.1	39.7	146	448	7333	427	5	7101	7246	1.51e-29	108	94.4	2.0	1685953	Macrosiphum euphorbiae virus 1	YP_009175071.1 polyprotein [Macrosiphum euphorbiae virus 1]
+SRR25619228_2171	YP_009388303.1	36.4	143	448	6614	394	5	6286	6427	2.87e-20	82.0	87.1	2.1	1983570	Apis flavivirus	YP_009388303.1 polyprotein [Apis flavivirus]
+SRR25619228_2171	YP_009028573.1	32.1	140	448	5905	394	5	5361	5493	6.69e-15	66.6	87.1	2.3	1495316	Soybean cyst nematode virus 5	YP_009028573.1 polyprotein [Soybean cyst nematode virus 5]
+SRR25619228_2311	YP_009305402.1	49.3	67	1656	597	164	364	398	462	2.30e-06	45.8	12.1	10.9	1903340	Anopheles flavivirus variant 1	YP_009305402.1 NS3 [Anopheles flavivirus variant 1]
+SRR25619228_2311	YP_009305197.1	49.3	67	1656	3341	164	364	1827	1891	3.04e-06	45.8	12.1	1.9	1903340	Anopheles flavivirus variant 1	YP_009305197.1 polyprotein [Anopheles flavivirus variant 1]
+SRR25619228_7239	YP_009175071.1	28.3	683	1785	7333	8	1783	6407	7069	2.60e-67	234	99.5	9.0	1685953	Macrosiphum euphorbiae virus 1	YP_009175071.1 polyprotein [Macrosiphum euphorbiae virus 1]
+SRR25619228_7239	YP_009388303.1	24.0	624	1785	6614	65	1783	5595	6205	9.69e-28	115	96.3	9.2	1983570	Apis flavivirus	YP_009388303.1 polyprotein [Apis flavivirus]
+SRR25619228_7239	YP_009028573.1	22.7	616	1785	5905	8	1783	4729	5325	1.25e-22	99.0	99.5	10.1	1495316	Soybean cyst nematode virus 5	YP_009028573.1 polyprotein [Soybean cyst nematode virus 5]
+SRR25619228_10197	YP_009179404.1	31.6	76	617	797	335	108	569	640	7.68e-06	41.6	37.0	9.0	1746071	Wuhan flea virus	YP_009179404.1 NS3-like protein [Wuhan flea virus]
+SRR25619228_59773	YP_009169331.1	39.0	59	191	3441	20	184	3231	3288	8.29e-06	37.0	86.4	1.7	1566298	Paraiso Escondido virus	YP_009169331.1 polyprotein [Paraiso Escondido virus]

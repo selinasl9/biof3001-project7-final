@@ -1,0 +1,7 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25619320_3217	YP_009305402.1	49.3	67	1642	597	154	354	398	462	2.28e-06	45.8	12.2	10.9	1903340	Anopheles flavivirus variant 1	YP_009305402.1 NS3 [Anopheles flavivirus variant 1]
+SRR25619320_3217	YP_009305197.1	49.3	67	1642	3341	154	354	1827	1891	3.00e-06	45.8	12.2	1.9	1903340	Anopheles flavivirus variant 1	YP_009305197.1 polyprotein [Anopheles flavivirus variant 1]
+SRR25619320_4871	YP_009179404.1	31.6	76	637	797	163	390	569	640	8.45e-06	41.6	35.8	9.0	1746071	Wuhan flea virus	YP_009179404.1 NS3-like protein [Wuhan flea virus]
+SRR25619320_9719	YP_009179389.1	30.3	109	386	808	386	75	602	707	1.23e-06	42.0	80.8	13.1	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25619320_52723	YP_009259284.1	29.2	96	300	588	292	17	375	470	2.40e-06	40.0	92.0	16.3	1708574	Mercadeo virus	YP_009259284.1 nonstructural protein NS3 [Mercadeo virus]
+SRR25619320_52723	YP_009164031.1	29.2	96	300	3403	292	17	1885	1980	2.57e-06	40.0	92.0	2.8	1708574	Mercadeo virus	YP_009164031.1 flavivirus polyprotein [Mercadeo virus]

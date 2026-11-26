@@ -1,0 +1,7 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25735135_736	YP_009305402.1	49.3	67	935	597	10	210	398	462	1.14e-06	45.4	21.5	10.9	1903340	Anopheles flavivirus variant 1	YP_009305402.1 NS3 [Anopheles flavivirus variant 1]
+SRR25735135_736	YP_009305197.1	49.3	67	935	3341	10	210	1827	1891	1.45e-06	45.4	21.5	1.9	1903340	Anopheles flavivirus variant 1	YP_009305197.1 polyprotein [Anopheles flavivirus variant 1]
+SRR25735135_29512	YP_009179389.1	30.4	112	855	808	217	537	599	707	1.80e-06	44.7	37.5	13.5	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25735135_51156	YP_009430305.1	45.0	40	210	127	22	132	30	69	3.01e-06	37.7	52.9	31.5	64320	Zika virus	YP_009430305.1 nonstructural protein NS4A [Zika virus]
+SRR25735135_51156	YP_002790881.1	45.0	40	210	3419	22	132	2145	2184	5.87e-06	37.7	52.9	1.2	64320	Zika virus	YP_002790881.1 polyprotein [Zika virus]
+SRR25735135_51156	YP_009428568.1	45.0	40	210	3423	22	132	2149	2188	5.87e-06	37.7	52.9	1.2	64320	Zika virus	YP_009428568.1 flavivirus polyprotein [Zika virus]

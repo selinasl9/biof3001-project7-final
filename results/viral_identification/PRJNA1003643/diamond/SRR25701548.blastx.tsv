@@ -1,0 +1,8 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25701548_35229	NP_775520.1	47.2	36	236	622	126	233	344	378	7.68e-06	37.7	45.8	5.6	11083	Powassan virus	NP_775520.1 non-structural protein NS3 [Powassan virus]
+SRR25701548_35229	NP_620099.1	47.2	36	236	3415	126	233	1833	1867	8.00e-06	37.7	45.8	1.0	11083	Powassan virus	NP_620099.1 polyprotein [Powassan virus]
+SRR25701548_94658	NP_722463.1	50.0	42	250	619	144	19	129	169	6.72e-06	38.1	50.4	6.6	11053	dengue virus type 1	NP_722463.1 nonstructural protein 3 [dengue virus type 1]
+SRR25701548_94658	NP_059433.1	50.0	42	250	3392	144	19	1604	1644	7.04e-06	38.1	50.4	1.2	11053	dengue virus type 1	NP_059433.1 polyprotein [dengue virus type 1]
+SRR25701548_94658	YP_009351820.1	47.3	55	250	3427	171	25	1615	1668	9.63e-06	37.7	58.8	1.6	577122	T'Ho virus	YP_009351820.1 polyprotein [T'Ho virus]
+SRR25701548_113524	YP_009179389.1	38.3	60	239	808	180	1	619	676	9.98e-08	43.1	75.3	7.2	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25701548_113524	YP_009179404.1	35.5	62	239	797	186	1	615	674	4.78e-07	41.2	77.8	7.5	1746071	Wuhan flea virus	YP_009179404.1 NS3-like protein [Wuhan flea virus]

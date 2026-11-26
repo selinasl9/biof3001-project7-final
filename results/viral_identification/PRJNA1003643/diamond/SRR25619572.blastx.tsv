@@ -1,0 +1,6 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25619572_7353	YP_009179402.1	24.3	370	2167	803	195	1268	384	696	3.13e-07	49.3	49.6	39.0	1746063	Shuangao insect virus 7	YP_009179402.1 NS3-like protein [Shuangao insect virus 7]
+SRR25619572_7353	YP_009179389.1	23.3	330	2167	808	255	1223	409	684	7.12e-07	48.1	44.7	34.2	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25619572_19981	YP_009179389.1	23.9	255	931	808	108	857	494	707	6.96e-07	46.2	80.6	26.5	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25619572_22086	YP_009179389.1	30.7	88	353	808	317	66	599	684	2.29e-06	40.8	71.4	10.6	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25619572_29156	YP_009268617.1	39.6	48	255	147	21	164	74	116	8.16e-06	37.4	56.5	29.3	1125677	Hanko virus	YP_009268617.1 membrane glycoprotein precursor prM [Hanko virus]

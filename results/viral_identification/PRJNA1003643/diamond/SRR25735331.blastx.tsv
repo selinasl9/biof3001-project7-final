@@ -1,0 +1,12 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25735331_10689	YP_009259294.1	64.8	54	219	358	160	2	137	190	4.31e-20	77.4	72.6	15.1	31658	Cell fusing agent virus	YP_009259294.1 NS1 [Cell fusing agent virus]
+SRR25735331_10689	YP_009259257.1	64.8	54	219	3341	160	2	842	895	6.37e-20	77.4	72.6	1.6	31658	Cell fusing agent virus	YP_009259257.1 polyprotein [Cell fusing agent virus]
+SRR25735331_10689	YP_009259324.1	63.0	54	219	390	160	2	137	190	9.48e-20	76.6	72.6	13.8	390845	Aedes flavivirus	YP_009259324.1 nonstructural protein NS1 [Aedes flavivirus]
+SRR25735331_10689	YP_009259332.1	63.0	54	219	650	160	2	137	190	1.16e-19	76.6	72.6	8.3	390845	Aedes flavivirus	YP_009259332.1 NS1-NS2AN-FIFO protein [Aedes flavivirus]
+SRR25735331_10689	YP_009259320.1	63.0	54	219	1356	160	2	842	895	1.18e-19	76.6	72.6	4.0	390845	Aedes flavivirus	YP_009259320.1 truncated polyprotein [Aedes flavivirus]
+SRR25735331_28331	YP_009268620.1	39.0	41	154	431	154	32	103	143	7.30e-07	39.3	79.9	9.5	1125677	Hanko virus	YP_009268620.1 envelope protein E [Hanko virus]
+SRR25735331_28331	YP_009268614.1	39.0	41	154	1366	154	32	387	427	7.39e-07	39.3	79.9	3.0	1125677	Hanko virus	YP_009268614.1 truncated polyprotein [Hanko virus]
+SRR25735331_28331	YP_009259489.1	39.0	41	154	3385	154	32	387	427	7.42e-07	39.3	79.9	1.2	1125677	Hanko virus	YP_009259489.1 flavivirus polyprotein [Hanko virus]
+SRR25735331_28331	YP_009259264.1	39.0	41	154	431	154	32	103	143	4.83e-06	37.0	79.9	9.5	1708654	Parramatta River virus	YP_009259264.1 envelope protein E [Parramatta River virus]
+SRR25735331_28331	YP_009259258.1	39.0	41	154	1371	154	32	390	430	4.90e-06	37.0	79.9	3.0	1708654	Parramatta River virus	YP_009259258.1 truncated polyprotein [Parramatta River virus]
+SRR25735331_58805	YP_009175071.1	36.2	47	154	7333	3	143	260	306	3.78e-07	40.0	91.6	0.6	1685953	Macrosiphum euphorbiae virus 1	YP_009175071.1 polyprotein [Macrosiphum euphorbiae virus 1]

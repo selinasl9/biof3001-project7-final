@@ -1,0 +1,13 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25735263_4875	YP_009552767.1	51.2	43	426	3339	166	294	3004	3046	4.13e-09	49.7	30.3	1.3	2304510	Culex Flavi-like virus	YP_009552767.1 polyprotein [Culex Flavi-like virus]
+SRR25735263_4875	YP_009259331.1	65.6	32	426	890	199	294	566	597	1.79e-08	47.8	22.5	3.6	390845	Aedes flavivirus	YP_009259331.1 RNA-dependent RNA polymerase NS5 [Aedes flavivirus]
+SRR25735263_4875	YP_003029843.1	65.6	32	426	3341	199	294	3017	3048	1.92e-08	47.8	22.5	1.0	390845	Aedes flavivirus	YP_003029843.1 flavivirus polyprotein [Aedes flavivirus]
+SRR25735263_4875	YP_009259272.1	62.5	32	426	890	199	294	564	595	6.10e-08	46.2	22.5	3.6	1708654	Parramatta River virus	YP_009259272.1 RNA-dependent RNA polymerase [Parramatta River virus]
+SRR25735263_4875	YP_009268628.1	62.5	32	426	894	199	294	564	595	6.11e-08	46.2	22.5	3.6	1125677	Hanko virus	YP_009268628.1 RNA-dependent RNA polymerase NS5 [Hanko virus]
+SRR25735263_11289	YP_009179389.1	31.2	125	646	808	60	434	571	684	3.23e-08	48.9	58.0	14.1	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25735263_47120	YP_009259331.1	57.1	42	217	890	8	133	385	426	4.61e-12	55.1	58.1	4.7	390845	Aedes flavivirus	YP_009259331.1 RNA-dependent RNA polymerase NS5 [Aedes flavivirus]
+SRR25735263_47120	YP_003029843.1	57.1	42	217	3341	8	133	2836	2877	4.70e-12	55.1	58.1	1.3	390845	Aedes flavivirus	YP_003029843.1 flavivirus polyprotein [Aedes flavivirus]
+SRR25735263_47120	YP_009259301.1	52.4	42	217	888	8	133	383	424	1.61e-11	53.5	58.1	4.7	31658	Cell fusing agent virus	YP_009259301.1 NS5 [Cell fusing agent virus]
+SRR25735263_47120	YP_009259257.1	52.4	42	217	3341	8	133	2836	2877	1.65e-11	53.5	58.1	1.3	31658	Cell fusing agent virus	YP_009259257.1 polyprotein [Cell fusing agent virus]
+SRR25735263_47120	NP_937780.1	52.4	42	217	887	8	133	382	423	5.64e-11	52.0	58.1	4.7	218849	Kamiti River virus	NP_937780.1 NS5 protein [Kamiti River virus]
+SRR25735263_48159	YP_009179404.1	36.1	72	287	797	32	247	617	686	6.94e-08	44.3	75.3	8.8	1746071	Wuhan flea virus	YP_009179404.1 NS3-like protein [Wuhan flea virus]

@@ -1,0 +1,3 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25735086_87598	YP_009179389.1	27.1	107	338	808	34	333	580	684	9.30e-06	38.9	88.8	13.0	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25735086_93257	YP_009256193.1	42.5	40	181	3396	155	36	2550	2588	9.59e-06	36.6	66.3	1.1	1821222	Culiseta flavivirus	YP_009256193.1 polyprotein [Culiseta flavivirus]

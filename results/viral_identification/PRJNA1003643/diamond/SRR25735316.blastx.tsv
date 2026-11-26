@@ -1,0 +1,11 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25735316_3797	YP_009350102.1	81.0	105	320	3414	319	5	3125	3229	1.53e-54	177	98.4	3.1	1821227	Xishuangbanna aedes flavivirus	YP_009350102.1 polyprotein [Xishuangbanna aedes flavivirus]
+SRR25735316_3797	YP_009351861.1	78.1	105	320	3416	319	5	3127	3231	1.18e-52	172	98.4	3.1	1963247	Menghai flavivirus	YP_009351861.1 polyprotein [Menghai flavivirus]
+SRR25735316_3797	NP_937780.1	67.0	106	320	887	319	2	598	703	2.06e-45	151	99.4	12.0	218849	Kamiti River virus	NP_937780.1 NS5 protein [Kamiti River virus]
+SRR25735316_3797	NP_891560.1	67.0	106	320	3357	319	2	3068	3173	2.24e-45	151	99.4	3.2	218849	Kamiti River virus	NP_891560.1 flavivirus polyprotein [Kamiti River virus]
+SRR25735316_3797	YP_009259301.1	64.8	105	320	888	319	5	599	703	8.71e-44	147	98.4	11.8	31658	Cell fusing agent virus	YP_009259301.1 NS5 [Cell fusing agent virus]
+SRR25735316_29481	YP_009350102.1	90.8	65	198	3414	3	197	3068	3132	4.59e-35	120	98.5	1.9	1821227	Xishuangbanna aedes flavivirus	YP_009350102.1 polyprotein [Xishuangbanna aedes flavivirus]
+SRR25735316_29481	YP_009351861.1	89.1	64	198	3416	6	197	3071	3134	4.05e-34	117	97.0	1.9	1963247	Menghai flavivirus	YP_009351861.1 polyprotein [Menghai flavivirus]
+SRR25735316_29481	YP_009259272.1	80.0	65	198	890	3	197	542	606	3.33e-30	106	98.5	7.3	1708654	Parramatta River virus	YP_009259272.1 RNA-dependent RNA polymerase [Parramatta River virus]
+SRR25735316_29481	YP_009389249.1	75.4	65	198	892	3	197	542	606	3.33e-30	106	98.5	7.3	1969397	Karumba virus	YP_009389249.1 NS5 [Karumba virus]
+SRR25735316_29481	YP_009388577.1	75.4	65	198	3342	3	197	2992	3056	3.36e-30	106	98.5	1.9	1969397	Karumba virus	YP_009388577.1 polyprotein [Karumba virus]

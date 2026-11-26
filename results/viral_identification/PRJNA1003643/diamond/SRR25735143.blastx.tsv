@@ -1,0 +1,4 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25735143_1595	YP_009179404.1	22.3	251	1247	797	1	702	465	684	4.92e-06	44.3	56.3	27.6	1746071	Wuhan flea virus	YP_009179404.1 NS3-like protein [Wuhan flea virus]
+SRR25735143_1838	YP_009179389.1	32.2	121	1141	808	431	69	575	684	1.97e-07	48.5	31.8	13.6	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25735143_55442	YP_009179404.1	37.3	67	224	797	222	22	622	686	7.41e-07	40.4	89.7	8.2	1746071	Wuhan flea virus	YP_009179404.1 NS3-like protein [Wuhan flea virus]

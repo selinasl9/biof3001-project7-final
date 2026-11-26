@@ -1,0 +1,10 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25734934_52825	YP_009268608.1	26.5	132	637	587	154	549	337	452	5.64e-07	45.1	62.2	19.8	667516	Nakiwogo virus	YP_009268608.1 nonstructural protein NS3 [Nakiwogo virus]
+SRR25734934_52825	YP_009259488.1	26.5	132	637	3373	154	549	1804	1919	6.79e-07	45.1	62.2	3.4	667516	Nakiwogo virus	YP_009259488.1 flavivirus polyprotein [Nakiwogo virus]
+SRR25734934_52825	YP_009179389.1	36.5	63	637	808	358	546	619	681	1.46e-06	43.9	29.7	7.8	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25734934_62906	YP_009179404.1	27.4	124	471	797	467	144	566	684	2.41e-06	42.0	68.8	14.9	1746071	Wuhan flea virus	YP_009179404.1 NS3-like protein [Wuhan flea virus]
+SRR25734934_86981	YP_009259324.1	55.3	94	287	390	285	7	220	313	1.97e-34	117	97.2	24.1	390845	Aedes flavivirus	YP_009259324.1 nonstructural protein NS1 [Aedes flavivirus]
+SRR25734934_86981	YP_009552767.1	56.0	91	287	3339	276	4	851	941	5.69e-34	118	95.1	2.7	2304510	Culex Flavi-like virus	YP_009552767.1 polyprotein [Culex Flavi-like virus]
+SRR25734934_86981	YP_009259265.1	52.6	95	287	396	282	1	224	318	5.83e-34	116	98.3	24.0	1708654	Parramatta River virus	YP_009259265.1 nonstructural protein NS1 [Parramatta River virus]
+SRR25734934_86981	YP_009259332.1	55.3	94	287	650	285	7	220	313	1.25e-33	117	97.2	14.5	390845	Aedes flavivirus	YP_009259332.1 NS1-NS2AN-FIFO protein [Aedes flavivirus]
+SRR25734934_86981	YP_009259320.1	55.3	94	287	1356	285	7	925	1018	1.42e-33	117	97.2	6.9	390845	Aedes flavivirus	YP_009259320.1 truncated polyprotein [Aedes flavivirus]

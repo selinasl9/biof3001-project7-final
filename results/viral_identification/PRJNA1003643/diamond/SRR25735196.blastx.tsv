@@ -1,0 +1,4 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25735196_772	YP_009175071.1	27.5	131	404	7333	1	369	4074	4204	3.32e-09	49.7	91.3	1.8	1685953	Macrosiphum euphorbiae virus 1	YP_009175071.1 polyprotein [Macrosiphum euphorbiae virus 1]
+SRR25735196_1832	YP_009388303.1	32.0	147	989	6614	49	468	6286	6414	2.80e-12	63.5	42.5	2.0	1983570	Apis flavivirus	YP_009388303.1 polyprotein [Apis flavivirus]
+SRR25735196_1832	YP_009175071.1	32.7	162	989	7333	49	525	7112	7255	2.77e-11	60.5	48.2	2.0	1685953	Macrosiphum euphorbiae virus 1	YP_009175071.1 polyprotein [Macrosiphum euphorbiae virus 1]

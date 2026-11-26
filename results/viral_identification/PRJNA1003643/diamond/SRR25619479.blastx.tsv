@@ -1,0 +1,11 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25619479_4306	NP_937777.1	50.5	109	261	577	261	31	401	509	2.57e-26	96.3	88.5	18.9	218849	Kamiti River virus	NP_937777.1 NS3 protein [Kamiti River virus]
+SRR25619479_4306	NP_891560.1	50.5	109	261	3357	261	31	1865	1973	2.80e-26	96.3	88.5	3.2	218849	Kamiti River virus	NP_891560.1 flavivirus polyprotein [Kamiti River virus]
+SRR25619479_4306	YP_009259327.1	48.5	99	261	587	261	58	401	499	3.16e-25	93.2	78.2	16.9	390845	Aedes flavivirus	YP_009259327.1 nonstructural protein NS3 [Aedes flavivirus]
+SRR25619479_4306	YP_009259297.1	46.8	109	261	587	261	31	401	509	3.16e-25	93.2	88.5	18.6	31658	Cell fusing agent virus	YP_009259297.1 NS3 [Cell fusing agent virus]
+SRR25619479_4306	YP_003029843.1	48.5	99	261	3341	261	58	1852	1950	3.37e-25	93.2	78.2	3.0	390845	Aedes flavivirus	YP_003029843.1 flavivirus polyprotein [Aedes flavivirus]
+SRR25619479_32258	YP_009259365.1	69.4	36	235	889	35	142	481	516	2.57e-13	58.9	46.0	4.0	643132	Quang Binh virus	YP_009259365.1 RNA-dependent RNA polymerase NS5 [Quang Binh virus]
+SRR25619479_32258	YP_002884239.1	69.4	36	235	3359	35	142	2951	2986	2.64e-13	58.9	46.0	1.1	643132	Quang Binh virus	YP_002884239.1 flavivirus polyprotein [Quang Binh virus]
+SRR25619479_32258	YP_007877501.1	69.4	36	235	3359	35	142	2951	2986	2.64e-13	58.9	46.0	1.1	673515	Mosquito flavivirus	YP_007877501.1 polyprotein [Mosquito flavivirus]
+SRR25619479_32258	YP_009553010.1	69.4	36	235	3274	35	142	2866	2901	3.60e-13	58.5	46.0	1.1	1244563	Culex theileri flavivirus	YP_009553010.1 polyprotein [Culex theileri flavivirus]
+SRR25619479_32258	YP_009344962.1	69.4	36	235	3364	35	142	2956	2991	4.92e-13	58.2	46.0	1.1	1302179	Palm Creek virus	YP_009344962.1 polyprotein [Palm Creek virus]

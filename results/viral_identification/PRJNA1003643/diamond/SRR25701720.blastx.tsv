@@ -1,0 +1,9 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25701720_2988	YP_009305402.1	49.3	67	1168	597	22	222	398	462	2.32e-06	45.1	17.2	10.9	1903340	Anopheles flavivirus variant 1	YP_009305402.1 NS3 [Anopheles flavivirus variant 1]
+SRR25701720_2988	YP_009305197.1	49.3	67	1168	3341	22	222	1827	1891	3.00e-06	45.1	17.2	1.9	1903340	Anopheles flavivirus variant 1	YP_009305197.1 polyprotein [Anopheles flavivirus variant 1]
+SRR25701720_22884	YP_009259365.1	66.7	36	264	889	163	56	481	516	1.74e-12	57.0	40.9	4.0	643132	Quang Binh virus	YP_009259365.1 RNA-dependent RNA polymerase NS5 [Quang Binh virus]
+SRR25701720_22884	YP_002884239.1	66.7	36	264	3359	163	56	2951	2986	1.80e-12	57.0	40.9	1.1	643132	Quang Binh virus	YP_002884239.1 flavivirus polyprotein [Quang Binh virus]
+SRR25701720_22884	YP_007877501.1	66.7	36	264	3359	163	56	2951	2986	1.80e-12	57.0	40.9	1.1	673515	Mosquito flavivirus	YP_007877501.1 polyprotein [Mosquito flavivirus]
+SRR25701720_22884	YP_009553010.1	66.7	36	264	3274	163	56	2866	2901	2.46e-12	56.6	40.9	1.1	1244563	Culex theileri flavivirus	YP_009553010.1 polyprotein [Culex theileri flavivirus]
+SRR25701720_22884	YP_009344962.1	66.7	36	264	3364	163	56	2956	2991	3.36e-12	56.2	40.9	1.1	1302179	Palm Creek virus	YP_009344962.1 polyprotein [Palm Creek virus]
+SRR25701720_34797	YP_009175071.1	38.0	50	174	7333	173	24	257	306	1.19e-08	44.7	86.2	0.7	1685953	Macrosiphum euphorbiae virus 1	YP_009175071.1 polyprotein [Macrosiphum euphorbiae virus 1]

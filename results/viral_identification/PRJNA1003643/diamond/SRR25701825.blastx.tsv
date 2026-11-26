@@ -1,0 +1,13 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25701825_995	YP_009175071.1	25.6	117	535	7333	190	522	190	306	2.54e-08	48.5	62.2	1.6	1685953	Macrosiphum euphorbiae virus 1	YP_009175071.1 polyprotein [Macrosiphum euphorbiae virus 1]
+SRR25701825_18233	YP_009179404.1	35.1	77	630	797	251	21	617	691	9.74e-08	47.4	36.7	9.4	1746071	Wuhan flea virus	YP_009179404.1 NS3-like protein [Wuhan flea virus]
+SRR25701825_22701	YP_009259297.1	41.3	92	302	587	7	258	457	542	7.79e-18	72.8	83.4	14.7	31658	Cell fusing agent virus	YP_009259297.1 NS3 [Cell fusing agent virus]
+SRR25701825_22701	YP_009259257.1	41.3	92	302	3341	7	258	1908	1993	8.33e-18	72.8	83.4	2.6	31658	Cell fusing agent virus	YP_009259257.1 polyprotein [Cell fusing agent virus]
+SRR25701825_22701	YP_009259327.1	38.2	102	302	587	1	282	455	550	3.69e-17	70.9	93.4	16.4	390845	Aedes flavivirus	YP_009259327.1 nonstructural protein NS3 [Aedes flavivirus]
+SRR25701825_22701	YP_003029843.1	38.2	102	302	3341	1	282	1906	2001	3.95e-17	70.9	93.4	2.9	390845	Aedes flavivirus	YP_003029843.1 flavivirus polyprotein [Aedes flavivirus]
+SRR25701825_22701	NP_937777.1	42.4	92	302	577	7	258	457	542	6.88e-17	70.1	83.4	14.9	218849	Kamiti River virus	NP_937777.1 NS3 protein [Kamiti River virus]
+SRR25701825_27388	YP_006846328.2	28.0	118	547	3427	157	495	1682	1788	1.81e-06	43.1	62.0	3.1	64292	Ntaya virus	YP_006846328.2 flavivirus polyprotein [Ntaya virus]
+SRR25701825_27388	YP_002790883.1	27.1	118	547	3426	157	495	1682	1788	8.00e-06	41.2	62.0	3.1	64290	Bagaza virus	YP_002790883.1 polyprotein [Bagaza virus]
+SRR25701825_51709	NP_891560.1	75.0	20	153	3357	93	34	2026	2045	1.02e-06	38.9	39.2	0.6	218849	Kamiti River virus	NP_891560.1 flavivirus polyprotein [Kamiti River virus]
+SRR25701825_51709	YP_009259297.1	65.0	20	153	587	93	34	562	581	6.66e-06	36.6	39.2	3.4	31658	Cell fusing agent virus	YP_009259297.1 NS3 [Cell fusing agent virus]
+SRR25701825_51709	YP_009259257.1	65.0	20	153	3341	93	34	2013	2032	6.75e-06	36.6	39.2	0.6	31658	Cell fusing agent virus	YP_009259257.1 polyprotein [Cell fusing agent virus]

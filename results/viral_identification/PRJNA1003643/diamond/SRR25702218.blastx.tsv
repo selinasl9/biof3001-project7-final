@@ -1,0 +1,10 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25702218_10468	YP_009179404.1	35.1	77	487	797	350	120	617	691	3.84e-08	47.4	47.4	9.4	1746071	Wuhan flea virus	YP_009179404.1 NS3-like protein [Wuhan flea virus]
+SRR25702218_11206	YP_009305402.1	43.5	85	1488	597	145	399	382	462	8.60e-07	47.0	17.1	13.6	1903340	Anopheles flavivirus variant 1	YP_009305402.1 NS3 [Anopheles flavivirus variant 1]
+SRR25702218_11206	YP_009305197.1	43.5	85	1488	3341	145	399	1811	1891	1.14e-06	47.0	17.1	2.4	1903340	Anopheles flavivirus variant 1	YP_009305197.1 polyprotein [Anopheles flavivirus variant 1]
+SRR25702218_35946	YP_009179389.1	32.2	121	379	808	378	16	575	684	3.30e-09	49.3	95.8	13.6	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25702218_44910	NP_937777.1	64.7	51	155	577	3	152	459	509	2.00e-18	72.0	96.8	8.8	218849	Kamiti River virus	NP_937777.1 NS3 protein [Kamiti River virus]
+SRR25702218_44910	NP_891560.1	64.7	51	155	3357	3	152	1923	1973	2.01e-18	72.0	96.8	1.5	218849	Kamiti River virus	NP_891560.1 flavivirus polyprotein [Kamiti River virus]
+SRR25702218_44910	YP_009259327.1	63.4	41	155	587	3	125	459	499	3.33e-17	68.6	79.4	7.0	390845	Aedes flavivirus	YP_009259327.1 nonstructural protein NS3 [Aedes flavivirus]
+SRR25702218_44910	YP_003029843.1	63.4	41	155	3341	3	125	1910	1950	3.34e-17	68.6	79.4	1.2	390845	Aedes flavivirus	YP_003029843.1 flavivirus polyprotein [Aedes flavivirus]
+SRR25702218_44910	YP_009259297.1	56.9	51	155	587	3	152	459	509	4.55e-17	68.2	96.8	8.7	31658	Cell fusing agent virus	YP_009259297.1 NS3 [Cell fusing agent virus]

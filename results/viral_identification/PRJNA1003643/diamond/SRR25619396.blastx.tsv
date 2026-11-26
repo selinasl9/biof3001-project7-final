@@ -1,0 +1,11 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25619396_6771	YP_009305402.1	49.3	67	1515	597	125	325	398	462	2.02e-06	45.8	13.3	10.9	1903340	Anopheles flavivirus variant 1	YP_009305402.1 NS3 [Anopheles flavivirus variant 1]
+SRR25619396_6771	YP_009305197.1	49.3	67	1515	3341	125	325	1827	1891	2.66e-06	45.8	13.3	1.9	1903340	Anopheles flavivirus variant 1	YP_009305197.1 polyprotein [Anopheles flavivirus variant 1]
+SRR25619396_12060	YP_009179389.1	32.6	89	478	808	227	478	599	684	2.57e-06	42.0	52.7	10.6	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25619396_32103	NP_740726.1	31.3	99	420	621	49	339	180	274	8.78e-07	42.7	69.3	15.3	11086	Louping ill virus	NP_740726.1 nonstructural protein NS3 [Louping ill virus]
+SRR25619396_32103	NP_044677.1	31.3	99	420	3414	49	339	1669	1763	9.76e-07	42.7	69.3	2.8	11086	Louping ill virus	NP_044677.1 polyprotein [Louping ill virus]
+SRR25619396_32103	NP_775507.1	31.3	99	420	621	49	339	180	274	1.19e-06	42.4	69.3	15.3	11084	Tick-borne encephalitis virus	NP_775507.1 non-structural protein NS3 [Tick-borne encephalitis virus]
+SRR25619396_32103	NP_043135.1	31.3	99	420	3414	49	339	1669	1763	1.32e-06	42.4	69.3	2.8	11084	Tick-borne encephalitis virus	NP_043135.1 polyprotein [Tick-borne encephalitis virus]
+SRR25619396_32103	YP_009163754.1	32.7	101	420	621	49	339	180	274	4.05e-06	40.8	69.3	15.3	1691889	Spanish goat encephalitis virus	YP_009163754.1 nonstructural protein NS3 [Spanish goat encephalitis virus]
+SRR25619396_32415	YP_009553341.1	26.3	118	410	3425	365	27	1679	1785	7.50e-06	40.0	82.7	3.1	64315	Rocio virus	YP_009553341.1 polyprotein [Rocio virus]
+SRR25619396_79392	YP_001008348.1	33.3	48	150	3430	150	13	1325	1372	8.85e-06	36.2	92.0	1.4	11080	St. Louis encephalitis virus	YP_001008348.1 polyprotein [St. Louis encephalitis virus]

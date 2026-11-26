@@ -1,0 +1,4 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25702097_35744	YP_009389245.1	52.4	42	154	597	129	4	328	363	1.87e-09	46.6	81.8	6.0	1969397	Karumba virus	YP_009389245.1 NS3 [Karumba virus]
+SRR25702097_35744	YP_009388577.1	52.4	42	154	3342	129	4	1757	1792	1.88e-09	46.6	81.8	1.1	1969397	Karumba virus	YP_009388577.1 polyprotein [Karumba virus]
+SRR25702097_35744	YP_009389296.1	40.5	42	154	3341	129	4	1756	1791	3.59e-06	37.4	81.8	1.1	1969400	Mac Peak virus	YP_009389296.1 polyprotein [Mac Peak virus]

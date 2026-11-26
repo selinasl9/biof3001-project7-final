@@ -1,0 +1,5 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25735409_8698	YP_009175071.1	25.6	117	502	7333	354	22	190	306	1.98e-08	48.5	66.3	1.6	1685953	Macrosiphum euphorbiae virus 1	YP_009175071.1 polyprotein [Macrosiphum euphorbiae virus 1]
+SRR25735409_12837	NP_937775.1	55.6	27	227	232	227	147	157	183	3.32e-06	38.5	35.7	11.6	218849	Kamiti River virus	NP_937775.1 NS2A protein [Kamiti River virus]
+SRR25735409_12837	NP_891560.1	55.6	27	227	3357	227	147	1265	1291	3.81e-06	38.5	35.7	0.8	218849	Kamiti River virus	NP_891560.1 flavivirus polyprotein [Kamiti River virus]
+SRR25735409_35744	YP_009179389.1	33.8	65	245	808	1	195	619	681	3.38e-06	38.9	79.6	7.8	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]

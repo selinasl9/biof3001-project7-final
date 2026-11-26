@@ -1,0 +1,7 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25701819_2472	YP_009179389.1	26.2	149	540	808	449	18	570	705	1.14e-06	43.5	80.0	16.8	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25701819_8747	YP_009305402.1	43.5	85	1403	597	1	255	382	462	4.49e-07	47.8	18.2	13.6	1903340	Anopheles flavivirus variant 1	YP_009305402.1 NS3 [Anopheles flavivirus variant 1]
+SRR25701819_8747	YP_009305197.1	43.5	85	1403	3341	1	255	1811	1891	5.98e-07	47.8	18.2	2.4	1903340	Anopheles flavivirus variant 1	YP_009305197.1 polyprotein [Anopheles flavivirus variant 1]
+SRR25701819_8747	YP_009389245.1	40.0	85	1403	597	1	255	382	462	5.45e-06	44.3	18.2	13.6	1969397	Karumba virus	YP_009389245.1 NS3 [Karumba virus]
+SRR25701819_8747	YP_009388577.1	40.0	85	1403	3342	1	255	1811	1891	7.05e-06	44.3	18.2	2.4	1969397	Karumba virus	YP_009388577.1 polyprotein [Karumba virus]
+SRR25701819_49335	YP_009175071.1	26.5	117	458	7333	114	446	190	306	1.61e-09	51.2	72.7	1.6	1685953	Macrosiphum euphorbiae virus 1	YP_009175071.1 polyprotein [Macrosiphum euphorbiae virus 1]

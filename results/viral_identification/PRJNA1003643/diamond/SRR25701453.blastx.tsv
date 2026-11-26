@@ -1,0 +1,9 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25701453_8858	YP_009259327.1	69.2	65	196	587	1	195	410	474	6.94e-29	102	99.5	11.1	390845	Aedes flavivirus	YP_009259327.1 nonstructural protein NS3 [Aedes flavivirus]
+SRR25701453_8858	YP_003029843.1	69.2	65	196	3341	1	195	1861	1925	7.54e-29	102	99.5	1.9	390845	Aedes flavivirus	YP_003029843.1 flavivirus polyprotein [Aedes flavivirus]
+SRR25701453_8858	NP_937777.1	67.7	65	196	577	1	195	410	474	4.51e-28	100	99.5	11.3	218849	Kamiti River virus	NP_937777.1 NS3 protein [Kamiti River virus]
+SRR25701453_8858	NP_891560.1	67.7	65	196	3357	1	195	1874	1938	4.88e-28	100	99.5	1.9	218849	Kamiti River virus	NP_891560.1 flavivirus polyprotein [Kamiti River virus]
+SRR25701453_8858	YP_009259297.1	63.1	65	196	587	1	195	410	474	8.55e-28	99.4	99.5	11.1	31658	Cell fusing agent virus	YP_009259297.1 NS3 [Cell fusing agent virus]
+SRR25701453_23017	YP_009175071.1	32.0	50	153	7333	150	1	251	300	1.54e-07	41.2	98.0	0.7	1685953	Macrosiphum euphorbiae virus 1	YP_009175071.1 polyprotein [Macrosiphum euphorbiae virus 1]
+SRR25701453_39625	NP_775646.1	38.3	47	234	354	194	63	69	115	3.81e-06	38.5	56.4	13.3	64312	Montana myotis leukoencephalitis virus	NP_775646.1 non-structural protein NS1, partial [Montana myotis leukoencephalitis virus]
+SRR25701453_39625	NP_689391.1	38.3	47	234	3374	194	63	822	868	4.11e-06	38.5	56.4	1.4	64312	Montana myotis leukoencephalitis virus	NP_689391.1 polyprotein [Montana myotis leukoencephalitis virus]

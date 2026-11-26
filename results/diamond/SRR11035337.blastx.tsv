@@ -1,0 +1,7 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR11035337_5207	YP_009179389.1	33.3	66	252	808	246	49	618	681	2.01e-06	39.7	78.6	7.9	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR11035337_6728	YP_009305402.1	49.3	67	1485	597	1192	992	398	462	1.96e-06	45.8	13.5	10.9	1903340	Anopheles flavivirus variant 1	YP_009305402.1 NS3 [Anopheles flavivirus variant 1]
+SRR11035337_6728	YP_009305197.1	49.3	67	1485	3341	1192	992	1827	1891	2.58e-06	45.8	13.5	1.9	1903340	Anopheles flavivirus variant 1	YP_009305197.1 polyprotein [Anopheles flavivirus variant 1]
+SRR11035337_18070	YP_009179389.1	36.8	68	611	808	458	255	619	684	3.09e-06	42.7	33.4	8.2	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR11035337_32818	NP_740320.1	58.1	31	189	130	96	188	51	81	1.67e-06	38.1	49.2	23.8	11070	dengue virus type 4	NP_740320.1 NS2B protein [dengue virus type 4]
+SRR11035337_32818	NP_073286.1	58.1	31	189	3387	96	188	1395	1425	3.09e-06	38.1	49.2	0.9	11070	dengue virus type 4	NP_073286.1 polyprotein [dengue virus type 4]

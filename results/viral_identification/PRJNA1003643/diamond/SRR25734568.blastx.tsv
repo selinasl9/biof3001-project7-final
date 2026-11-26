@@ -1,0 +1,12 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25734568_6400	YP_009305402.1	43.5	85	1428	597	1	255	382	462	6.11e-07	47.4	17.9	13.6	1903340	Anopheles flavivirus variant 1	YP_009305402.1 NS3 [Anopheles flavivirus variant 1]
+SRR25734568_6400	YP_009305197.1	43.5	85	1428	3341	1	255	1811	1891	8.12e-07	47.4	17.9	2.4	1903340	Anopheles flavivirus variant 1	YP_009305197.1 polyprotein [Anopheles flavivirus variant 1]
+SRR25734568_34110	YP_009179389.1	32.3	65	278	808	236	42	619	681	2.66e-06	39.7	70.1	7.8	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25734568_50706	YP_009179389.1	38.1	63	751	808	245	57	619	681	7.21e-07	45.4	25.2	7.8	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25734568_50706	YP_009268608.1	26.5	132	751	587	449	54	337	452	9.01e-06	42.0	52.7	19.8	667516	Nakiwogo virus	YP_009268608.1 nonstructural protein NS3 [Nakiwogo virus]
+SRR25734568_107364	YP_009259358.1	56.3	32	261	393	261	166	330	360	3.64e-08	44.7	36.8	7.9	643132	Quang Binh virus	YP_009259358.1 nonstructural protein NS1 [Quang Binh virus]
+SRR25734568_107364	YP_009268605.1	46.2	39	261	398	261	145	330	367	3.65e-08	44.7	44.8	9.5	667516	Nakiwogo virus	YP_009268605.1 nonstructural protein NS1 [Nakiwogo virus]
+SRR25734568_107364	YP_009268613.1	46.2	39	261	685	261	145	330	367	3.80e-08	44.7	44.8	5.5	667516	Nakiwogo virus	YP_009268613.1 NS1-NS2AN-FIFO protein [Nakiwogo virus]
+SRR25734568_107364	YP_006491222.1	56.3	32	261	688	261	166	330	360	3.80e-08	44.7	36.8	4.5	643132	Quang Binh virus	YP_006491222.1 NS1-NS2AN-FIFO protein [Quang Binh virus]
+SRR25734568_107364	YP_006491221.1	56.3	32	261	1393	261	166	1035	1065	3.91e-08	44.7	36.8	2.2	643132	Quang Binh virus	YP_006491221.1 truncated polyprotein [Quang Binh virus]
+SRR25734568_117515	YP_899469.2	44.3	61	194	3363	193	14	1860	1918	8.64e-06	37.0	92.8	1.8	390844	Culex flavivirus	YP_899469.2 polyprotein [Culex flavivirus]

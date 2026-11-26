@@ -1,0 +1,12 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25734827_26307	YP_009175071.1	33.3	54	238	7333	74	235	251	304	1.15e-08	45.8	68.1	0.7	1685953	Macrosiphum euphorbiae virus 1	YP_009175071.1 polyprotein [Macrosiphum euphorbiae virus 1]
+SRR25734827_32524	YP_009259295.1	50.7	69	281	239	2	202	100	166	3.20e-10	50.4	71.5	28.0	31658	Cell fusing agent virus	YP_009259295.1 NS2A [Cell fusing agent virus]
+SRR25734827_32524	YP_009259257.1	50.7	69	281	3341	2	202	1163	1229	4.56e-10	50.4	71.5	2.0	31658	Cell fusing agent virus	YP_009259257.1 polyprotein [Cell fusing agent virus]
+SRR25734827_32524	YP_009259325.1	46.4	69	281	207	2	202	68	134	9.31e-09	46.2	71.5	32.4	390845	Aedes flavivirus	YP_009259325.1 nonstructural protein NS2A [Aedes flavivirus]
+SRR25734827_32524	YP_003029843.1	46.4	69	281	3341	2	202	1163	1229	1.42e-08	46.2	71.5	2.0	390845	Aedes flavivirus	YP_003029843.1 flavivirus polyprotein [Aedes flavivirus]
+SRR25734827_32524	NP_937775.1	43.5	69	281	232	2	202	68	134	1.35e-07	43.1	71.5	28.9	218849	Kamiti River virus	NP_937775.1 NS2A protein [Kamiti River virus]
+SRR25734827_76754	YP_009345034.1	59.1	22	111	3416	82	17	485	506	1.29e-06	37.7	59.5	0.6	64307	Gadgets Gully virus	YP_009345034.1 polyprotein [Gadgets Gully virus]
+SRR25734827_76754	NP_620099.1	70.6	17	111	3415	67	17	488	504	4.55e-06	36.2	45.9	0.5	11083	Powassan virus	NP_620099.1 polyprotein [Powassan virus]
+SRR25734827_76754	NP_775516.1	70.6	17	111	497	67	17	210	226	4.57e-06	36.2	45.9	3.4	11083	Powassan virus	NP_775516.1 envelope protein [Powassan virus]
+SRR25734827_76754	YP_009513190.1	52.2	23	111	3417	85	17	485	507	6.23e-06	35.8	62.2	0.7	64288	Royal Farm virus	YP_009513190.1 polyprotein [Royal Farm virus]
+SRR25734827_76754	YP_009513189.1	52.2	23	111	3416	85	17	485	507	6.23e-06	35.8	62.2	0.7	33743	Kyasanur Forest disease virus	YP_009513189.1 polyprotein [Kyasanur Forest disease virus]

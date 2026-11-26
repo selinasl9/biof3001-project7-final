@@ -1,0 +1,9 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25701450_15168	YP_009259365.1	60.5	43	252	889	32	160	474	516	1.33e-11	54.3	51.2	4.8	643132	Quang Binh virus	YP_009259365.1 RNA-dependent RNA polymerase NS5 [Quang Binh virus]
+SRR25701450_15168	YP_002884239.1	60.5	43	252	3359	32	160	2944	2986	1.37e-11	54.3	51.2	1.3	643132	Quang Binh virus	YP_002884239.1 flavivirus polyprotein [Quang Binh virus]
+SRR25701450_15168	YP_007877501.1	60.5	43	252	3359	32	160	2944	2986	1.37e-11	54.3	51.2	1.3	673515	Mosquito flavivirus	YP_007877501.1 polyprotein [Mosquito flavivirus]
+SRR25701450_15168	YP_009553010.1	60.5	43	252	3274	32	160	2859	2901	1.87e-11	53.9	51.2	1.3	1244563	Culex theileri flavivirus	YP_009553010.1 polyprotein [Culex theileri flavivirus]
+SRR25701450_15168	YP_009041466.1	55.8	43	252	3356	32	160	2941	2983	3.50e-11	53.1	51.2	1.3	1286143	Nienokoue virus	YP_009041466.1 polyprotein [Nienokoue virus]
+SRR25701450_19832	YP_006846328.2	28.0	118	389	3427	354	16	1682	1788	3.94e-07	43.5	87.1	3.1	64292	Ntaya virus	YP_006846328.2 flavivirus polyprotein [Ntaya virus]
+SRR25701450_19832	YP_002790883.1	27.1	118	389	3426	354	16	1682	1788	1.83e-06	41.6	87.1	3.1	64290	Bagaza virus	YP_002790883.1 polyprotein [Bagaza virus]
+SRR25701450_19832	YP_004734464.1	27.6	116	389	3425	348	16	1682	1786	8.52e-06	39.7	85.6	3.1	64293	Tembusu virus	YP_004734464.1 flavivirus polyprotein [Tembusu virus]

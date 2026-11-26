@@ -1,0 +1,8 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25735260_23733	YP_009179389.1	39.7	68	450	808	317	114	619	684	6.11e-07	43.5	45.3	8.2	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25735260_23733	YP_009179404.1	35.5	76	450	797	317	93	617	689	6.96e-06	40.4	50.0	9.2	1746071	Wuhan flea virus	YP_009179404.1 NS3-like protein [Wuhan flea virus]
+SRR25735260_41789	YP_009259288.1	62.1	29	185	889	1	87	512	540	1.39e-08	44.7	47.0	3.3	1708574	Mercadeo virus	YP_009259288.1 RNA-dependent RNA polymerase NS5 [Mercadeo virus]
+SRR25735260_41789	YP_009259331.1	58.8	34	185	890	19	117	520	553	1.39e-08	44.7	53.5	3.8	390845	Aedes flavivirus	YP_009259331.1 RNA-dependent RNA polymerase NS5 [Aedes flavivirus]
+SRR25735260_41789	YP_003029843.1	58.8	34	185	3341	19	117	2971	3004	1.41e-08	44.7	53.5	1.0	390845	Aedes flavivirus	YP_003029843.1 flavivirus polyprotein [Aedes flavivirus]
+SRR25735260_41789	YP_009164031.1	62.1	29	185	3403	1	87	3026	3054	1.41e-08	44.7	47.0	0.9	1708574	Mercadeo virus	YP_009164031.1 flavivirus polyprotein [Mercadeo virus]
+SRR25735260_41789	YP_009552767.1	58.6	29	185	3339	1	87	2963	2991	1.93e-08	44.3	47.0	0.9	2304510	Culex Flavi-like virus	YP_009552767.1 polyprotein [Culex Flavi-like virus]

@@ -1,0 +1,11 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25734556_9281	YP_009179389.1	22.7	330	2321	808	2222	1236	403	684	2.33e-06	46.6	42.5	34.9	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25734556_9281	YP_009305402.1	49.3	67	2321	597	1442	1242	398	462	3.64e-06	45.8	8.7	10.9	1903340	Anopheles flavivirus variant 1	YP_009305402.1 NS3 [Anopheles flavivirus variant 1]
+SRR25734556_9281	YP_009305197.1	49.3	67	2321	3341	1442	1242	1827	1891	4.83e-06	45.8	8.7	1.9	1903340	Anopheles flavivirus variant 1	YP_009305197.1 polyprotein [Anopheles flavivirus variant 1]
+SRR25734556_23602	YP_002884239.1	98.7	3359	10488	3359	10444	368	1	3359	0.0	6661	96.1	100	643132	Quang Binh virus	YP_002884239.1 flavivirus polyprotein [Quang Binh virus]
+SRR25734556_23602	YP_007877501.1	93.4	3359	10488	3359	10444	368	1	3359	0.0	6398	96.1	100	673515	Mosquito flavivirus	YP_007877501.1 polyprotein [Mosquito flavivirus]
+SRR25734556_23602	YP_009553010.1	73.4	3286	10488	3274	10192	368	1	3274	0.0	5024	93.7	100	1244563	Culex theileri flavivirus	YP_009553010.1 polyprotein [Culex theileri flavivirus]
+SRR25734556_23602	YP_899469.2	69.3	3371	10488	3363	10435	371	3	3362	0.0	4810	96.0	99.9	390844	Culex flavivirus	YP_899469.2 polyprotein [Culex flavivirus]
+SRR25734556_23602	YP_009344962.1	55.5	3393	10488	3364	10435	371	3	3363	0.0	3777	96.0	99.9	1302179	Palm Creek virus	YP_009344962.1 polyprotein [Palm Creek virus]
+SRR25734556_28813	YP_009179402.1	33.0	97	1105	803	1066	788	602	696	4.01e-06	44.3	25.2	11.8	1746063	Shuangao insect virus 7	YP_009179402.1 NS3-like protein [Shuangao insect virus 7]
+SRR25734556_59517	YP_009179389.1	30.4	112	381	808	344	24	599	707	1.34e-07	44.7	84.3	13.5	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]

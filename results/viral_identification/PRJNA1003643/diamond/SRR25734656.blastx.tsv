@@ -1,0 +1,5 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25734656_12744	YP_009268608.1	27.3	132	952	587	322	717	337	452	1.18e-06	45.4	41.6	19.8	667516	Nakiwogo virus	YP_009268608.1 nonstructural protein NS3 [Nakiwogo virus]
+SRR25734656_12744	YP_009259488.1	27.3	132	952	3373	322	717	1804	1919	1.52e-06	45.4	41.6	3.4	667516	Nakiwogo virus	YP_009259488.1 flavivirus polyprotein [Nakiwogo virus]
+SRR25734656_12744	YP_009179389.1	36.5	63	952	808	526	714	619	681	4.00e-06	43.9	19.9	7.8	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25734656_21766	YP_009179389.1	32.2	121	908	808	375	13	575	684	1.20e-07	48.5	40.0	13.6	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]

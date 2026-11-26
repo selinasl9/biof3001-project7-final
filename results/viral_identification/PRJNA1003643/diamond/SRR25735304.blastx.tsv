@@ -1,0 +1,6 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25735304_61824	YP_009259357.1	94.3	53	160	427	1	159	91	143	7.75e-35	117	99.4	12.4	643132	Quang Binh virus	YP_009259357.1 envelope protein E [Quang Binh virus]
+SRR25735304_61824	YP_002884239.1	94.3	53	160	3359	1	159	369	421	3.25e-34	117	99.4	1.6	643132	Quang Binh virus	YP_002884239.1 flavivirus polyprotein [Quang Binh virus]
+SRR25735304_61824	YP_006491221.1	94.3	53	160	1393	1	159	369	421	3.26e-34	117	99.4	3.8	643132	Quang Binh virus	YP_006491221.1 truncated polyprotein [Quang Binh virus]
+SRR25735304_61824	YP_007877501.1	92.5	53	160	3359	1	159	369	421	2.10e-33	114	99.4	1.6	673515	Mosquito flavivirus	YP_007877501.1 polyprotein [Mosquito flavivirus]
+SRR25735304_61824	YP_009259293.1	88.7	53	160	430	1	159	94	146	4.25e-33	112	99.4	12.3	31658	Cell fusing agent virus	YP_009259293.1 E [Cell fusing agent virus]

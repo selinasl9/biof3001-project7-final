@@ -1,0 +1,11 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25619453_1012	YP_009259320.1	82.9	76	306	1356	3	230	671	746	4.13e-37	127	74.5	5.6	390845	Aedes flavivirus	YP_009259320.1 truncated polyprotein [Aedes flavivirus]
+SRR25619453_1012	YP_003029843.1	82.9	76	306	3341	3	230	671	746	4.21e-37	127	74.5	2.3	390845	Aedes flavivirus	YP_003029843.1 flavivirus polyprotein [Aedes flavivirus]
+SRR25619453_1012	YP_006491219.1	67.2	64	306	1369	36	227	695	758	7.49e-27	98.6	62.7	4.7	218849	Kamiti River virus	YP_006491219.1 truncated polyprotein [Kamiti River virus]
+SRR25619453_1012	NP_891560.1	67.2	64	306	3357	36	227	695	758	7.64e-27	98.6	62.7	1.9	218849	Kamiti River virus	NP_891560.1 flavivirus polyprotein [Kamiti River virus]
+SRR25619453_1012	YP_009259324.1	90.2	41	306	390	108	230	1	41	2.62e-23	87.8	40.2	10.5	390845	Aedes flavivirus	YP_009259324.1 nonstructural protein NS1 [Aedes flavivirus]
+SRR25619453_2358	YP_009259323.1	77.8	54	169	459	167	6	336	389	3.45e-26	94.0	95.9	11.8	390845	Aedes flavivirus	YP_009259323.1 envelope protein E [Aedes flavivirus]
+SRR25619453_2358	YP_009259320.1	77.8	54	169	1356	167	6	582	635	4.59e-26	94.0	95.9	4.0	390845	Aedes flavivirus	YP_009259320.1 truncated polyprotein [Aedes flavivirus]
+SRR25619453_2358	YP_003029843.1	77.8	54	169	3341	167	6	582	635	4.59e-26	94.0	95.9	1.6	390845	Aedes flavivirus	YP_003029843.1 flavivirus polyprotein [Aedes flavivirus]
+SRR25619453_2358	NP_937773.1	76.0	50	169	432	155	6	313	362	1.86e-23	86.3	88.8	11.6	218849	Kamiti River virus	NP_937773.1 envelope protein [Kamiti River virus]
+SRR25619453_2358	YP_006491219.1	76.0	50	169	1369	155	6	599	648	2.33e-23	86.3	88.8	3.7	218849	Kamiti River virus	YP_006491219.1 truncated polyprotein [Kamiti River virus]

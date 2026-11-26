@@ -1,0 +1,6 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25735106_1312	YP_009179389.1	35.4	65	522	808	291	485	619	681	6.18e-06	41.2	37.4	7.8	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25735106_19533	YP_009179404.1	31.6	76	356	797	19	246	569	640	1.27e-06	41.6	64.0	9.0	1746071	Wuhan flea virus	YP_009179404.1 NS3-like protein [Wuhan flea virus]
+SRR25735106_61046	YP_009179389.1	32.0	122	1232	808	917	552	575	684	1.21e-06	46.2	29.7	13.6	1746067	Wuhan aphid virus 1	YP_009179389.1 NS3-like protein [Wuhan aphid virus 1]
+SRR25735106_68768	YP_009552767.1	30.0	80	445	3339	444	211	1790	1861	9.98e-06	40.0	52.6	2.2	2304510	Culex Flavi-like virus	YP_009552767.1 polyprotein [Culex Flavi-like virus]
+SRR25735106_165194	NP_775650.1	36.4	55	166	121	166	2	6	60	6.19e-06	36.2	99.4	45.5	64312	Montana myotis leukoencephalitis virus	NP_775650.1 non-structural protein NS4a, partial [Montana myotis leukoencephalitis virus]

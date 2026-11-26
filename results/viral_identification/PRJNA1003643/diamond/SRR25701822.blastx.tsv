@@ -1,0 +1,11 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25701822_21213	YP_009259288.1	69.2	26	153	889	70	147	474	499	2.09e-07	40.8	51.0	2.9	1708574	Mercadeo virus	YP_009259288.1 RNA-dependent RNA polymerase NS5 [Mercadeo virus]
+SRR25701822_21213	YP_009164031.1	69.2	26	153	3403	70	147	2988	3013	2.10e-07	40.8	51.0	0.8	1708574	Mercadeo virus	YP_009164031.1 flavivirus polyprotein [Mercadeo virus]
+SRR25701822_21213	YP_009351861.1	69.2	26	153	3416	70	147	3002	3027	2.11e-07	40.8	51.0	0.8	1963247	Menghai flavivirus	YP_009351861.1 polyprotein [Menghai flavivirus]
+SRR25701822_21213	YP_009259365.1	69.2	26	153	889	70	147	474	499	3.93e-07	40.0	51.0	2.9	643132	Quang Binh virus	YP_009259365.1 RNA-dependent RNA polymerase NS5 [Quang Binh virus]
+SRR25701822_21213	YP_009553010.1	69.2	26	153	3274	70	147	2859	2884	3.95e-07	40.0	51.0	0.8	1244563	Culex theileri flavivirus	YP_009553010.1 polyprotein [Culex theileri flavivirus]
+SRR25701822_31185	YP_009259327.1	65.5	58	411	587	409	236	412	469	4.07e-20	80.9	42.3	9.9	390845	Aedes flavivirus	YP_009259327.1 nonstructural protein NS3 [Aedes flavivirus]
+SRR25701822_31185	YP_003029843.1	65.5	58	411	3341	409	236	1863	1920	4.59e-20	80.9	42.3	1.7	390845	Aedes flavivirus	YP_003029843.1 flavivirus polyprotein [Aedes flavivirus]
+SRR25701822_31185	NP_937777.1	65.5	58	411	577	409	236	412	469	7.55e-20	80.1	42.3	10.1	218849	Kamiti River virus	NP_937777.1 NS3 protein [Kamiti River virus]
+SRR25701822_31185	NP_891560.1	65.5	58	411	3357	409	236	1876	1933	8.53e-20	80.1	42.3	1.7	218849	Kamiti River virus	NP_891560.1 flavivirus polyprotein [Kamiti River virus]
+SRR25701822_31185	YP_009259297.1	60.3	58	411	587	409	236	412	469	3.57e-19	78.2	42.3	9.9	31658	Cell fusing agent virus	YP_009259297.1 NS3 [Cell fusing agent virus]

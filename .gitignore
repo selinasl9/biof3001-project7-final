@@ -36,3 +36,6 @@ __pycache__/
 
 # OS
 .DS_Store
+
+# SPAdes assemblies of the runs Logan was missing
+results/logan_missing/assembly/

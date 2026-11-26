@@ -1,0 +1,6 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	qcovhsp	scovhsp	staxids	sscinames	stitle
+SRR25701699_7723	YP_009350102.1	50.0	38	178	3414	161	48	2943	2980	2.57e-09	46.6	64.0	1.1	1821227	Xishuangbanna aedes flavivirus	YP_009350102.1 polyprotein [Xishuangbanna aedes flavivirus]
+SRR25701699_7723	YP_009389249.1	54.1	37	178	892	158	48	418	454	4.76e-09	45.8	62.4	4.1	1969397	Karumba virus	YP_009389249.1 NS5 [Karumba virus]
+SRR25701699_7723	YP_009388577.1	54.1	37	178	3342	158	48	2868	2904	4.81e-09	45.8	62.4	1.1	1969397	Karumba virus	YP_009388577.1 polyprotein [Karumba virus]
+SRR25701699_7723	YP_009305401.1	48.6	37	178	892	158	48	418	454	1.67e-08	44.3	62.4	4.1	1903340	Anopheles flavivirus variant 1	YP_009305401.1 NS5 [Anopheles flavivirus variant 1]
+SRR25701699_7723	YP_009305197.1	48.6	37	178	3341	158	48	2867	2903	1.69e-08	44.3	62.4	1.1	1903340	Anopheles flavivirus variant 1	YP_009305197.1 polyprotein [Anopheles flavivirus variant 1]
