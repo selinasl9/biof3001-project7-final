@@ -28,6 +28,8 @@ matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
 
+# STEP 1 — Analyse one clustering condition from the country-level
+# prevalence table, not the SRR-level PERMANOVA matrix.
 def plot_country(condition,indir,out,min_srr):
     path=indir/f'{condition}_country_with_singletons.tsv'
     if not path.exists():raise FileNotFoundError(path)
@@ -35,10 +37,14 @@ def plot_country(condition,indir,out,min_srr):
     cols=[col for col in df if col.startswith('Cluster_')]
     if not cols or not {'country','n_samples'}.issubset(df.columns):raise ValueError(f'Invalid country matrix: {path}')
     X=df[cols].apply(pd.to_numeric,errors='raise')
+    # STEP 2 — Define globally shared clusters before filtering out
+# countries with insufficient SRRs; detection means prevalence > 0.
     shared=X.columns[(X>0).sum(axis=0)>=2].tolist()
     if not shared:raise ValueError(f'{condition}: no clusters shared across at least 2 countries')
     d=df[df.n_samples>=min_srr].copy().sort_values('country')
     if d.empty:raise ValueError(f'{condition}: no eligible countries')
+    # STEP 3 — Make a country × cluster detection matrix (0/1)
+# for the countries that pass the minimum-run threshold.
     M=(d[shared]>0).astype(int)
     country_names=d.country.tolist()
     counts=M.sum(axis=1)
@@ -46,12 +52,15 @@ def plot_country(condition,indir,out,min_srr):
                           n_shared_clusters_detected=counts.values))
     dat=dat.sort_values('n_shared_clusters_detected',ascending=False)
     dat.to_csv(out/f'{condition}_country_shared_cluster_counts.tsv',sep='\t',index=False)
+    # STEP 4 — Plot the number of shared clusters found in each country.
     fig,ax=plt.subplots(figsize=(max(8,len(dat)*.75),5),dpi=140)
     ax.bar(dat.country,dat.n_shared_clusters_detected)
     ax.set(ylabel='Shared viral clusters detected',title=f'{condition}: shared clusters across original countries')
     ax.tick_params(axis='x',rotation=65);fig.tight_layout()
     fig.savefig(out/f'{condition}_shared_cluster_country_bar.png',dpi=250);plt.close(fig)
     # Pairwise overlap: #clusters present in both eligible countries.
+    # STEP 5 — Multiply the binary matrix by its transpose to count
+# clusters observed in BOTH countries for every pair of countries.
     overlap=M.to_numpy() @ M.to_numpy().T
     pd.DataFrame(overlap,index=country_names,columns=country_names).to_csv(
       out/f'{condition}_country_overlap.tsv',sep='\t')
@@ -63,6 +72,8 @@ def plot_country(condition,indir,out,min_srr):
     ax.set_title(f'{condition}: pairwise viral-cluster overlap')
     fig.tight_layout();fig.savefig(out/f'{condition}_overlap_heatmap.png',dpi=200);plt.close(fig)
     # UpSet-like all-country intersection chart (exclusive combinations).
+    # STEP 6 — Calculate exclusive presence patterns: for each cluster,
+# record the precise set of eligible countries that detects it.
     patterns=Counter()
     for c in shared:
         key=tuple(country_names[i] for i,v in enumerate(M[c]) if v)
@@ -88,6 +99,8 @@ def plot_country(condition,indir,out,min_srr):
     print(condition,'all original countries:',len(df),'eligible:',len(d),'clusters shared across >=2 original countries:',len(shared))
 
 
+# STEP 7 — Parse paths/threshold from command line and generate plots
+# for both 90% CD-HIT and 70% VSEARCH conditions.
 def main():
     ap=argparse.ArgumentParser()
     ap.add_argument('--input-dir',type=Path,default=Path('results/viral_clustering/matrices'))
