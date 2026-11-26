@@ -1,0 +1,38 @@
+# Reads, contigs and assemblies
+data/raw/
+
+# Mosquito genomes, COI database, taxonomy
+data/reference/genomes/
+data/reference/coi/
+data/reference/taxonomy/
+
+# Logan accessions table (~100 GB) at s3://logan-pub/stats/
+*.zst
+
+# Search databases
+*.dmnd
+*.n??
+*.p??
+
+# Reads
+*.fastq
+*.fastq.gz
+*.sra
+
+# Host-filter intermediates
+results/host_filter/*_candidate_contigs.fa
+results/host_filter/blastn/
+results/host_filter/logs/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS
+.DS_Store
