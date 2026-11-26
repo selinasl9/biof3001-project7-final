@@ -42,7 +42,8 @@ import pandas as pd
 from pathlib import Path
 
 # ============================================================
-# FILES
+# STEP 1: FILES
+# Set paths and check required files.
 # ============================================================
 
 # Resolve paths from the script location, not the current working directory.
@@ -63,7 +64,8 @@ for required in (METADATA_FILE, RUNLIST_FILE, NODES_FILE, NAMES_FILE):
 OUTDIR.mkdir(parents=True, exist_ok=True)
 
 # ============================================================
-# DIAMOND COLUMNS
+# STEP 2: DIAMOND COLUMNS
+# Define the 17 DIAMOND output fields.
 # ============================================================
 
 diamond_cols = [
@@ -87,7 +89,8 @@ diamond_cols = [
 ]
 
 # ============================================================
-# READ SAMPLE METADATA
+# STEP 3: READ SAMPLE METADATA
+# Load metadata and select listed runs.
 # ============================================================
 
 metadata = pd.read_csv(
@@ -119,7 +122,8 @@ metadata = metadata.drop_duplicates("sample")
 print("Analysed samples in metadata:", len(metadata))
 
 # ============================================================
-# READ NCBI TAXONOMY
+# STEP 4: READ NCBI TAXONOMY
+# Load taxon names, parent IDs and ranks.
 # ============================================================
 
 print("Loading NCBI taxonomy...")
@@ -160,7 +164,8 @@ with open(NODES_FILE) as f:
 
 
 # ============================================================
-# TAXONOMY FUNCTION
+# STEP 5: TAXONOMY FUNCTION
+# Trace each taxon to family, genus and species.
 # ============================================================
 
 def get_lineage(taxid_value):
@@ -221,7 +226,8 @@ def get_lineage(taxid_value):
 
 
 # ============================================================
-# READ ALL DIAMOND OUTPUTS
+# STEP 6: READ ALL DIAMOND OUTPUTS
+# Read each run and select its best hits.
 # ============================================================
 
 all_best_hits = []
@@ -235,6 +241,7 @@ for i, sample in enumerate(analysed_samples, start=1):
 
     file = DIAMOND_DIR / f"{sample}.blastx.tsv"
 
+    # Missing result: track separately, not as a negative detection.
     if not file.exists():
         print("WARNING - DIAMOND output missing:", sample)
         missing_samples.append(sample)
@@ -242,6 +249,7 @@ for i, sample in enumerate(analysed_samples, start=1):
 
     # Zero-byte outputs can be valid searches with no hits. For legacy
     # runs, verify successful completion from the upstream DIAMOND logs.
+    # Empty result: record zero hits; warn if no success marker.
     if file.stat().st_size == 0:
         marker = DIAMOND_DIR / f"{sample}.blastx.done"
         if not marker.exists():
@@ -249,6 +257,7 @@ for i, sample in enumerate(analysed_samples, start=1):
         zero_hit_samples.append(sample)
         continue
 
+    # Read the tab-separated table; handle alternate header formats.
     try:
         df = pd.read_csv(
             file,
@@ -311,6 +320,7 @@ for i, sample in enumerate(analysed_samples, start=1):
     # 3. highest query coverage
     # --------------------------------------------------------
 
+    # Rank hits by bitscore, then E-value, then query coverage.
     df = df.sort_values(
         [
             "qseqid",
@@ -326,6 +336,7 @@ for i, sample in enumerate(analysed_samples, start=1):
         ]
     )
 
+    # Retain only the first (best) reference hit per contig.
     best = (
         df
         .drop_duplicates("qseqid")
@@ -341,7 +352,8 @@ for i, sample in enumerate(analysed_samples, start=1):
 
 
 # ============================================================
-# COMBINE BEST HITS
+# STEP 7: COMBINE BEST HITS
+# Combine the runs into one table.
 # ============================================================
 
 if not all_best_hits:
@@ -363,11 +375,13 @@ print("Best-hit rows:", len(best_all))
 
 
 # ============================================================
-# ADD TAXONOMY
+# STEP 8: ADD TAXONOMY
+# Attach taxonomy to each best hit.
 # ============================================================
 
 print("Adding taxonomy...")
 
+# Look up family, genus, species and full lineage for each taxid.
 taxonomy_results = best_all["staxids"].apply(
     get_lineage
 )
@@ -386,7 +400,8 @@ best_all[
 
 
 # ============================================================
-# ADD COUNTRY / PROJECT / HOST / ASSEMBLY METADATA
+# STEP 9: ADD COUNTRY / PROJECT / HOST / ASSEMBLY METADATA
+# Attach run metadata to best hits.
 # ============================================================
 
 metadata_cols = [
@@ -418,7 +433,8 @@ best_all = best_all.merge(
 
 
 # ============================================================
-# REORDER COLUMNS
+# STEP 10: REORDER COLUMNS
+# Organise the output columns.
 # ============================================================
 
 preferred_order = [
@@ -477,7 +493,8 @@ best_all = best_all[
 
 
 # ============================================================
-# SAVE DETAILED HIT TABLE
+# STEP 11: SAVE DETAILED HIT TABLE
+# Export the annotated best-hit table.
 # ============================================================
 
 best_all.to_csv(
@@ -488,7 +505,8 @@ best_all.to_csv(
 
 
 # ============================================================
-# SAVE SAMPLE METADATA TABLE
+# STEP 12: SAVE SAMPLE METADATA TABLE
+# Export metadata for runs with results.
 # ============================================================
 
 sample_metadata = metadata_small.copy()
@@ -507,9 +525,11 @@ sample_metadata.to_csv(
 
 
 # ============================================================
-# SAMPLE × VIRUS CONTIG COUNT MATRIX
+# STEP 13: SAMPLE × VIRUS CONTIG COUNT MATRIX
+# Count contigs per run and reference name.
 # ============================================================
 
+# Cross-tabulate contigs by run and DIAMOND reference scientific name.
 counts = pd.crosstab(
     best_all["sample"],
     best_all["sscinames"]
@@ -531,9 +551,11 @@ counts.to_csv(
 
 
 # ============================================================
-# SAMPLE × VIRUS PRESENCE / ABSENCE
+# STEP 14: SAMPLE × VIRUS PRESENCE / ABSENCE
+# Convert positive counts to 1 and zero counts to 0.
 # ============================================================
 
+# 1 = at least one annotated contig; 0 = none reported.
 presence = (counts > 0).astype(int)
 
 presence.to_csv(
@@ -543,7 +565,8 @@ presence.to_csv(
 
 
 # ============================================================
-# FAMILY-LEVEL PRESENCE / ABSENCE
+# STEP 15: FAMILY-LEVEL PRESENCE / ABSENCE
+# Create a family detection matrix.
 # ============================================================
 
 family_hits = best_all[
@@ -572,7 +595,8 @@ family_presence.to_csv(
 
 
 # ============================================================
-# GENUS-LEVEL PRESENCE / ABSENCE
+# STEP 16: GENUS-LEVEL PRESENCE / ABSENCE
+# Create a genus detection matrix.
 # ============================================================
 
 genus_hits = best_all[
@@ -601,7 +625,8 @@ genus_presence.to_csv(
 
 
 # ============================================================
-# SAVE ZERO-HIT SAMPLES
+# STEP 17: SAVE ZERO-HIT SAMPLES
+# Save runs without reported hits.
 # ============================================================
 
 pd.DataFrame(
@@ -619,7 +644,8 @@ pd.DataFrame({"sample": missing_samples}).to_csv(
 )
 
 # ============================================================
-# FINAL SUMMARY
+# STEP 18: FINAL SUMMARY
+# Print counts and output file names.
 # ============================================================
 
 print()
