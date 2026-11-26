@@ -13,6 +13,8 @@
 # p_BH is within (identity,filter,analysis). p_BH_global is across all pairwise tests.
 # IMPORTANT: Batch/BioProject and geography may be confounded; permutations are
 # unrestricted here only because project stratification cannot separate them.
+# STEP 1 — Check the required R package, load shared paths/filters, and fix
+# the random seed so permutation tests can be rerun consistently.
 if (!requireNamespace('vegan',quietly=TRUE)) stop('Install R package vegan')
 source('scripts/statistical_analysis/common.R')
 set.seed(SEED)
@@ -20,6 +22,9 @@ OUT <- file.path(BASE,'pairwise_permanova_braycurtis')
 GLOBAL_OUT <- file.path(BASE,'permanova_braycurtis_lingoes')
 all_pairs <- list(); all_overall <- list();all_counts <- list()
 
+# STEP 2 — Calculate Bray–Curtis dissimilarities from the binary SRR × cluster
+# matrix. adonis2 tests whether group centroids differ using permutations;
+# pseudo-F, R² and permutation p-value describe each comparison.
 adonis_pair <- function(X,g) {
   # Preserve original sample-level Bray-Curtis, not NMDS/t-SNE coordinates.
   D <- vegan::vegdist(X,method='bray')
@@ -28,12 +33,15 @@ adonis_pair <- function(X,g) {
   c(F=as.numeric(a[1,'F']), R2=as.numeric(a[1,'R2']), p=as.numeric(a[1,'Pr(>F)']))
 }
 
+# STEP 3 — Analyse each clustering identity and frequency threshold.
+# Use common.R to retain informative SRRs and eligible geographic groups.
 for (i in seq_len(nrow(CONDITIONS))) {
   id <- CONDITIONS$identity[i]; fil <- CONDITIONS$filter[i]
   m <- read_run(id,fil); p <- province_lookup()
   for (analysis in names(subsets(m,p))) {
     d <- eligible_subset(subsets(m,p)[[analysis]])
     if (is.null(d)) { message('SKIP: ',id,' ',fil,' ',analysis);next }
+    # STEP 4 — Overall PERMANOVA compares all eligible groups jointly.
     overall <- adonis_pair(d$X,d$g)
     all_overall[[length(all_overall)+1L]] <- data.frame(
       identity=id,filter=fil,analysis=analysis,n_SRRs=nrow(d$X),
@@ -43,6 +51,8 @@ for (i in seq_len(nrow(CONDITIONS))) {
       all_counts[[length(all_counts)+1L]] <- data.frame(
         identity=id,filter=fil,analysis=analysis,
         group=group,n_SRRs=sum(d$g==group))
+    # STEP 5 — Repeat the same test for each country/province pair.
+    # Each pair is recomputed from its member SRRs, not from ordination points.
     pairs <- combn(levels(d$g),2,simplify=FALSE)
     condition_rows <- list()
     for (pair in pairs) {
@@ -56,12 +66,16 @@ for (i in seq_len(nrow(CONDITIONS))) {
         n_clusters=ncol(X),pseudo_F=r['F'],R2=r['R2'],p=r['p'])
     }
     a <- do.call(rbind,condition_rows)
+    # STEP 6 — Correct the within-condition family of pairwise p-values
+    # using Benjamini–Hochberg false-discovery-rate adjustment.
     a$p_BH <- p.adjust(a$p,method='BH')
     all_pairs[[length(all_pairs)+1L]] <- a
     message(id,' ',fil,' ',analysis,': ',nrow(a),' pairwise comparisons')
   }
 }
 if (!length(all_overall)) stop('No analyses succeeded')
+# STEP 7 — Collect all tests, apply across-condition adjustment to
+# omnibus results, and write machine-readable audit tables.
 overall <- do.call(rbind,all_overall)
 overall$p_BH <- p.adjust(overall$p,method='BH')
 save_tsv(overall,file.path(GLOBAL_OUT,'overall_permanova.tsv'))
