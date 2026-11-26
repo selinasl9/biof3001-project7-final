@@ -2,7 +2,6 @@
 """BIOF3001 Project 7 — Mosquito RNA Virome.
 
 Script: remove_mosquito_contigs.py
-Responsible contributor: [Confirm name before submission]
 
 Objective
 ---------
