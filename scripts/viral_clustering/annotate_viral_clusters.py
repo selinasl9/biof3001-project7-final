@@ -27,12 +27,16 @@ HIT_FILES = [
     ROOT / "viral_identification/host_filter/strict_host_cleaned_hits.tsv",
     ROOT / "viral_identification/PRJNA1003643/host_filter/CN_PRJNA1003643_strict_host_cleaned_hits.tsv",
 ]
+# STEP 1 — Set conservative annotation-screen thresholds. These
+# concern putative reference matches, not formal species identification.
 MIN_ALIGNED_AA = 50      # preliminary screen, NOT species identification
 MAX_EVALUE = 1e-5
 MIN_IDENT = 30.0
 MIN_ANNOTATED_FRAC = 0.50
 
 
+# STEP 2 — Read the original and China DIAMOND-derived host-cleaned
+# hit tables; require the columns needed for reference support.
 def load_hits():
     tables = []
     required = {"qseqid", "species", "length", "pident", "evalue", "bitscore"}
@@ -48,6 +52,8 @@ def load_hits():
         x[col] = x[col].fillna("").astype(str).str.strip()
     for col in ("length", "pident", "evalue", "bitscore"):
         x[col] = pd.to_numeric(x[col], errors="coerce")
+    # STEP 3 — Mark alignments with enough aligned amino acids,
+    # sufficient amino-acid identity, low E-value and a usable species label.
     x["qualified"] = (
         x["length"].ge(MIN_ALIGNED_AA)
         & x["pident"].ge(MIN_IDENT)
@@ -59,6 +65,8 @@ def load_hits():
     if x["qseqid"].eq("").any():
         raise ValueError("Blank qseqid in annotation table")
     # Ambiguous contigs cannot be used for accepted cluster annotation.
+    # STEP 4 — Reject contigs with conflicting qualifying species labels.
+    # Choose one reference match per remaining contig by ranking the hits.
     conflicts = set(x.loc[x.qualified].groupby("qseqid")["species"]
                     .nunique().loc[lambda z: z > 1].index)
     x = x.sort_values(["qseqid", "qualified", "bitscore", "evalue"],
@@ -70,6 +78,8 @@ def load_hits():
     return best[["qseqid", "species", "qualified"]]
 
 
+# STEP 5 — Retrieve exactly the cluster columns retained by each
+# frequency filter; do not recalculate them using different denominators.
 def filtered_features(identity, condition):
     if condition == "NoSingletons":
         path = (ROOT / f"statistical_analysis/run_based_analysis/{identity}_aS60_aL60/"
@@ -87,6 +97,8 @@ def filtered_features(identity, condition):
     return cols
 
 
+# STEP 6 — Join sequence-cluster membership to DIAMOND hit annotations
+# using the same contig ID convention in both tables.
 def annotate(identity, best):
     member_path = MAT / f"{identity}_aS60_aL60_cluster_membership.tsv"
     m = pd.read_csv(member_path, sep="\t", dtype=str)
@@ -102,6 +114,8 @@ def annotate(identity, best):
     joined = m.merge(best, on="qseqid", how="left", validate="many_to_one")
     joined["qualified"] = joined.qualified.fillna(False).astype(bool)
     rows = []
+    # STEP 7 — Summarise supporting species labels per cluster and
+    # classify them as consistent, conflicting, insufficient or unannotated.
     for cid, g in joined.groupby("cluster_id", sort=True):
         names = g.loc[g.qualified, "species"].value_counts()
         n, support = len(g), int(names.sum())
@@ -121,6 +135,8 @@ def annotate(identity, best):
             "single_contig_putative_match", "consistent_putative_reference_match"
         } else ""
         # Geography is cluster occurrence by distinct SRRs (not confirmed virus presence).
+        # STEP 8 — Report how many distinct SRRs from each country detect
+        # a cluster; these are cluster occurrences, not confirmed virus IDs.
         geography = (g[["sample", "country"]].drop_duplicates()
                      .groupby("country")["sample"].nunique().sort_index())
         rows.append(dict(
@@ -141,6 +157,8 @@ def annotate(identity, best):
     conditions = {"All": fullfeatures}
     for name in ("NoSingletons", "Min5", "Min6"):
         conditions[name] = filtered_features(identity, name)
+    # STEP 9 — Export annotation tables for all clusters and each
+    # filtered subset using the EXACT cluster IDs in the matrices.
     for name, ids in conditions.items():
         missing = set(ids) - set(result.index)
         if missing:
@@ -153,6 +171,8 @@ def annotate(identity, best):
               f"{n_accepted} accepted putative reference labels → {path}")
 
 
+# STEP 10 — Execute the annotation workflow for both identity levels
+# and write the caveats/criteria to a methods text file.
 def main():
     OUT.mkdir(parents=True, exist_ok=True)
     best = load_hits()
