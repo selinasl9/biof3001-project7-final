@@ -2,7 +2,6 @@
 """BIOF3001 Project 7 — Mosquito RNA Virome.
 
 Script: make_full_summary.py
-Responsible contributor: [confirm name]
 
 Objective:
     Aggregate per-run DIAMOND BLASTx results, select one best-scoring
