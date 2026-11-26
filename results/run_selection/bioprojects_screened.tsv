@@ -1,0 +1,61 @@
+bioproject	n_runs	rna_status	countries	organisms	link	keep	reason
+PRJNA1003643	2438	RNA	China	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1003643	yes	Field-collected individuals, from China, shotgun RNA-Seq runs
+PRJEB19409	2244	unclear	Canada	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJEB19409	no	Unclear library (METAGENOMIC + OTHER), PCR, 16 Mb per run
+PRJNA688920	260	RNA	South Korea	Culex bitaeniorhynchus; Culex tritaeniorhynchus	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA688920	yes	Field-collected Culex, from South Korea, shotgun RNA-Seq runs
+PRJNA605178	148	RNA	USA	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA605178	yes	Trap-collected, from USA, shotgun RNA-Seq runs
+PRJNA852425	90	RNA	Finland	Ochlerotatus cantans; Ochlerotatus caspius; Ochlerotatus communis; Ochlerotatus diantaeus; Ochlerotatus excrucians; Ochlerotatus hexodontus; Ochlerotatus intrudens; Ochlerotatus pullatus; Ochlerotatus punctodes	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA852425	yes	Whole field-collected mosquitoes, from Finland, MNase RNA-Seq runs
+PRJNA642916	86	RNA	Australia	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA642916	yes	Field-collected mixed species, from Australia, rRNA-depleted RNA-Seq runs
+PRJNA1157373	61	RNA	Mexico	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1157373	yes	Field-collected individuals, from Mexico, DNase-treated RNA-Seq runs
+PRJNA911492	56	RNA	China	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA911492	yes	Field-collected, from China, cDNA RNA-Seq runs
+PRJNA778885	48	RNA	China	Anopheles sinensis; Culex pipiens; Culex theileri; Culex tritaeniorhynchus	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA778885	yes	Field-collected Anopheles and Culex, from China, shotgun RNA-Seq runs
+PRJNA1274072	24	RNA	South Korea	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1274072	no	Gut amplicon, from South Korea, AMPLICON not shotgun
+PRJNA847438	23	RNA	China	Aedes albopictus; Aedes vexans; Anopheles sinensis; Armigeres subalbatus; Culex pipiens; Culex quinquefasciatus; Culex tritaeniorhynchus	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA847438	no	
+PRJEB63303	20	RNA	Brazil	Aedes albopictus; Coquillettidia albicosta; Coquillettidia chrysonotum; Coquillettidia hermanoi; Coquillettidia venezuelensis; Limatus durhamii; Mansonia titillans; Mansonia wilsoni; Ochlerotatus scapularis; Psorophora ferox	https://www.ncbi.nlm.nih.gov/bioproject/PRJEB63303	yes	Field-collected, from Brazil, shotgun RNA-Seq runs
+PRJNA1077787	20	RNA	Australia	Aedes notoscriptus; Culex annulirostris; Culex orbostiensis; Culex sitiens; Ochlerotatus procax; Ochlerotatus vigilax; Verrallina funerea	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1077787	yes	Mosquito supernatant, from Australia, rRNA-depleted RNA-Seq runs
+PRJNA1199888	20	RNA	Colombia	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1199888	no	Targeted amplification, from Colombia, RT-PCR not shotgun
+PRJNA1135176	16	RNA	Canada	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1135176	yes	Mosquito homogenates, from Canada, shotgun RNA-Seq runs
+PRJNA559742	16	RNA	Australia	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA559742	yes	Field-collected, from Australia, RNA-Seq runs
+PRJNA838788	16	RNA	Sweden	Ochlerotatus communis	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA838788	no	
+PRJNA638077	15	unclear	Switzerland	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA638077	no	Unclear library (METAGENOMIC + OTHER), RANDOM PCR on large pools
+PRJNA1235869	14	RNA	Egypt	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1235869	yes	Field-collected, from Egypt, cDNA RNA-Seq runs
+PRJNA307706	12	RNA	Puerto Rico; USA	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA307706	yes	Environmental pools, from USA and Puerto Rico, size-fractionated RNA-Seq runs
+PRJNA388696	12	RNA	Australia	Aedes alboannulatus; Culex australicus; Culex globocoxitus; Culex quinquefasciatus; Ochlerotatus camptorhynchus	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA388696	yes	Field-collected, from Australia, shotgun RNA-Seq runs
+PRJNA516782	12	RNA	Sweden	Culex pipiens; Culex torrentium	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA516782	yes	Field-collected Culex, from Sweden, shotgun RNA-Seq runs
+PRJNA689580	12	RNA	Trinidad and Tobago	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA689580	yes	Forest-collected, from Trinidad and Tobago, cDNA RNA-Seq runs
+PRJNA1230858	11	RNA	Greenland	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1230858	yes	Whole-body field mosquitoes, from Greenland, cDNA runs
+PRJEB56379	10	unclear	France	Culex pipiens	https://www.ncbi.nlm.nih.gov/bioproject/PRJEB56379	no	Unclear library (METAGENOMIC + OTHER), no RNA selection
+PRJNA1004570	10	RNA	Madagascar	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1004570	yes	Field-collected, from Madagascar, shotgun RNA-Seq runs
+PRJNA1266186	10	RNA	Brazil	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1266186	yes	Whole field-collected mosquitoes, from Brazil, RNA-Seq runs
+PRJNA1092627	9	RNA	Colombia	Anopheles darlingi	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1092627	yes	Field-collected Anopheles darlingi, from Colombia, shotgun RNA-Seq runs
+PRJNA1059154	8	RNA	Australia	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1059154	yes	Environmental samples, from Australia, shotgun RNA-Seq runs
+PRJNA1200724	8	RNA	Democratic Republic of the Congo	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1200724	yes	Field-collected, from DR Congo, random-primed cDNA runs
+PRJNA1241118	8	RNA	France	Culex quinquefasciatus	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1241118	no	Too shallow, from France, PCR, 31 Mb per run
+PRJNA547758	8	RNA	USA	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA547758	no	
+PRJNA1100900	7	RNA	Viet Nam	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1100900	yes	Field-collected, from Viet Nam, cDNA RNA-Seq runs
+PRJNA269777	7	RNA	USA	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA269777	yes	Field-collected, from USA, shotgun RNA-Seq runs
+PRJNA277466	6	RNA	Brazil	Aedes aegypti	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA277466	no	Host mRNA and small RNA, from Brazil, PolyA and size-fractionated
+PRJNA320882	6	RNA	Brazil	Ochlerotatus fluviatilis	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA320882	no	Laboratory line, from Brazil, cDNA RNA-Seq runs
+PRJNA1126168	5	RNA	Brazil	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1126168	yes	Field-collected, from Brazil, cDNA RNA-Seq runs
+PRJNA781647	5	RNA	China	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA781647	yes	Field-collected at animal sheds, from China, shotgun RNA-Seq runs
+PRJEB26028	4	unclear	France	Culex pipiens	https://www.ncbi.nlm.nih.gov/bioproject/PRJEB26028	no	Unclear library (METAGENOMIC + OTHER), no RNA selection
+PRJNA1260027	4	RNA	USA	Aedes aegypti	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1260027	no	Laboratory colony, from USA, random-primed cDNA runs
+PRJNA1267582	4	RNA	South Africa	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1267582	yes	Mosquito homogenates, from South Africa, RNA-Seq runs
+PRJNA287051	4	unclear	USA	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA287051	no	Unclear library (METAGENOMIC + OTHER), PCR
+PRJNA1162936	3	RNA	China	Culex tritaeniorhynchus	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1162936	yes	Field-collected Culex tritaeniorhynchus, from China, shotgun RNA-Seq runs
+PRJNA1163432	3	RNA	China	Anopheles sinensis	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1163432	yes	Field-collected Anopheles sinensis, from China, shotgun RNA-Seq runs
+PRJNA1211099	3	RNA	Brazil	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1211099	no	
+PRJNA276135	2	RNA	Thailand	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA276135	no	
+PRJNA564787	2	RNA	Grenada	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA564787	no	
+PRJNA1158770	1	RNA	Brazil	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1158770	yes	Pooled field mosquitoes, from Brazil, random-primed cDNA run
+PRJNA1162562	1	RNA	China	Aedes albopictus	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1162562	yes	Field-collected Aedes albopictus, from China, shotgun RNA-Seq run
+PRJNA1162665	1	RNA	China	Aedes albopictus	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1162665	yes	Field-collected Aedes albopictus, from China, shotgun RNA-Seq run
+PRJNA1162937	1	RNA	China	Aedes albopictus	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1162937	yes	Field-collected Aedes albopictus, from China, shotgun RNA-Seq run
+PRJNA1227547	1	RNA	USA	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1227547	yes	Field-collected, from USA, PolyA RNA-Seq run
+PRJNA338014	1	RNA	USA	Ochlerotatus dorsalis	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA338014	no	Too shallow, from USA, 101 Mb single run
+PRJNA386415	1	RNA	Australia	Aedes notoscriptus	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA386415	no	Colony-reared, from Australia, DNase-treated runs
+PRJNA399278	1	RNA	USA	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA399278	yes	Field-collected, from USA, metatranscriptomic runs
+PRJNA427856	1	RNA	China	Culex pipiens pallens	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA427856	no	Water not mosquito, from China, PCR, 39 Mb
+PRJNA432355	1	RNA	Liberia	Anopheles gambiae	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA432355	no	Mosquito bloodmeals, from Liberia, RT-PCR and RANDOM PCR
+PRJNA594295	1	RNA	Australia	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA594295	yes	Field-collected mixed species, from Australia, RNA-Seq run
+PRJNA645199	1	RNA	Mexico	Aedes aegypti	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA645199	no	Host transcriptome, from Mexico, single shotgun run
+PRJNA659544	1	unclear	Brazil	mosquito metagenome	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA659544	no	Unclear library (METAGENOMIC + OTHER), single run
