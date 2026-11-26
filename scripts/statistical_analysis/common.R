@@ -11,14 +11,18 @@
 
 # Shared helpers for the 2026 run-based viral-community analyses.
 # Run all R scripts from the repository root.
+# STEP 1 — Centralize all statistical output/input paths and reproducibility controls.
 BASE <- "results/statistical_analysis/run_based_analysis"
 PERM <- as.integer(Sys.getenv("N_PERM", "9999"))
 MIN_N <- as.integer(Sys.getenv("MIN_GROUP_N", "5"))
 SEED <- as.integer(Sys.getenv("SEED", "42"))
+# STEP 2 — Enumerate six analysis settings (two identity levels × three
+# occurrence-frequency filters), each analysed separately.
 CONDITIONS <- expand.grid(identity = c(90L, 70L),
                           filter = c("no_singletons", "min5", "min6"),
                           stringsAsFactors = FALSE)
 
+# STEP 3 — Resolve the informative-run detection matrix associated with a condition.
 matrix_path <- function(identity, filter) {
   condition <- paste0(identity, "_aS60_aL60")
   if (filter == "no_singletons")
@@ -27,6 +31,7 @@ matrix_path <- function(identity, filter) {
             paste0(condition, "_informative_runs_", filter, ".tsv"))
 }
 
+# STEP 4 — Load and validate the SRR-to-China-province mapping.
 province_lookup <- function() {
   file <- file.path(BASE, "china_province_audit", "china_srr_provinces.tsv")
   if (!file.exists(file)) stop("Missing province mapping: ", file)
@@ -36,14 +41,18 @@ province_lookup <- function() {
   setNames(trimws(as.character(p$province)), as.character(p$sample))
 }
 
+# STEP 5 — Read binary cluster features and remove all-zero rows BEFORE
+# calculating Bray–Curtis distances for PERMANOVA/PERMDISP.
 read_run <- function(identity, filter) {
   path <- matrix_path(identity, filter)
   if (!file.exists(path)) stop("Missing run-level matrix: ", path)
   d <- read.delim(path, check.names = FALSE, stringsAsFactors = FALSE)
   if (!all(c("sample", "country") %in% names(d))) stop("Missing sample/country in ", path)
   if (anyNA(d$sample) || anyDuplicated(d$sample)) stop("Missing or duplicate SRRs in ", path)
+# STEP 6 — Identify cluster columns without including SRR and country metadata.
   cls <- grep("^Cluster_", names(d), value = TRUE)
   if (!length(cls)) stop("No clusters in ", path)
+# STEP 7 — Coerce detections to a numeric matrix and check for invalid values.
   X <- as.matrix(d[, cls, drop = FALSE]); suppressWarnings(storage.mode(X) <- "numeric")
   if (any(!is.finite(X)) || any(X < 0)) stop("Invalid cluster matrix in ", path)
   X <- (X > 0) * 1L
@@ -53,6 +62,7 @@ read_run <- function(identity, filter) {
   list(data=d, X=X[good, , drop = FALSE], cls=cls)
 }
 
+# STEP 8 — Build distinct country-wide and China-province analysis subsets.
 subsets <- function(m, province_map) {
   d <- m$data
   china <- !is.na(d$country) & tolower(d$country) == "china"
@@ -63,6 +73,8 @@ subsets <- function(m, province_map) {
   )
 }
 
+# STEP 9 — Exclude unknown groups and geography groups smaller than MIN_N.
+# This is part of inferential analysis, not country-prevalence computation.
 eligible_subset <- function(obj) {
   g <- trimws(as.character(obj$group))
   ok <- !is.na(g) & nzchar(g) & toupper(g) != "UNKNOWN"
@@ -77,6 +89,7 @@ eligible_subset <- function(obj) {
   list(X=X,g=g,sample=sam,SRRs_before_filter=n_pre)
 }
 
+# STEP 10 — Write consistent tab-delimited output for downstream summaries.
 save_tsv <- function(d, path) {
   dir.create(dirname(path),recursive=TRUE,showWarnings=FALSE)
   write.table(d,path,sep="\t",quote=FALSE,row.names=FALSE,na="")
