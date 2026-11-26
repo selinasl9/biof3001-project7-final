@@ -19,6 +19,8 @@
 # No external R packages required.
 # Run from project root: Rscript scripts/statistical_analysis/kruskal_dunn.R
 
+# STEP 1 — Configure paths and group-size threshold. All original strict-
+# positive SRRs are kept, even if none detects a retained cluster.
 ROOT <- "results"
 OUT <- file.path(ROOT, "statistical_analysis", "run_based_analysis", "kw_dunn_binary_detection", "all_runs")
 MIN_N <- as.integer(Sys.getenv("MIN_GROUP_N", "5"))
@@ -39,6 +41,8 @@ clean_group <- function(x) {
   x[is.na(x) | toupper(x) %in% c("", "NA", "N/A", "NONE", "UNKNOWN", "NOT AVAILABLE")] <- NA_character_
   x
 }
+# STEP 2 — Locate the complete run matrix and the filtered matrix header.
+# The latter defines which clusters count as retained for this condition.
 condition_paths <- function(id, filter) {
   full <- file.path(ROOT, "viral_clustering", "matrices",
                     sprintf("%s_aS60_aL60_run_with_singletons.tsv", id))
@@ -51,6 +55,9 @@ condition_paths <- function(id, filter) {
   }
   list(full = full, filtered = filtered)
 }
+# STEP 3 — Convert selected cluster columns into ONE binary outcome per SRR:
+# 1 = detects at least one retained cluster; 0 = detects none.
+# This is NOT a per-cluster significance test.
 read_detection <- function(id, filter) {
   paths <- condition_paths(id, filter)
   full <- read_tsv(paths$full)
@@ -68,6 +75,9 @@ read_detection <- function(id, filter) {
 }
 # Dunn ranks are pooled across ALL groups for the given omnibus comparison.
 # Tie correction is important because the response consists only of 0s and 1s.
+# STEP 4 — Rank pooled binary observations for tie-corrected Dunn
+# comparisons. Also compute Fisher exact tests for the 2×2 detection tables;
+# Fisher is informative because the outcome is binary.
 make_pairs <- function(y, g) {
   g <- factor(g)
   N <- length(y)
@@ -101,6 +111,8 @@ make_pairs <- function(y, g) {
   d
 }
 
+# STEP 5 — Join SRRs to provinces, checking that each SRR has one
+# unambiguous province assignment.
 province_file <- file.path(ROOT, "statistical_analysis", "run_based_analysis", "china_province_audit", "china_srr_provinces.tsv")
 prov <- read_tsv(province_file)
 if (!all(c("sample", "province") %in% names(prov))) stop("Province map requires sample, province")
@@ -108,6 +120,8 @@ if (anyNA(prov$sample) || anyDuplicated(prov$sample)) stop("Duplicate/empty samp
 province_by_sample <- setNames(clean_group(prov$province), as.character(prov$sample))
 
 kw_list <- list(); pair_list <- list(); audit_list <- list()
+# STEP 6 — Iterate over 90%/70% clustering and three frequency
+# thresholds; test countries and China provinces separately.
 for (id in c(90, 70)) for (filter in c("no_singletons", "min5", "min6")) {
   runs <- read_detection(id, filter)
   runs$province <- unname(province_by_sample[runs$sample])
@@ -135,6 +149,8 @@ for (id in c(90, 70)) for (filter in c("no_singletons", "min5", "min6")) {
       next
     }
     y <- work$detected
+    # STEP 7 — Perform Kruskal–Wallis omnibus comparison of group
+    # detection rates, with a neutral result if every SRR has the same outcome.
     kw <- if (length(unique(y)) > 1L) kruskal.test(y, work$group) else NULL
     kw_h <- if (is.null(kw)) 0 else as.numeric(kw$statistic)
     kw_p <- if (is.null(kw)) 1 else kw$p.value
@@ -155,6 +171,8 @@ if (!length(kw_list) || !length(pair_list)) stop("No valid analyses")
 KW <- do.call(rbind, kw_list)
 DN <- do.call(rbind, pair_list)
 # Correct the six omnibus tests separately for country and province scopes.
+# STEP 8 — Correct for multiple comparisons. BH is applied
+# separately to the country and province omnibus test families.
 KW$KW_p_BH_scope <- ave(KW$KW_p, KW$scope,
                          FUN = function(x) p.adjust(x, method = "BH"))
 combine_key <- function(x) paste(x$identity, x$filter, x$scope, sep = "|")
@@ -164,6 +182,8 @@ DN$KW_p <- KW$KW_p[idx]
 DN$KW_p_BH_scope <- KW$KW_p_BH_scope[idx]
 DN$significant_KW_and_Dunn_BH <- DN$KW_p_BH_scope < 0.05 & DN$Dunn_p_BH < 0.05
 DN$significant_Fisher_BH <- DN$Fisher_p_BH < 0.05
+# STEP 9 — Export all omnibus/pairwise results, selected significant
+# comparisons, a denominator audit, and a precise methods note.
 write_tsv(KW, file.path(OUT, "ALL_kruskal.tsv"))
 write_tsv(DN, file.path(OUT, "ALL_dunn_fisher_pairs.tsv"))
 write_tsv(DN[DN$significant_KW_and_Dunn_BH, , drop = FALSE],
