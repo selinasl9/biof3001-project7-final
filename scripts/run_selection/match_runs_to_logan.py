@@ -26,9 +26,9 @@ from collections import defaultdict
 # Paths are relative to the repo root; the Logan table sits outside the repo
 NCBI_LIST = "data/runs/SRR_Acc_List.csv"
 LOGAN_TABLE = os.path.expanduser("~/logan/logan_accessions_v1.2_SRA2025.csv.zst")
-OUT_MATCHES = "data/runs/logan_matches.tsv"
-OUT_BY_PROJECT = "data/runs/logan_matches_by_bioproject.tsv"
-OUT_NOT_IN_LOGAN = "data/runs/not_in_logan.txt"
+OUT_MATCHES = "results/run_selection/logan_matches.tsv"
+OUT_BY_PROJECT = "results/run_selection/logan_matches_by_bioproject.tsv"
+OUT_NOT_IN_LOGAN = "results/run_selection/not_in_logan.txt"
 ACC_COLUMN = "acc"
 WANTED_COLUMNS = [
     "acc",
@@ -115,7 +115,7 @@ def main():
     wanted = load_ncbi_accessions()
     print(f"NCBI runs (unique): {len(wanted)}")
 
-    # Step 3: stream the Logan table through zstdcat.
+    # Step 3: stream the Logan table through zstdcat
     proc = subprocess.Popen(["zstdcat", LOGAN_TABLE], stdout=subprocess.PIPE)
     stream = io.TextIOWrapper(proc.stdout, encoding="utf-8", errors="replace", newline="")
 

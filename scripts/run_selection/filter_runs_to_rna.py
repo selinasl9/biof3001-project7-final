@@ -2,7 +2,7 @@
 """
 filter_runs_to_rna.py
 
-Cut data/runs/logan_matches.tsv down to runs that are usable for virus screening,
+Cut results/run_selection/logan_matches.tsv down to runs that are usable for virus screening,
 and count how many runs each rule removes.
 
 Rules (applied in this order):
@@ -14,19 +14,19 @@ Rules (applied in this order):
                         because both research approaches need country info
 
 Outputs
-  data/runs/rna_runs.tsv               kept runs with rna_status column
-  data/runs/bioprojects_to_screen.tsv  kept runs grouped by BioProject, with
-                                       empty keep/reason columns for manual
-                                       screening
+  results/run_selection/rna_runs.tsv               kept runs with rna_status column
+  results/run_selection/bioprojects_to_screen.tsv  kept runs grouped by BioProject, with
+                                                   empty keep/reason columns for manual
+                                                   screening
 
 """
 
 import pandas as pd
 
 # File paths
-IN_MATCHES = "data/runs/logan_matches.tsv"
-OUT_RUNS = "data/runs/rna_runs.tsv"
-OUT_SCREEN = "data/runs/bioprojects_to_screen.tsv"
+IN_MATCHES = "results/run_selection/logan_matches.tsv"
+OUT_RUNS = "results/run_selection/rna_runs.tsv"
+OUT_SCREEN = "results/run_selection/bioprojects_to_screen.tsv"
 
 BIOPROJECT_URL = "https://www.ncbi.nlm.nih.gov/bioproject/{}"
 
