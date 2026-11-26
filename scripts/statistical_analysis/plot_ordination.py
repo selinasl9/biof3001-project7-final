@@ -24,14 +24,19 @@ import pandas as pd
 from scipy.spatial.distance import pdist,squareform
 from sklearn.manifold import MDS,TSNE
 
+# STEP 1 — Define the identity and feature-frequency settings used for plots.
 CONDITIONS=[(i,lab) for i in (90,70) for lab in ('no_singletons','min5','min6')]
 
+# STEP 2 — Resolve the informative-run matrix for each requested condition.
 def source_path(base,ident,filter_name):
     cond=f'{ident}_aS60_aL60'
     if filter_name=='no_singletons': return base/cond/'informative_runs_only.tsv'
     return base/f'{filter_name}_observations'/f'{cond}_informative_runs_{filter_name}.tsv'
 
+# STEP 3 — Embed a PRECOMPUTED Bray–Curtis distance matrix using NMDS or t-SNE.
+# A fixed seed improves reproducibility; independently fitted axes are not comparable.
 def fit(D,method,seed):
+# STEP 4 — Handle old/new scikit-learn MDS parameter names consistently.
     if method=='nmds':
         p=inspect.signature(MDS).parameters
         kw=dict(n_components=2,n_init=4,max_iter=500,eps=1e-5,random_state=seed,n_jobs=1)
@@ -47,11 +52,14 @@ def fit(D,method,seed):
     coords=TSNE(**kw).fit_transform(D)
     return coords,float('nan')
 
+# STEP 5 — Load one informative-run matrix and select geographic grouping.
 def analyse(source,analysis,prov,ident,fil,method,seed,out):
     if not source.is_file():raise FileNotFoundError(source)
     d=pd.read_csv(source,sep='\t')
     cols=[x for x in d if x.startswith('Cluster_')]
     if not cols or not {'sample','country'}.issubset(d.columns):raise ValueError(f'Invalid input matrix: {source}')
+# STEP 6 — Province ordination is fitted only to Chinese runs with province
+# metadata; it is not a recoloring of the global country ordination.
     if analysis=='china_province':
         d=d[d.country.astype(str).str.lower().eq('china')].copy()
         d['group']=d['sample'].astype(str).map(prov)
@@ -64,17 +72,21 @@ def analyse(source,analysis,prov,ident,fil,method,seed,out):
         print(f'SKIP {ident} {fil} {analysis}: insufficient samples/groups');return None
     if np.isnan(X).any() or (X<0).any():raise ValueError('Missing or negative cluster values')
     X=(X>0).astype(float)
+# STEP 7 — Calculate Bray–Curtis between binary viral-cluster profiles.
     D=squareform(pdist(X,metric='braycurtis'))
     if not np.isfinite(D).all():raise ValueError('Invalid Bray-Curtis matrix')
     # Preserve zero dissimilarity between identical samples: sklearn's older
     # SMACOF variants interpreted these as missing, so small epsilon off-diagonal.
     z=(D==0)&~np.eye(len(D),dtype=bool)
     D[z]=1e-9
+# STEP 8 — Project pairwise dissimilarities into two plotting coordinates.
     coords,stress=fit(D,method,seed)
     stem=f'{ident}_{fil}_{analysis}_{method}_braycurtis'
     points=d[['sample','country','group']].copy()
     points['axis1']=coords[:,0];points['axis2']=coords[:,1]
+# STEP 9 — Save coordinates separately so figures can be reproduced and audited.
     points.to_csv(out/f'{stem}_coordinates.tsv',sep='\t',index=False)
+# STEP 10 — Plot groups and save a static figure for presentation.
     fig,ax=plt.subplots(figsize=(9.5,7),dpi=125)
     cats=sorted(points.group.unique());palette=plt.get_cmap('tab20',max(20,len(cats)))
     for idx,c in enumerate(cats):
