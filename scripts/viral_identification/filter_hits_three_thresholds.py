@@ -2,7 +2,7 @@
 """BIOF3001 Project 7 — Mosquito RNA Virome.
 
 Script: filter_hits_three_thresholds.py
-Responsible contributor: [Confirm name before submission]
+
 
 Objective
 ---------
