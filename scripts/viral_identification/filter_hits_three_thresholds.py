@@ -3,7 +3,6 @@
 
 Script: filter_hits_three_thresholds.py
 
-
 Objective
 ---------
 Apply three alternative similarity-based filters to one-best-hit-per-contig
@@ -38,10 +37,16 @@ Run from any directory: python scripts/viral_identification/filter_hits_three_th
 from pathlib import Path
 import pandas as pd
 
+# STEP 1 — Resolve paths relative to the repository, not the current shell.
+# The script is two directories below the repository root (scripts/viral_identification).
+# This ensures inputs/outputs are found even when launched from another directory.
 ROOT = Path(__file__).resolve().parents[2]
 INPUT = ROOT / "results/summary/all_best_hits_with_metadata.tsv"
 OUTDIR = ROOT / "results/viral_identification/filtered"
 
+# STEP 2 — Declare the fields needed for filtering and for reporting results.
+# Required fields include the run/contig IDs and DIAMOND alignment statistics.
+# Explicit validation helps identify a changed or incomplete upstream summary.
 REQUIRED = {
     "sample", "qseqid", "sscinames", "pident", "qstart", "qend",
     "sstart", "send", "qlen", "slen", "evalue",
@@ -50,6 +55,8 @@ NUMERIC = ["pident", "qstart", "qend", "sstart", "send", "qlen", "slen", "evalue
 
 
 def main():
+    # STEP 3 — Check that the upstream best-hit summary exists before reading it.
+    # This table contains the selected DIAMOND hit for each contig, with sample metadata.
     if not INPUT.is_file():
         raise FileNotFoundError(f"Missing input: {INPUT}")
 
@@ -58,12 +65,23 @@ def main():
     if missing:
         raise ValueError(f"Missing columns in {INPUT}: {', '.join(sorted(missing))}")
 
+    # STEP 4 — Convert alignment fields to numbers before comparing thresholds.
+    # Unparseable values become NaN, which will not satisfy the numeric filters.
+    # The source table itself is retained, so no rows are silently removed here.
     for col in NUMERIC:
         df[col] = pd.to_numeric(df[col], errors="coerce")
 
-    # Invalid or zero lengths do not provide meaningful coverage.
+    # STEP 5 — Recalculate coverage from the aligned coordinate spans.
+    # The +1 accounts for inclusive alignment start/end coordinates; abs() also
+    # handles alignments reported in reverse coordinate order.
     df["query_aligned_span"] = (df["qend"] - df["qstart"]).abs() + 1
     df["subject_aligned_span"] = (df["send"] - df["sstart"]).abs() + 1
+
+    # Divide each span by its corresponding FULL sequence length (not by the
+    # length of the other sequence). Nonpositive lengths are treated as missing
+    # denominators rather than producing an interpretable coverage percentage.
+    # For BLASTx, qlen and qstart/qend are in nucleotides; slen and sstart/send
+    # are in amino acids. These separate ratios therefore preserve unit consistency.
     df["query_coverage_calc"] = (
         df["query_aligned_span"] / df["qlen"].where(df["qlen"] > 0) * 100
     )
@@ -71,25 +89,46 @@ def main():
         df["subject_aligned_span"] / df["slen"].where(df["slen"] > 0) * 100
     )
 
+    # STEP 6 — Apply the STRICT screening criteria independently.
+    # Keep a contig only if its protein-level sequence identity is at least 70%
+    # AND at least one of the query or subject coverage values reaches 80%.
     strict = df[
         (df["pident"] >= 70)
         & ((df["query_coverage_calc"] >= 80) | (df["subject_coverage_calc"] >= 80))
     ].copy()
+
+    # STEP 7 — Apply the LOOSE screening criteria to the ORIGINAL best-hit table.
+    # This alternative branch permits lower identity (>=30%) and coverage (>=50%)
+    # to retain more potentially divergent viral candidates for downstream checks.
     loose = df[
         (df["pident"] >= 30)
         & ((df["query_coverage_calc"] >= 50) | (df["subject_coverage_calc"] >= 50))
     ].copy()
+
+    # STEP 8 — Apply the E-VALUE-ONLY criterion, again to the original table.
+    # This branch selects statistically strong BLASTx matches without imposing
+    # additional identity or coverage cutoffs. The threshold is STRICTLY < 1e-5.
     evalue_only = df[df["evalue"] < 1e-5].copy()
 
+    # STEP 9 — Write a separate TSV for each independent candidate branch.
+    # Each output preserves the source annotation fields plus calculated coverage,
+    # so subsequent extraction and host-screening steps can trace each candidate.
     OUTDIR.mkdir(parents=True, exist_ok=True)
     for mode, result in [("strict", strict), ("loose", loose), ("evalue", evalue_only)]:
         filename = OUTDIR / f"{mode}_filtered_hits.tsv"
         result.to_csv(filename, sep="\t", index=False)
+
+        # STEP 10 — Report the number of retained rows, sequencing runs and
+        # reference scientific names for a quick audit of each filtering branch.
+        # These are reference annotation names, not validated viral species counts.
         print(
             f"{mode.upper()}: {len(result)} hits, "
             f"{result['sample'].nunique()} runs, "
             f"{result['sscinames'].nunique()} reference scientific names -> {filename}"
         )
+
+    # The three branches should not be interpreted as sequential filters: each
+    # was calculated directly from the same input summary.
     print(f"Original best-hit rows: {len(df)}")
     print("Filtering finished; branches are alternatives, not sequential filters.")
 
