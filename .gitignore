@@ -20,9 +20,9 @@ data/reference/taxonomy/
 *.sra
 
 # Host-filter intermediates
-results/host_filter/*_candidate_contigs.fa
-results/host_filter/blastn/
-results/host_filter/logs/
+results/viral_identification/host_filter/*_candidate_contigs.fa
+results/viral_identification/host_filter/blastn/
+results/viral_identification/host_filter/logs/
 
 # Python
 __pycache__/
