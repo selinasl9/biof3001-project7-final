@@ -25,7 +25,7 @@ Usage
 python scripts/viral_identification/china_supplement/extract_CN_PRJNA1003643_union.py
 
 Dependencies: Python 3 standard library.
-Responsible contributor: [Confirm before submission]
+
 
 The extraction fails if any requested contigs cannot be found, to avoid
 silently passing incomplete data to host screening. Edit LOGAN_DIR if this
